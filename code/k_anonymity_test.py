@@ -4,7 +4,7 @@ def main():
     data_path = "../data/Flight_DataSet.csv"
     anon = Anonymization(data_path)
 
-    k_values = [2, 5, 100]
+    k_values = [2, 5, 50]
     for k in k_values:
         anon.anonymize(k)
         anon.save_to_csv(f"../data/anonymized_data_k_{k}.csv")
