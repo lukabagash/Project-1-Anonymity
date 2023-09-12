@@ -38,50 +38,61 @@ class Anonymization:
         Level 2 Generalization: Adjust the Departure Date based on k-anonymity requirements.
         """
         # Group by the QIDs and count the number of records in each group.
-        groups = self.anonymized_data.groupby(['Gender', 'Airport Continent', 'Departure Date']).size().reset_index(name='count')
+        main_groups = self.anonymized_data.groupby(['Gender', 'Airport Continent'])
 
-        # Extract the month and year from the 'Departure Date' column.
-        groups['Year'] = groups['Departure Date'].dt.year
-        groups['Month'] = groups['Departure Date'].dt.month
-
-        # Sort the groups by Gender, Airport Continent, Month, and Year.
-        groups = groups.sort_values(['Gender', 'Airport Continent', 'Year', 'Month'])
-
-        i = 0
         new_dates = []
         utility_loss = 0
 
-        while i < len(groups):
-            # If the current group size is less than k, we need to generalize the date further.
-            if groups.iloc[i]['count'] < k:
-                start_year = groups.iloc[i]['Year']
-                start_month = groups.iloc[i]['Month']
-                end_year = start_year
-                end_month = start_month
-                count = groups.iloc[i]['count']
+        for _, group in main_groups:
+            # Sort the group by 'Departure Date'
+            group = group.sort_values('Departure Date')
 
-                # Keep adding records from the next groups until we have at least k records.
-                while count < k and i < len(groups) - 1:
-                    i += 1
-                    count += groups.iloc[i]['count']
-                    end_year = groups.iloc[i]['Year']
-                    end_month = groups.iloc[i]['Month']
+            # Create a subset group based on 'Departure Date' and count the records
+            subset_groups = group.groupby('Departure Date').size().reset_index(name='count')
 
-                # Set the new date range for the combined group.
-                new_dates.extend([f"{start_month}/{start_year}-{end_month}/{end_year}"] * count)
-                utility_loss += abs(end_month-start_month) * 0.001
-            else:
-                # If the group size is already at least k, keep the month and year as it is.
-                new_dates.extend([f"{groups.iloc[i]['Month']}/{groups.iloc[i]['Year']}"] * groups.iloc[i]['count'])
-            i += 1
+            i = 0
+            last_generalized_start_date = None
+            prev_count = None
+            while i < len(subset_groups):
+                if subset_groups.iloc[i]['count'] < k:
+                    start_date = subset_groups.iloc[i]['Departure Date']
+                    end_date = start_date
+                    count = subset_groups.iloc[i]['count']
+
+                    # Keep adding records from the next groups until we have at least k records.
+                    while count < k and i < len(subset_groups) - 1:
+                        i += 1
+                        count += subset_groups.iloc[i]['count']
+                        end_date = subset_groups.iloc[i]['Departure Date']
+
+                    # If we're at the last subset group and it's less than k, merge with the previous group
+                    if i == len(subset_groups) - 1 and count < k:
+                        # Remove the date range of the previous group from new_dates
+                        if prev_count:
+                            new_dates = new_dates[:-prev_count]
+                            count += prev_count  # Total count of both groups
+                        if last_generalized_start_date:
+                            start_date = last_generalized_start_date
+                        end_date = subset_groups.iloc[i]['Departure Date']  # End date of the last group
+                    # Set the new date range for the combined group.
+                    new_dates.extend([f"{start_date}--{end_date}"] * count)
+                    last_generalized_start_date = start_date
+                    prev_count = count
+
+                    utility_loss += count * 0.0001
+                else:
+                    new_dates.extend([subset_groups.iloc[i]['Departure Date']] * subset_groups.iloc[i]['count'])
+                i += 1
 
         # Sort the self.anonymized_data DataFrame in the same order as the groups DataFrame.
         self.anonymized_data = self.anonymized_data.sort_values(['Gender', 'Airport Continent', 'Departure Date'])
 
         # Directly assign the new_dates list to the 'Departure Date' column.
         self.anonymized_data['Departure Date'] = new_dates
-
         self.utility_value -= utility_loss
+
+
+
 
 
     def anonymize(self, k):
@@ -89,7 +100,6 @@ class Anonymization:
         Anonymize the data for a given k value.
         This is a placeholder and needs the actual anonymization logic.
         """
-        # TODO: Implement the actual anonymization logic here
         # Suppress the specified columns
         columns_to_suppress = ["Passenger ID", "First Name", "Last Name", "Nationality", "Pilot Name"]
 
@@ -106,6 +116,9 @@ class Anonymization:
         # If there are groups that don't meet the k-anonymity requirement, apply Level 2 Generalization
         if not insufficient_groups.empty:
             self.generalize_date_level_2(k)
+        
+        g = self.anonymized_data.groupby(['Gender', 'Airport Continent', 'Departure Date'])
+        print(g.filter(lambda x: len(x) < k))
 
 
     def save_to_csv(self, filename):
