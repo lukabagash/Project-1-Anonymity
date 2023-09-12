@@ -24,7 +24,7 @@ class Anonymization:
         utility_loss = len(columns_to_suppress) * 0.01
         self.utility_value -= utility_loss
 
-    def generalize_date_level_1(self):
+    def generalize_level_1(self):
         """
         Level 1 Generalization: Remove the day from the Departure Date.
         """
@@ -33,30 +33,34 @@ class Anonymization:
 
         self.utility_value -= 0.05
     
-    def generalize_date_level_2(self, k):
+    def generalize_level_2(self, k):
         """
-        Level 2 Generalization: Adjust the Departure Date based on k-anonymity requirements.
+        Level 2 Generalization: Adjust the Departure Date and Age based on k-anonymity requirements.
         """
         # Group by the QIDs and count the number of records in each group.
         main_groups = self.anonymized_data.groupby(['Gender', 'Airport Continent'])
 
         new_dates = []
+        new_ages = []
         utility_loss = 0
 
         for _, group in main_groups:
-            # Sort the group by 'Departure Date'
-            group = group.sort_values('Departure Date')
+            # Sort the group by 'Departure Date' and then by 'Age'
+            group = group.sort_values(['Departure Date', 'Age'])
 
-            # Create a subset group based on 'Departure Date' and count the records
-            subset_groups = group.groupby('Departure Date').size().reset_index(name='count')
+            # Create a subset group based on 'Departure Date' and 'Age' and count the records
+            subset_groups = group.groupby(['Departure Date', 'Age']).size().reset_index(name='count')
 
             i = 0
             last_generalized_start_date = None
+            last_generalized_start_age = None
             prev_count = None
             while i < len(subset_groups):
                 if subset_groups.iloc[i]['count'] < k:
                     start_date = subset_groups.iloc[i]['Departure Date']
+                    start_age = subset_groups.iloc[i]['Age']
                     end_date = start_date
+                    end_age = start_age
                     count = subset_groups.iloc[i]['count']
 
                     # Keep adding records from the next groups until we have at least k records.
@@ -64,35 +68,41 @@ class Anonymization:
                         i += 1
                         count += subset_groups.iloc[i]['count']
                         end_date = subset_groups.iloc[i]['Departure Date']
+                        end_age = subset_groups.iloc[i]['Age']
 
                     # If we're at the last subset group and it's less than k, merge with the previous group
                     if i == len(subset_groups) - 1 and count < k:
-                        # Remove the date range of the previous group from new_dates
                         if prev_count:
                             new_dates = new_dates[:-prev_count]
-                            count += prev_count  # Total count of both groups
+                            new_ages = new_ages[:-prev_count]
+                            count += prev_count
                         if last_generalized_start_date:
                             start_date = last_generalized_start_date
-                        end_date = subset_groups.iloc[i]['Departure Date']  # End date of the last group
-                    # Set the new date range for the combined group.
+                        if last_generalized_start_age:
+                            start_age = last_generalized_start_age
+                        end_date = subset_groups.iloc[i]['Departure Date']
+                        end_age = subset_groups.iloc[i]['Age']
+
+                    # Set the new date and age range for the combined group.
                     new_dates.extend([f"{start_date}--{end_date}"] * count)
+                    new_ages.extend([f"{start_age}--{end_age}"] * count)
                     last_generalized_start_date = start_date
+                    last_generalized_start_age = start_age
                     prev_count = count
 
                     utility_loss += count * 0.0001
                 else:
                     new_dates.extend([subset_groups.iloc[i]['Departure Date']] * subset_groups.iloc[i]['count'])
+                    new_ages.extend([str(subset_groups.iloc[i]['Age'])] * subset_groups.iloc[i]['count'])
                 i += 1
 
         # Sort the self.anonymized_data DataFrame in the same order as the groups DataFrame.
-        self.anonymized_data = self.anonymized_data.sort_values(['Gender', 'Airport Continent', 'Departure Date'])
+        self.anonymized_data = self.anonymized_data.sort_values(['Gender', 'Airport Continent', 'Departure Date', 'Age'])
 
-        # Directly assign the new_dates list to the 'Departure Date' column.
+        # Directly assign the new_dates and new_ages lists to the respective columns.
         self.anonymized_data['Departure Date'] = new_dates
+        self.anonymized_data['Age'] = new_ages
         self.utility_value -= utility_loss
-
-
-
 
 
     def anonymize(self, k):
@@ -107,17 +117,17 @@ class Anonymization:
             self.suppress_attributes(columns_to_suppress)
 
         # Level 1 Generalization
-        self.generalize_date_level_1()
+        self.generalize_level_1()
 
         # Check k-anonymity after Level 1
-        grouped = self.anonymized_data.groupby(['Gender', 'Airport Continent', 'Departure Date'])
+        grouped = self.anonymized_data.groupby(['Gender', 'Airport Continent', 'Departure Date', 'Age'])
         insufficient_groups = grouped.filter(lambda x: len(x) < k)
         
         # If there are groups that don't meet the k-anonymity requirement, apply Level 2 Generalization
         if not insufficient_groups.empty:
-            self.generalize_date_level_2(k)
+            self.generalize_level_2(k)
         
-        g = self.anonymized_data.groupby(['Gender', 'Airport Continent', 'Departure Date'])
+        g = self.anonymized_data.groupby(['Gender', 'Airport Continent', 'Departure Date', 'Age'])
         print(g.filter(lambda x: len(x) < k))
 
 
