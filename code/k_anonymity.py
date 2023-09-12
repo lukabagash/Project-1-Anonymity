@@ -13,11 +13,18 @@ class Anonymization:
         return pd.read_csv(data_path, encoding="ISO-8859-1")
 
 
+
     def suppress_attributes(self, columns_to_suppress):
         """
         Suppress the specified columns from the dataset.
         """
         self.anonymized_data = self.data.drop(columns=columns_to_suppress, errors='ignore')
+
+    def generalize_date(self):
+        """
+        Generalize the Departure Date by removing the day.
+        """
+        self.anonymized_data['Departure Date'] = pd.to_datetime(self.data['Departure Date']).dt.to_period('M')
 
     def anonymize(self, k):
         """
@@ -26,11 +33,14 @@ class Anonymization:
         """
         # TODO: Implement the actual anonymization logic here
         columns_to_suppress = ["Passenger ID", "First Name", "Last Name", "Nationality", "Airport Name", "Airport Country Code", "Country Name", "Continents", "Pilot Name"]
-        self.anonymized_data = self.data.copy()  # Placeholder: currently just copying the original data
         # Suppress the specified columns
 
         if columns_to_suppress:
             self.suppress_attributes(columns_to_suppress)
+        
+        self.generalize_date()
+        grouped = self.anonymized_data.groupby(['Gender', 'Airport Continent', 'Departure Date'])
+        print(grouped.filter(lambda x: len(x) >= k))
 
 
     def save_to_csv(self, filename):
