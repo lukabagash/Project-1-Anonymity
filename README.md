@@ -33,16 +33,16 @@ Before you can start anonymizing the flight data, you need to obtain the dataset
 
 To anonymize the flight data for different k-values (e.g., 2, 5, 50), follow these steps:
 
-1. Open the `k_anonymity.py` script.
+1. Open the `k_anonymity_test.py` script.
 2. Set the `data_path` variable to the path of your flight dataset:
 
 ```python
 data_path = "data/Flight_DataSet.csv"
 ```
 
-Run the `k_anonymity.py` script:
+Run the `k_anonymity_test.py` script:
 ```bash
-python k_anonymity.py
+python k_anonymity_test.py
 ```
 
 The script will perform k-anonymization for the specified k-values and save the anonymized datasets in the `data`/ directory with filenames like `anonymized_data_k_2.csv`, `anonymized_data_k_5.csv`, etc.
@@ -58,7 +58,7 @@ The utility scores for different k-values will be printed to the console.
 
 ## Results
 
-The anonymized datasets and their corresponding utility scores can be found in the `data`/ directory. You can use these datasets for further analysis while considering the trade-off between privacy (k-anonymity) and utility.
+The anonymized datasets can be found in the `data`/ directory. You can use these datasets for further analysis while considering the trade-off between privacy (k-anonymity) and utility.
 
 ## Acknowledgments
 Luka Bagash
