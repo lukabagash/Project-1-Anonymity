@@ -1,0 +1,1749 @@
+Gender,Age,Airport Name,Airport Country Code,Country Name,Airport Continent,Continents,Departure Date,Arrival Airport,Flight Status
+Female,36--80,Gitega Airport,BI,Burundi,AF,Africa,2022-01--2022-12,GID,Delayed
+Female,36--80,Lobatse Airport,BW,Botswana,AF,Africa,2022-01--2022-12,LOQ,On Time
+Female,36--80,River Cess Airport/Heliport,LR,Liberia,AF,Africa,2022-01--2022-12,RVC,Delayed
+Female,36--80,Hazyview Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,HZV,Cancelled
+Female,36--80,Ghanzi Airport,BW,Botswana,AF,Africa,2022-01--2022-12,GNZ,On Time
+Female,36--80,In Guezzam Airport,DZ,Algeria,AF,Africa,2022-01--2022-12,INF,Delayed
+Female,36--80,Tidjikja Airport,MR,Mauritania,AF,Africa,2022-01--2022-12,TIY,On Time
+Female,36--80,RAF Ascension Island,SH,"Saint Helena, Ascension and Tristan da Cunha",AF,Africa,2022-01--2022-12,ASI,Cancelled
+Female,36--80,Kribi Airport,CM,Cameroon,AF,Africa,2022-01--2022-12,KBI,On Time
+Female,36--80,Sesheke Airport,ZM,Zambia,AF,Africa,2022-01--2022-12,SJQ,Cancelled
+Female,36--80,Timbedra Airport,MR,Mauritania,AF,Africa,2022-01--2022-12,TMD,On Time
+Female,36--80,Ain el Beida Airport,DZ,Algeria,AF,Africa,2022-01--2022-12,OGX,On Time
+Female,36--80,Ech Cheliff Airport,DZ,Algeria,AF,Africa,2022-01--2022-12,CFK,Cancelled
+Female,36--80,Punia Airport,CD,"Congo, The Democratic Republic of the",AF,Africa,2022-01--2022-12,PUN,Cancelled
+Female,36--80,Maroantsetra Airport,MG,Madagascar,AF,Africa,2022-01--2022-12,WMN,Delayed
+Female,36--80,Thornhill Air Base,ZW,Zimbabwe,AF,Africa,2022-01--2022-12,GWE,Cancelled
+Female,36--80,Tamchakett Airport,MR,Mauritania,AF,Africa,2022-01--2022-12,THT,On Time
+Female,36--80,Ibo Airport,MZ,Mozambique,AF,Africa,2022-01--2022-12,IBO,Delayed
+Female,36--80,Masvingo International Airport,ZW,Zimbabwe,AF,Africa,2022-01--2022-12,MVZ,On Time
+Female,36--80,El Nouzha Airport,EG,Egypt,AF,Africa,2022-01--2022-12,ALY,Delayed
+Female,36--80,Moyale Airport,ET,Ethiopia,AF,Africa,2022-01--2022-12,MYS,On Time
+Female,36--80,Gamboma Airport,CG,Congo,AF,Africa,2022-01--2022-12,GMM,Delayed
+Female,36--80,Arba Minch Airport,ET,Ethiopia,AF,Africa,2022-01--2022-12,AMH,On Time
+Female,36--80,Gisenyi Airport,RW,Rwanda,AF,Africa,2022-01--2022-12,GYI,Delayed
+Female,36--80,El Nouzha Airport,EG,Egypt,AF,Africa,2022-01--2022-12,ALY,On Time
+Female,36--80,Boundji Airport,CG,Congo,AF,Africa,2022-01--2022-12,BOE,Delayed
+Female,36--80,Akieni Airport,GA,Gabon,AF,Africa,2022-01--2022-12,AKE,Delayed
+Female,36--80,Ibo Airport,MZ,Mozambique,AF,Africa,2022-01--2022-12,IBO,Cancelled
+Female,36--80,Sabha Airport,LY,Libya,AF,Africa,2022-01--2022-12,SEB,Cancelled
+Female,36--80,Malanje Airport,AO,Angola,AF,Africa,2022-01--2022-12,MEG,Cancelled
+Female,36--80,Bumbar Airport,CD,"Congo, The Democratic Republic of the",AF,Africa,2022-01--2022-12,BMB,On Time
+Female,36--80,En Nahud Airport,SD,Sudan,AF,Africa,2022-01--2022-12,NUD,Cancelled
+Female,36--80,En Nahud Airport,SD,Sudan,AF,Africa,2022-01--2022-12,NUD,On Time
+Female,36--80,Ouahigouya Airport,BF,Burkina Faso,AF,Africa,2022-01--2022-12,OUG,On Time
+Female,36--80,Chinde Airport,MZ,Mozambique,AF,Africa,2022-01--2022-12,INE,Cancelled
+Female,36--80,Mwadui Airport,TZ,"Tanzania, United Republic of",AF,Africa,2022-01--2022-12,MWN,Delayed
+Female,36--80,Kolwezi Airport,CD,"Congo, The Democratic Republic of the",AF,Africa,2022-01--2022-12,KWZ,On Time
+Female,36--80,Bella Yella Airport,LR,Liberia,AF,Africa,2022-01--2022-12,BYL,Cancelled
+Female,36--80,Mendi Airport,ET,Ethiopia,AF,Africa,2022-01--2022-12,NDM,On Time
+Female,36--80,Sehonghong Airport,LS,Lesotho,AF,Africa,2022-01--2022-12,SHK,Delayed
+Female,36--80,Wilwal International Airport,ET,Ethiopia,AF,Africa,2022-01--2022-12,JIJ,Cancelled
+Female,36--80,Kololo Airstrip,UG,Uganda,AF,Africa,2022-01--2022-12,KLA,Delayed
+Female,36--80,Masvingo International Airport,ZW,Zimbabwe,AF,Africa,2022-01--2022-12,MVZ,Delayed
+Female,36--80,Njombe Airport,TZ,"Tanzania, United Republic of",AF,Africa,2022-01--2022-12,JOM,Cancelled
+Female,36--80,Tanda Tula Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,TDT,Cancelled
+Female,36--80,Tippi Airport,ET,Ethiopia,AF,Africa,2022-01--2022-12,TIE,Delayed
+Female,36--80,Hazyview Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,HZV,Delayed
+Female,36--80,Oudtshoorn Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,OUH,Cancelled
+Female,36--80,Mbandaka Airport,CD,"Congo, The Democratic Republic of the",AF,Africa,2022-01--2022-12,MDK,On Time
+Female,36--80,Mulika Lodge Airport,KE,Kenya,AF,Africa,2022-01--2022-12,JJM,Cancelled
+Female,36--80,Alexander Bay Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,ALJ,Cancelled
+Female,36--80,Jinja Airport,UG,Uganda,AF,Africa,2022-01--2022-12,JIN,On Time
+Female,36--80,Timbedra Airport,MR,Mauritania,AF,Africa,2022-01--2022-12,TMD,Cancelled
+Female,36--80,Kaoma Airport,ZM,Zambia,AF,Africa,2022-01--2022-12,KMZ,Delayed
+Female,36--80,Sir Seretse Khama International Airport,BW,Botswana,AF,Africa,2022-01--2022-12,GBE,On Time
+Female,36--80,Port Berg Airport,MG,Madagascar,AF,Africa,2022-01--2022-12,WPB,On Time
+Female,36--80,Mafeteng Airport,LS,Lesotho,AF,Africa,2022-01--2022-12,MFC,Delayed
+Female,36--80,Enfidha - Hammamet International Airport,TN,Tunisia,AF,Africa,2022-01--2022-12,NBE,On Time
+Female,36--80,Buta Zega Airport,CD,"Congo, The Democratic Republic of the",AF,Africa,2022-01--2022-12,BZU,On Time
+Female,36--80,Ponta do Ouro Airport,MZ,Mozambique,AF,Africa,2022-01--2022-12,PDD,Cancelled
+Female,36--80,Massawa International Airport,ER,Eritrea,AF,Africa,2022-01--2022-12,MSW,On Time
+Female,36--80,Arathusa Safari Lodge Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,ASS,Delayed
+Female,36--80,Palma Airport,MZ,Mozambique,AF,Africa,2022-01--2022-12,LMZ,Cancelled
+Female,36--80,Ngjiva Pereira Airport,AO,Angola,AF,Africa,2022-01--2022-12,VPE,On Time
+Female,36--80,Malabo Airport,GQ,Equatorial Guinea,AF,Africa,2022-01--2022-12,SSG,Delayed
+Female,36--80,Mekele Airport,ET,Ethiopia,AF,Africa,2022-01--2022-12,MQX,Cancelled
+Female,36--80,Menara Airport,MA,Morocco,AF,Africa,2022-01--2022-12,RAK,Cancelled
+Female,36--80,Kabala Airport,SL,Sierra Leone,AF,Africa,2022-01--2022-12,KBA,Delayed
+Female,36--80,Cheikh Larbi Tbessi Airport,DZ,Algeria,AF,Africa,2022-01--2022-12,TEE,Delayed
+Female,36--80,Djibouti-Ambouli Airport,DJ,Djibouti,AF,Africa,2022-01--2022-12,JIB,Cancelled
+Female,36--80,Voinjama Airport,LR,Liberia,AF,Africa,2022-01--2022-12,VOI,On Time
+Female,36--80,Hassi R'Mel Airport,DZ,Algeria,AF,Africa,2022-01--2022-12,HRM,Cancelled
+Female,36--80,Andapa Airport,MG,Madagascar,AF,Africa,2022-01--2022-12,ZWA,Delayed
+Female,36--80,Ellisras Matimba Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,ELL,Cancelled
+Female,36--80,Tchongorove Airport,GA,Gabon,AF,Africa,2022-01--2022-12,IGE,Cancelled
+Female,36--80,Masvingo International Airport,ZW,Zimbabwe,AF,Africa,2022-01--2022-12,MVZ,Cancelled
+Female,36--80,Robertson Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,ROD,Delayed
+Female,36--80,Voinjama Airport,LR,Liberia,AF,Africa,2022-01--2022-12,VOI,On Time
+Female,36--80,Arly Airport,BF,Burkina Faso,AF,Africa,2022-01--2022-12,ARL,Cancelled
+Female,36--80,Banfora Airport,BF,Burkina Faso,AF,Africa,2022-01--2022-12,BNR,On Time
+Female,36--80,N'Kolo-Fuma Airport,CD,"Congo, The Democratic Republic of the",AF,Africa,2022-01--2022-12,NKL,On Time
+Female,36--80,Wau Airport,SS,South Sudan,AF,Africa,2022-01--2022-12,WUU,On Time
+Female,36--80,Arathusa Safari Lodge Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,ASS,Cancelled
+Female,36--80,Mecheria Airport,DZ,Algeria,AF,Africa,2022-01--2022-12,MZW,Delayed
+Female,36--80,Tsletsi Airport,DZ,Algeria,AF,Africa,2022-01--2022-12,QDJ,Cancelled
+Female,36--80,Kuito Airport,AO,Angola,AF,Africa,2022-01--2022-12,SVP,Cancelled
+Female,36--80,Smara Airport,EH,Western Sahara,AF,Africa,2022-01--2022-12,SMW,Delayed
+Female,36--80,Damazin Airport,SD,Sudan,AF,Africa,2022-01--2022-12,RSS,On Time
+Female,36--80,Makurdi Airport,NG,Nigeria,AF,Africa,2022-01--2022-12,MDI,Delayed
+Female,36--80,Odienne Airport,CI,CÃ´te d'Ivoire,AF,Africa,2022-01--2022-12,KEO,Delayed
+Female,36--80,Rabil Airport,CV,Cabo Verde,AF,Africa,2022-01--2022-12,BVC,On Time
+Female,36--80,Oudtshoorn Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,OUH,Delayed
+Female,36--80,Musoma Airport,TZ,"Tanzania, United Republic of",AF,Africa,2022-01--2022-12,MUZ,Delayed
+Female,4--19,Imphal Airport,IN,India,AS,Asia,2022-01--2022-05,IMF,On Time
+Female,4--19,CÃ  Mau Airport,VN,Viet Nam,AS,Asia,2022-01--2022-05,CAH,Cancelled
+Female,4--19,Zabol Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-01--2022-05,ACZ,On Time
+Female,4--19,Fasa Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-01--2022-05,FAZ,Delayed
+Female,4--19,Thumrait Air Base,OM,Oman,AS,Asia,2022-01--2022-05,TTH,Cancelled
+Female,4--19,Aek Godang Airport,ID,Indonesia,AS,Asia,2022-01--2022-05,AEG,On Time
+Female,4--19,Gorakhpur Airport,IN,India,AS,Asia,2022-01--2022-05,GOP,Cancelled
+Female,4--19,Luang Phabang International Airport,LA,Lao People's Democratic Republic,AS,Asia,2022-01--2022-05,LPQ,Cancelled
+Female,4--19,Pu'er Simao Airport,CN,China,AS,Asia,2022-01--2022-05,SYM,On Time
+Female,4--19,Shah Mokhdum Airport,BD,Bangladesh,AS,Asia,2022-01--2022-05,RJH,On Time
+Female,4--19,Van Ferit Melen Airport,TR,Turkey,AS,Asia,2022-01--2022-05,VAN,Cancelled
+Female,4--19,Bazhong Enyang Airport,CN,China,AS,Asia,2022-01--2022-05,BZX,On Time
+Female,4--19,Donoi Airport,MN,Mongolia,AS,Asia,2022-01--2022-05,ULZ,On Time
+Female,4--19,Yangyang International Airport,KR,"Korea, Republic of",AS,Asia,2022-01--2022-05,YNY,On Time
+Female,4--19,Ie Jima Airport,JP,Japan,AS,Asia,2022-01--2022-05,IEJ,Delayed
+Female,4--19,Sharm El Sheikh International Airport,EG,Egypt,AS,Asia,2022-01--2022-05,SSH,On Time
+Female,4--19,Pangsuma Airport,ID,Indonesia,AS,Asia,2022-01--2022-05,PSU,On Time
+Female,4--19,Zhob Airport,PK,Pakistan,AS,Asia,2022-01--2022-05,PZH,Cancelled
+Female,4--19,Ramsar Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-01--2022-05,RZR,Delayed
+Female,4--19,Hachijojima Airport,JP,Japan,AS,Asia,2022-01--2022-05,HAC,Delayed
+Female,4--19,Pune Airport,IN,India,AS,Asia,2022-01--2022-05,PNQ,On Time
+Female,4--19,Phu Cat Airport,VN,Viet Nam,AS,Asia,2022-01--2022-05,UIH,Delayed
+Female,4--19,Jodhpur Airport,IN,India,AS,Asia,2022-01--2022-05,JDH,On Time
+Female,4--19,Batticaloa Airport,LK,Sri Lanka,AS,Asia,2022-01--2022-05,BTC,Cancelled
+Female,4--19,Lekhwair Airport,OM,Oman,AS,Asia,2022-01--2022-05,LKW,Cancelled
+Female,4--19,Seunagan Airport,ID,Indonesia,AS,Asia,2022-01--2022-05,MEQ,On Time
+Female,4--19,Termez Airport,UZ,Uzbekistan,AS,Asia,2022-01--2022-05,TMJ,Delayed
+Female,4--19,Nejran Airport,SA,Saudi Arabia,AS,Asia,2022-01--2022-05,EAM,On Time
+Female,4--19,Qianjiang Wulingshan Airport,CN,China,AS,Asia,2022-01--2022-05,JIQ,Delayed
+Female,4--19,Tumling Tar Airport,NP,Nepal,AS,Asia,2022-01--2022-05,TMI,On Time
+Female,4--19,Meghauli Airport,NP,Nepal,AS,Asia,2022-01--2022-05,MEY,Delayed
+Female,4--19,Handan Airport,CN,China,AS,Asia,2022-01--2022-05,HDG,Delayed
+Female,4--19,Loralai Airport,PK,Pakistan,AS,Asia,2022-01--2022-05,LRG,Delayed
+Female,4--19,Yinchuan Hedong International Airport,CN,China,AS,Asia,2022-01--2022-05,INC,Delayed
+Female,4--19,Shahid Ashrafi Esfahani Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-01--2022-05,KSH,Delayed
+Female,4--19,Fukushima Airport,JP,Japan,AS,Asia,2022-01--2022-05,FKS,Cancelled
+Female,4--19,Zhoushuizi Airport,CN,China,AS,Asia,2022-01--2022-05,DLC,Delayed
+Female,4--19,Kuala Lumpur International Airport,MY,Malaysia,AS,Asia,2022-01--2022-05,KUL,On Time
+Female,4--19,LTS Pulau Redang Airport,MY,Malaysia,AS,Asia,2022-01--2022-05,RDN,Delayed
+Female,4--19,Fakfak Airport,ID,Indonesia,AS,Asia,2022-01--2022-05,FKQ,Cancelled
+Female,4--19,Sawan Airport,PK,Pakistan,AS,Asia,2022-01--2022-05,RZS,On Time
+Female,4--19,Thumrait Air Base,OM,Oman,AS,Asia,2022-01--2022-05,TTH,Delayed
+Female,4--19,Bhadrapur Airport,NP,Nepal,AS,Asia,2022-01--2022-05,BDP,Cancelled
+Female,4--19,Sharana Airstrip,AF,Afghanistan,AS,Asia,2022-01--2022-05,OAS,Cancelled
+Female,4--19,Meghauli Airport,NP,Nepal,AS,Asia,2022-01--2022-05,MEY,On Time
+Female,4--19,Khatgal Airport,MN,Mongolia,AS,Asia,2022-01--2022-05,HTM,On Time
+Female,4--19,Fuzhou Changle International Airport,CN,China,AS,Asia,2022-01--2022-05,FOC,On Time
+Female,4--19,Mendeleyevo Airport,RU,Russian Federation,AS,Asia,2022-01--2022-05,DEE,Cancelled
+Female,4--19,Kadena Air Base,JP,Japan,AS,Asia,2022-01--2022-05,DNA,On Time
+Female,4--19,Jam Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-01--2022-05,KNR,On Time
+Female,25--24,Zilfi Airport,SA,Saudi Arabia,AS,Asia,2022-05--2022-08,ZUL,Delayed
+Female,25--24,Amman-Marka International Airport,JO,Jordan,AS,Asia,2022-05--2022-08,ADJ,On Time
+Female,25--24,Lyudao Airport,TW,"Taiwan, Province of China",AS,Asia,2022-05--2022-08,GNI,Delayed
+Female,25--24,Karamay Airport,CN,China,AS,Asia,2022-05--2022-08,KRY,On Time
+Female,25--24,Sultan Khairun Babullah Airport,ID,Indonesia,AS,Asia,2022-05--2022-08,TTE,Cancelled
+Female,25--24,Zhigansk Airport,RU,Russian Federation,AS,Asia,2022-05--2022-08,ZIX,Cancelled
+Female,25--24,Raja Bhoj International Airport,IN,India,AS,Asia,2022-05--2022-08,BHO,Cancelled
+Female,25--24,Baruun Urt Airport,MN,Mongolia,AS,Asia,2022-05--2022-08,UUN,Delayed
+Female,25--24,Macau International Airport,MO,Macao,AS,Asia,2022-05--2022-08,MFM,Delayed
+Female,25--24,Passikudah Helipad,LK,Sri Lanka,AS,Asia,2022-05--2022-08,PQD,Delayed
+Female,25--24,Dongji Aiport,CN,China,AS,Asia,2022-05--2022-08,FYJ,Cancelled
+Female,25--24,Ben Ya'akov Airport,IL,Israel,AS,Asia,2022-05--2022-08,RPN,Delayed
+Female,25--24,Yichun Mingyueshan Airport,CN,China,AS,Asia,2022-05--2022-08,YIC,On Time
+Female,25--24,Sangir Airport,ID,Indonesia,AS,Asia,2022-05--2022-08,SAE,On Time
+Female,25--24,Nevatim Air Base,IL,Israel,AS,Asia,2022-05--2022-08,VTM,Delayed
+Female,25--24,Lombok International Airport,ID,Indonesia,AS,Asia,2022-05--2022-08,LOP,Cancelled
+Female,25--24,Tissa Tank Waterdrome,LK,Sri Lanka,AS,Asia,2022-05--2022-08,TTW,Delayed
+Female,25--24,Wattay International Airport,LA,Lao People's Democratic Republic,AS,Asia,2022-05--2022-08,VTE,On Time
+Female,25--24,Yeosu Airport,KR,"Korea, Republic of",AS,Asia,2022-05--2022-08,RSU,Cancelled
+Female,25--24,Masalembo Airport,ID,Indonesia,AS,Asia,2022-05--2022-08,MSI,Delayed
+Female,25--24,Takhli Airport,TH,Thailand,AS,Asia,2022-05--2022-08,TKH,Cancelled
+Female,25--24,Laguindingan Airport,PH,Philippines,AS,Asia,2022-05--2022-08,CGY,On Time
+Female,25--24,Agra Airport,IN,India,AS,Asia,2022-05--2022-08,AGR,On Time
+Female,25--24,Wuhan Tianhe International Airport,CN,China,AS,Asia,2022-05--2022-08,WUH,Cancelled
+Female,25--24,Malda Airport,IN,India,AS,Asia,2022-05--2022-08,LDA,Cancelled
+Female,25--24,Altai Airport,MN,Mongolia,AS,Asia,2022-05--2022-08,LTI,Delayed
+Female,25--24,Ordu Giresun Airport,TR,Turkey,AS,Asia,2022-05--2022-08,OGU,On Time
+Female,25--24,Wana Airport,PK,Pakistan,AS,Asia,2022-05--2022-08,WAF,Cancelled
+Female,25--24,Akita Airport,JP,Japan,AS,Asia,2022-05--2022-08,AXT,Delayed
+Female,25--24,Arxan Yi'ershi Airport,CN,China,AS,Asia,2022-05--2022-08,YIE,Delayed
+Female,25--24,Lamerd Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-05--2022-08,LFM,Cancelled
+Female,25--24,Erzurum International Airport,TR,Turkey,AS,Asia,2022-05--2022-08,ERZ,Delayed
+Female,25--24,Yasser Arafat International Airport,PS,"Palestine, State of",AS,Asia,2022-05--2022-08,GZA,Cancelled
+Female,25--24,Vladivostok International Airport,RU,Russian Federation,AS,Asia,2022-05--2022-08,VVO,On Time
+Female,25--24,Dali Airport,CN,China,AS,Asia,2022-05--2022-08,DLU,On Time
+Female,25--24,Hengchun Airport,TW,"Taiwan, Province of China",AS,Asia,2022-05--2022-08,HCN,On Time
+Female,25--24,Tobolsk Airport,RU,Russian Federation,AS,Asia,2022-05--2022-08,TOX,Cancelled
+Female,25--24,Sibu Airport,MY,Malaysia,AS,Asia,2022-05--2022-08,SBW,On Time
+Female,25--24,Wanxian Airport,CN,China,AS,Asia,2022-05--2022-08,WXN,On Time
+Female,25--24,Kamishly Airport,SY,Syrian Arab Republic,AS,Asia,2022-05--2022-08,KAC,Cancelled
+Female,25--24,Rar Gwamar Airport,ID,Indonesia,AS,Asia,2022-05--2022-08,DOB,Delayed
+Female,25--24,Shaikh Zaid Airport,PK,Pakistan,AS,Asia,2022-05--2022-08,RYK,Delayed
+Female,25--24,Lar Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-05--2022-08,LRR,Delayed
+Female,25--24,Murod Kond Airport,IN,India,AS,Asia,2022-05--2022-08,LTU,On Time
+Female,25--24,Tarko-Sale Airport,RU,Russian Federation,AS,Asia,2022-05--2022-08,TQL,On Time
+Female,25--24,Rajiv Gandhi International Airport,IN,India,AS,Asia,2022-05--2022-08,HYD,Cancelled
+Female,25--24,Hissar Airport,IN,India,AS,Asia,2022-05--2022-08,HSS,Cancelled
+Female,25--24,Dachuan Airport,CN,China,AS,Asia,2022-05--2022-08,DAX,On Time
+Female,25--24,Dien Bien Phu Airport,VN,Viet Nam,AS,Asia,2022-05--2022-08,DIN,Delayed
+Female,25--24,Reko Diq Airport,PK,Pakistan,AS,Asia,2022-05--2022-08,REQ,On Time
+Female,34--89,Golmud Airport,CN,China,AS,Asia,2022-08--2022-12,GOQ,On Time
+Female,34--89,ÃEEÄ±ldÄ±r Airport,TR,Turkey,AS,Asia,2022-08--2022-12,CII,Cancelled
+Female,34--89,AdÄ±yaman Airport,TR,Turkey,AS,Asia,2022-08--2022-12,ADF,Delayed
+Female,34--89,Nyingchi Airport,CN,China,AS,Asia,2022-08--2022-12,LZY,On Time
+Female,34--89,Shahid Sadooghi Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-08--2022-12,AZD,Cancelled
+Female,34--89,Betoambari Airport,ID,Indonesia,AS,Asia,2022-08--2022-12,BUW,Delayed
+Female,34--89,Osmany International Airport,BD,Bangladesh,AS,Asia,2022-08--2022-12,ZYL,Delayed
+Female,34--89,Ningbo Lishe International Airport,CN,China,AS,Asia,2022-08--2022-12,NGB,On Time
+Female,34--89,Simara Airport,NP,Nepal,AS,Asia,2022-08--2022-12,SIF,Delayed
+Female,34--89,Quzhou Airport,CN,China,AS,Asia,2022-08--2022-12,JUZ,On Time
+Female,34--89,Subic Bay International Airport,PH,Philippines,AS,Asia,2022-08--2022-12,SFS,Delayed
+Female,34--89,Qayyarah West Airport,IQ,Iraq,AS,Asia,2022-08--2022-12,RQW,Cancelled
+Female,34--89,Syamsudin Noor Airport,ID,Indonesia,AS,Asia,2022-08--2022-12,BDJ,Cancelled
+Female,34--89,Osmanabad Airport,IN,India,AS,Asia,2022-08--2022-12,OMN,Cancelled
+Female,34--89,Erbil International Airport,IQ,Iraq,AS,Asia,2022-08--2022-12,EBL,Cancelled
+Female,34--89,Sayaboury Airport,LA,Lao People's Democratic Republic,AS,Asia,2022-08--2022-12,ZBY,Delayed
+Female,34--89,Ahwaz Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-08--2022-12,AWZ,Delayed
+Female,34--89,Fukui Airport,JP,Japan,AS,Asia,2022-08--2022-12,FKJ,On Time
+Female,34--89,Nanki Shirahama Airport,JP,Japan,AS,Asia,2022-08--2022-12,SHM,Cancelled
+Female,34--89,Wang-an Airport,TW,"Taiwan, Province of China",AS,Asia,2022-08--2022-12,WOT,Cancelled
+Female,34--89,Aksu Airport,CN,China,AS,Asia,2022-08--2022-12,AKU,Cancelled
+Female,34--89,Bagan Airport,MM,Myanmar,AS,Asia,2022-08--2022-12,NYU,Delayed
+Female,34--89,Khovd Airport,MN,Mongolia,AS,Asia,2022-08--2022-12,HVD,Cancelled
+Female,34--89,Beersheba (Teyman) Airport,IL,Israel,AS,Asia,2022-08--2022-12,BEV,Delayed
+Female,34--89,Konya Airport,TR,Turkey,AS,Asia,2022-08--2022-12,KYA,Delayed
+Female,34--89,Fakfak Airport,ID,Indonesia,AS,Asia,2022-08--2022-12,FKQ,Delayed
+Female,34--89,Mt. Fuji Shizuoka Airport,JP,Japan,AS,Asia,2022-08--2022-12,FSZ,Delayed
+Female,34--89,Dera Ismael Khan Airport,PK,Pakistan,AS,Asia,2022-08--2022-12,DSK,On Time
+Female,34--89,Saumlaki/Olilit Airport,ID,Indonesia,AS,Asia,2022-08--2022-12,SXK,On Time
+Female,34--89,Matsu Nangan Airport,TW,"Taiwan, Province of China",AS,Asia,2022-08--2022-12,LZN,On Time
+Female,34--89,Liupanshui Yuezhao Airport,CN,China,AS,Asia,2022-08--2022-12,LPF,On Time
+Female,34--89,Persian Gulf International Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-08--2022-12,PGU,Delayed
+Female,34--89,Nanjing Lukou Airport,CN,China,AS,Asia,2022-08--2022-12,NKG,Cancelled
+Female,34--89,Sardar Vallabhbhai Patel International Airport,IN,India,AS,Asia,2022-08--2022-12,AMD,Delayed
+Female,34--89,Apalapsili Airport,ID,Indonesia,AS,Asia,2022-08--2022-12,AAS,On Time
+Female,34--89,Dimapur Airport,IN,India,AS,Asia,2022-08--2022-12,DMU,Delayed
+Female,34--89,Ilam Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-08--2022-12,IIL,Cancelled
+Female,34--89,Huizhou Airport,CN,China,AS,Asia,2022-08--2022-12,HUZ,Delayed
+Female,34--89,Dong Tac Airport,VN,Viet Nam,AS,Asia,2022-08--2022-12,TBB,Cancelled
+Female,34--89,Gangaw Airport,MM,Myanmar,AS,Asia,2022-08--2022-12,GAW,Cancelled
+Female,34--89,Nakashibetsu Airport,JP,Japan,AS,Asia,2022-08--2022-12,SHB,On Time
+Female,34--89,Camp Bastion Airport,AF,Afghanistan,AS,Asia,2022-08--2022-12,OAZ,On Time
+Female,34--89,Awang Airport,PH,Philippines,AS,Asia,2022-08--2022-12,CBO,Delayed
+Female,34--89,Al Thaurah Airport,SY,Syrian Arab Republic,AS,Asia,2022-08--2022-12,SOR,Delayed
+Female,34--89,Sepulot Airport,MY,Malaysia,AS,Asia,2022-08--2022-12,SPE,Cancelled
+Female,34--89,Dr. Babasaheb Ambedkar International Airport,IN,India,AS,Asia,2022-08--2022-12,NAG,Cancelled
+Female,34--89,Jiri Airport,NP,Nepal,AS,Asia,2022-08--2022-12,JIR,Delayed
+Female,34--89,Nanjing Lukou Airport,CN,China,AS,Asia,2022-08--2022-12,NKG,Delayed
+Female,34--89,Putao Airport,MM,Myanmar,AS,Asia,2022-08--2022-12,PBU,Cancelled
+Female,34--89,Sri Guru Ram Dass Jee International Airport,IN,India,AS,Asia,2022-08--2022-12,ATQ,Cancelled
+Female,34--89,Taichung Ching Chuang Kang Airport,TW,"Taiwan, Province of China",AS,Asia,2022-08--2022-12,RMQ,On Time
+Female,34--89,Fergana International Airport,UZ,Uzbekistan,AS,Asia,2022-08--2022-12,FEG,On Time
+Female,34--89,Barisal Airport,BD,Bangladesh,AS,Asia,2022-08--2022-12,BZL,Cancelled
+Female,34--89,Mindiptana Airport,ID,Indonesia,AS,Asia,2022-08--2022-12,MDP,Delayed
+Female,34--89,Yeniseysk Airport,RU,Russian Federation,AS,Asia,2022-08--2022-12,EIE,Cancelled
+Female,34--89,Osmany International Airport,BD,Bangladesh,AS,Asia,2022-08--2022-12,ZYL,Delayed
+Female,34--89,Mahshahr Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-08--2022-12,MRX,Delayed
+Female,34--89,General Santos International Airport,PH,Philippines,AS,Asia,2022-08--2022-12,GES,Delayed
+Female,7--81,Porto Santo Airport,PT,Portugal,EU,Europe,2022-01--2022-06,PXO,Delayed
+Female,7--81,Lugano Airport,CH,Switzerland,EU,Europe,2022-01--2022-06,LUG,On Time
+Female,7--81,RAF Benson,GB,United Kingdom,EU,Europe,2022-01--2022-06,BEX,Delayed
+Female,7--81,KÃ¶then Airport,DE,Germany,EU,Europe,2022-01--2022-06,KOQ,Delayed
+Female,7--81,Orange-Caritat (BA 115) Air Base,FR,France,EU,Europe,2022-01--2022-06,XOG,Cancelled
+Female,7--81,Sofia Airport,BG,Bulgaria,EU,Europe,2022-01--2022-06,SOF,On Time
+Female,7--81,Norwich International Airport,GB,United Kingdom,EU,Europe,2022-01--2022-06,NWI,Delayed
+Female,7--81,"ChÃ¢teauroux-Dols ""Marcel Dassault"" Airport",FR,France,EU,Europe,2022-01--2022-06,CHR,On Time
+Female,7--81,Fontaine Airport,FR,France,EU,Europe,2022-01--2022-06,BOR,Delayed
+Female,7--81,Holt Airport,IS,Iceland,EU,Europe,2022-01--2022-06,FLI,On Time
+Female,7--81,RNAS Yeovilton,GB,United Kingdom,EU,Europe,2022-01--2022-06,YEO,Delayed
+Female,7--81,Merville-Calonne Airport,FR,France,EU,Europe,2022-01--2022-06,HZB,On Time
+Female,7--81,Brest Airport,BY,Belarus,EU,Europe,2022-01--2022-06,BQT,Delayed
+Female,7--81,RAF Wildenrath,DE,Germany,EU,Europe,2022-01--2022-06,WID,Cancelled
+Female,7--81,Abbeville,FR,France,EU,Europe,2022-01--2022-06,XAB,Cancelled
+Female,7--81,Land's End Airport,GB,United Kingdom,EU,Europe,2022-01--2022-06,LEQ,Cancelled
+Female,7--81,Ramstein Air Base,DE,Germany,EU,Europe,2022-01--2022-06,RMS,On Time
+Female,7--81,Yoshkar-Ola Airport,RU,Russian Federation,EU,Europe,2022-01--2022-06,JOK,On Time
+Female,7--81,Silistra Polkovnik Lambrinovo Air Base,BG,Bulgaria,EU,Europe,2022-01--2022-06,SLS,Delayed
+Female,7--81,Sodankyla Airport,FI,Finland,EU,Europe,2022-01--2022-06,SOT,On Time
+Female,7--81,Zagreb Airport,HR,Croatia,EU,Europe,2022-01--2022-06,ZAG,Cancelled
+Female,7--81,SiglufjÃ¶rÃ°ur Airport,IS,Iceland,EU,Europe,2022-01--2022-06,SIJ,On Time
+Female,7--81,Merville-Calonne Airport,FR,France,EU,Europe,2022-01--2022-06,HZB,Delayed
+Female,7--81,Lille-Lesquin Airport,FR,France,EU,Europe,2022-01--2022-06,LIL,Delayed
+Female,7--81,SÃ¡rmellk International Airport,HU,Hungary,EU,Europe,2022-01--2022-06,SOB,Delayed
+Female,7--81,RAF Fairford,GB,United Kingdom,EU,Europe,2022-01--2022-06,FFD,On Time
+Female,7--81,Lahti Vesivehmaa Airport,FI,Finland,EU,Europe,2022-01--2022-06,QLF,Cancelled
+Female,7--81,Syktyvkar Airport,RU,Russian Federation,EU,Europe,2022-01--2022-06,SCW,Delayed
+Female,7--81,Spangdahlem Air Base,DE,Germany,EU,Europe,2022-01--2022-06,SPM,On Time
+Female,7--81,Albacete-Los Llanos Airport,ES,Spain,EU,Europe,2022-01--2022-06,ABC,On Time
+Female,7--81,GÃ¤llivare Airport,SE,Sweden,EU,Europe,2022-01--2022-06,GEV,Delayed
+Female,7--81,Nantes Atlantique Airport,FR,France,EU,Europe,2022-01--2022-06,NTE,On Time
+Female,7--81,Blackpool International Airport,GB,United Kingdom,EU,Europe,2022-01--2022-06,BLK,Cancelled
+Female,7--81,Twente Airport,NL,Netherlands,EU,Europe,2022-01--2022-06,ENS,Delayed
+Female,7--81,Castlebar Airport,IE,Ireland,EU,Europe,2022-01--2022-06,CLB,Cancelled
+Female,7--81,St. Peter-Ording Airport,DE,Germany,EU,Europe,2022-01--2022-06,PSH,Cancelled
+Female,7--81,Aasiaat Airport,GL,Greenland,EU,Europe,2022-01--2022-06,JEG,On Time
+Female,7--81,ÃEEingeyri Airport,IS,Iceland,EU,Europe,2022-01--2022-06,TEY,Delayed
+Female,7--81,Orlans-Bricy (BA 123) Air Base,FR,France,EU,Europe,2022-01--2022-06,ORE,Delayed
+Female,7--81,RAF Cottesmore,GB,United Kingdom,EU,Europe,2022-01--2022-06,OKH,Delayed
+Female,7--81,NeumÃ¼nster Airport,DE,Germany,EU,Europe,2022-01--2022-06,EUM,Cancelled
+Female,7--81,Vagar Airport,FO,Faroe Islands,EU,Europe,2022-01--2022-06,FAE,Delayed
+Female,7--81,Catania-Fontanarossa Airport,IT,Italy,EU,Europe,2022-01--2022-06,CTA,Cancelled
+Female,7--81,Kursk East Airport,RU,Russian Federation,EU,Europe,2022-01--2022-06,URS,On Time
+Female,7--81,Grozny North Airport,RU,Russian Federation,EU,Europe,2022-01--2022-06,GRV,Cancelled
+Female,7--81,Coventry Airport,GB,United Kingdom,EU,Europe,2022-01--2022-06,CVT,On Time
+Female,7--81,Osijek Airport,HR,Croatia,EU,Europe,2022-01--2022-06,OSI,On Time
+Female,7--81,Oslo Gardermoen Airport,NO,Norway,EU,Europe,2022-01--2022-06,OSL,On Time
+Female,7--81,Wick Airport,GB,United Kingdom,EU,Europe,2022-01--2022-06,WIC,Cancelled
+Female,7--81,Novgorod Airport,RU,Russian Federation,EU,Europe,2022-01--2022-06,NVR,Delayed
+Female,42--79,Larisa Airport,GR,Greece,EU,Europe,2022-07--2022-12,LRA,Delayed
+Female,42--79,LuÄEEenec Airport,SK,Slovakia,EU,Europe,2022-07--2022-12,LUE,On Time
+Female,42--79,Deauville-Saint-Gatien Airport,FR,France,EU,Europe,2022-07--2022-12,DOL,Cancelled
+Female,42--79,Linz HÃ¶rsching Airport,AT,Austria,EU,Europe,2022-07--2022-12,LNZ,Cancelled
+Female,42--79,Bukhovtsi Airfield,BG,Bulgaria,EU,Europe,2022-07--2022-12,TGV,Cancelled
+Female,42--79,Adolfo SuÃ¡rez MadridEEEEBarajas Airport,ES,Spain,EU,Europe,2022-07--2022-12,MAD,Delayed
+Female,42--79,Brussels South Charleroi Airport,BE,Belgium,EU,Europe,2022-07--2022-12,CRL,On Time
+Female,42--79,JoÃ£o Paulo II Airport,PT,Portugal,EU,Europe,2022-07--2022-12,PDL,On Time
+Female,42--79,Nogliki Airport,RU,Russian Federation,EU,Europe,2022-07--2022-12,NGK,Cancelled
+Female,42--79,Venice Marco Polo Airport,IT,Italy,EU,Europe,2022-07--2022-12,VCE,On Time
+Female,42--79,Krasnoselkup Airport,RU,Russian Federation,EU,Europe,2022-07--2022-12,KKQ,On Time
+Female,42--79,Islay Airport,GB,United Kingdom,EU,Europe,2022-07--2022-12,ILY,Delayed
+Female,42--79,ÃEElesund Airport,NO,Norway,EU,Europe,2022-07--2022-12,AES,Delayed
+Female,42--79,Rostock-Laage Airport,DE,Germany,EU,Europe,2022-07--2022-12,RLG,On Time
+Female,42--79,Nantes Atlantique Airport,FR,France,EU,Europe,2022-07--2022-12,NTE,Cancelled
+Female,42--79,San Sebastian Airport,ES,Spain,EU,Europe,2022-07--2022-12,EAS,Cancelled
+Female,42--79,Lamezia Terme Airport,IT,Italy,EU,Europe,2022-07--2022-12,SUF,Cancelled
+Female,42--79,Varrelbusch Airport,DE,Germany,EU,Europe,2022-07--2022-12,VAC,Cancelled
+Female,42--79,Villacoublay-Vlizy (BA 107) Air Base,FR,France,EU,Europe,2022-07--2022-12,VIY,Cancelled
+Female,42--79,Graciosa Airport,PT,Portugal,EU,Europe,2022-07--2022-12,GRW,On Time
+Female,42--79,Gorna Oryahovitsa Airport,BG,Bulgaria,EU,Europe,2022-07--2022-12,GOZ,On Time
+Female,42--79,RAF Lakenheath,GB,United Kingdom,EU,Europe,2022-07--2022-12,LKZ,Delayed
+Female,42--79,SkÃ¶vde Airport,SE,Sweden,EU,Europe,2022-07--2022-12,KVB,Delayed
+Female,42--79,Tuzla International Airport,BA,Bosnia and Herzegovina,EU,Europe,2022-07--2022-12,TZL,Delayed
+Female,42--79,Debrecen International Airport,HU,Hungary,EU,Europe,2022-07--2022-12,DEB,Cancelled
+Female,42--79,Hudiksvall Airport,SE,Sweden,EU,Europe,2022-07--2022-12,HUV,Delayed
+Female,42--79,Skopje Alexander the Great Airport,MK,North Macedonia,EU,Europe,2022-07--2022-12,SKP,Delayed
+Female,42--79,Barcelona International Airport,ES,Spain,EU,Europe,2022-07--2022-12,BCN,Delayed
+Female,42--79,Kajaani Airport,FI,Finland,EU,Europe,2022-07--2022-12,KAJ,Cancelled
+Female,42--79,Craiova Airport,RO,Romania,EU,Europe,2022-07--2022-12,CRA,Cancelled
+Female,42--79,Cardiff International Airport,GB,United Kingdom,EU,Europe,2022-07--2022-12,CWL,Cancelled
+Female,42--79,Esbjerg Airport,DK,Denmark,EU,Europe,2022-07--2022-12,EBJ,Delayed
+Female,42--79,Plymouth City Airport,GB,United Kingdom,EU,Europe,2022-07--2022-12,PLH,Cancelled
+Female,42--79,JÃ¶nkÃ¶ping Airport,SE,Sweden,EU,Europe,2022-07--2022-12,JKG,Cancelled
+Female,42--79,Kirovsk-Apatity Airport,RU,Russian Federation,EU,Europe,2022-07--2022-12,KVK,On Time
+Female,42--79,Gatow Airport,DE,Germany,EU,Europe,2022-07--2022-12,GWW,Delayed
+Female,42--79,VadsÃ¸ Airport,NO,Norway,EU,Europe,2022-07--2022-12,VDS,On Time
+Female,42--79,VadsÃ¸ Airport,NO,Norway,EU,Europe,2022-07--2022-12,VDS,Cancelled
+Female,42--79,Outer Skerries Airport,GB,United Kingdom,EU,Europe,2022-07--2022-12,OUK,Delayed
+Female,42--79,Klagenfurt Airport,AT,Austria,EU,Europe,2022-07--2022-12,KLU,On Time
+Female,42--79,Genoa Cristoforo Colombo Airport,IT,Italy,EU,Europe,2022-07--2022-12,GOA,On Time
+Female,42--79,Coll Airport,GB,United Kingdom,EU,Europe,2022-07--2022-12,COL,Delayed
+Female,42--79,Sibiu International Airport,RO,Romania,EU,Europe,2022-07--2022-12,SBZ,Cancelled
+Female,42--79,LÃ¦sÃ¸ Airport,DK,Denmark,EU,Europe,2022-07--2022-12,BYR,On Time
+Female,42--79,Ljubljana JoÅ¾e PuÄEEnik Airport,SI,Slovenia,EU,Europe,2022-07--2022-12,LJU,On Time
+Female,42--79,MariÃ¡nsk LÃ¡znÄEE Airport,CZ,Czechia,EU,Europe,2022-07--2022-12,MKA,Delayed
+Female,42--79,Aosta Airport,IT,Italy,EU,Europe,2022-07--2022-12,AOT,Cancelled
+Female,42--79,Vienna International Airport,AT,Austria,EU,Europe,2022-07--2022-12,VIE,On Time
+Female,42--79,Ioannina Airport,GR,Greece,EU,Europe,2022-07--2022-12,IOA,Delayed
+Female,42--79,Neuchatel Airport,CH,Switzerland,EU,Europe,2022-07--2022-12,QNC,On Time
+Female,42--79,Santorini Airport,GR,Greece,EU,Europe,2022-07--2022-12,JTR,On Time
+Female,42--79,Flotta Isle Airport,GB,United Kingdom,EU,Europe,2022-07--2022-12,FLH,Delayed
+Female,42--79,Stockholm-Arlanda Airport,SE,Sweden,EU,Europe,2022-07--2022-12,ARN,Delayed
+Female,42--79,Kryvyi Rih International Airport,UA,Ukraine,EU,Europe,2022-07--2022-12,KWG,Cancelled
+Female,2--55,Stevens Village Airport,US,United States,NAM,North America,2022-01--2022-03,SVS,Cancelled
+Female,2--55,Hollis Clark Bay Seaplane Base,US,United States,NAM,North America,2022-01--2022-03,HYL,Delayed
+Female,2--55,Roy Otten Memorial Airfield,US,United States,NAM,North America,2022-01--2022-03,VRS,On Time
+Female,2--55,Bremerton National Airport,US,United States,NAM,North America,2022-01--2022-03,PWT,Delayed
+Female,2--55,Enterprise Municipal Airport,US,United States,NAM,North America,2022-01--2022-03,ETS,On Time
+Female,2--55,Lathrop Wells Airport / Jackass Aeropark,US,United States,NAM,North America,2022-01--2022-03,LTH,Delayed
+Female,2--55,Minot International Airport,US,United States,NAM,North America,2022-01--2022-03,MOT,Cancelled
+Female,2--55,Tin City Long Range Radar Station Airport,US,United States,NAM,North America,2022-01--2022-03,TNC,Delayed
+Female,2--55,Columbus Lowndes County Airport,US,United States,NAM,North America,2022-01--2022-03,UBS,Cancelled
+Female,2--55,Marion Municipal Airport,US,United States,NAM,North America,2022-01--2022-03,MNN,Delayed
+Female,2--55,Steamboat Springs Bob Adams Field,US,United States,NAM,North America,2022-01--2022-03,SBS,Cancelled
+Female,2--55,Cotulla-La Salle County Airport,US,United States,NAM,North America,2022-01--2022-03,COT,Cancelled
+Female,2--55,University of Oklahoma Westheimer Airport,US,United States,NAM,North America,2022-01--2022-03,OUN,On Time
+Female,2--55,Las Vegas Municipal Airport,US,United States,NAM,North America,2022-01--2022-03,LVS,Delayed
+Female,2--55,Topeka Regional Airport - Forbes Field,US,United States,NAM,North America,2022-01--2022-03,FOE,On Time
+Female,2--55,Estevan Airport,CA,Canada,NAM,North America,2022-01--2022-03,YEN,On Time
+Female,2--55,Golden Triangle Regional Airport,US,United States,NAM,North America,2022-01--2022-03,GTR,Cancelled
+Female,2--55,Yeager Airport,US,United States,NAM,North America,2022-01--2022-03,CRW,On Time
+Female,2--55,Schefferville Airport,CA,Canada,NAM,North America,2022-01--2022-03,YKL,Cancelled
+Female,2--55,Robert L. Bradshaw International Airport,KN,Saint Kitts and Nevis,NAM,North America,2022-01--2022-03,SKB,On Time
+Female,2--55,Sullivan Bay Seaplane Base,CA,Canada,NAM,North America,2022-01--2022-03,YTG,On Time
+Female,2--55,Caledonia County Airport,US,United States,NAM,North America,2022-01--2022-03,LLX,On Time
+Female,2--55,Pine Island Airport,US,United States,NAM,North America,2022-01--2022-03,DUF,On Time
+Female,2--55,Igloolik Airport,CA,Canada,NAM,North America,2022-01--2022-03,YGT,Delayed
+Female,2--55,Orcas Island Airport,US,United States,NAM,North America,2022-01--2022-03,ESD,Delayed
+Female,2--55,Bimini North Seaplane Base,BS,Bahamas,NAM,North America,2022-01--2022-03,NSB,Cancelled
+Female,2--55,Colorado Creek Airport,US,United States,NAM,North America,2022-01--2022-03,KCR,Delayed
+Female,2--55,Black Tickle Airport,CA,Canada,NAM,North America,2022-01--2022-03,YBI,Delayed
+Female,2--55,Southeast Iowa Regional Airport,US,United States,NAM,North America,2022-01--2022-03,BRL,Cancelled
+Female,2--55,Playa Grande Airport,GT,Guatemala,NAM,North America,2022-01--2022-03,PKJ,Cancelled
+Female,2--55,Cat Cay Airport,BS,Bahamas,NAM,North America,2022-01--2022-03,CXY,On Time
+Female,2--55,Niagara Falls International Airport,US,United States,NAM,North America,2022-01--2022-03,IAG,On Time
+Female,2--55,Jos Aponte de la Torre Airport,PR,Puerto Rico,NAM,North America,2022-01--2022-03,NRR,Cancelled
+Female,2--55,Coronation Airport,CA,Canada,NAM,North America,2022-01--2022-03,YCT,Cancelled
+Female,2--55,McGhee Tyson Airport,US,United States,NAM,North America,2022-01--2022-03,TYS,Delayed
+Female,2--55,Mariana Grajales Airport,CU,Cuba,NAM,North America,2022-01--2022-03,GAO,On Time
+Female,2--55,Eunice Airport,US,United States,NAM,North America,2022-01--2022-03,UCE,Delayed
+Female,2--55,Valdez Pioneer Field,US,United States,NAM,North America,2022-01--2022-03,VDZ,Cancelled
+Female,2--55,Flamingo Airport,CR,Costa Rica,NAM,North America,2022-01--2022-03,FMG,On Time
+Female,2--55,Loreto International Airport,MX,Mexico,NAM,North America,2022-01--2022-03,LTO,On Time
+Female,2--55,Central Airport,US,United States,NAM,North America,2022-01--2022-03,CEM,Cancelled
+Female,2--55,Congo Town Airport,BS,Bahamas,NAM,North America,2022-01--2022-03,COX,Delayed
+Female,2--55,Tehachapi Municipal Airport,US,United States,NAM,North America,2022-01--2022-03,TSP,Cancelled
+Female,2--55,Farmington Regional Airport,US,United States,NAM,North America,2022-01--2022-03,FAM,Delayed
+Female,2--55,San Nicolas De Bari Airport,CU,Cuba,NAM,North America,2022-01--2022-03,QSN,Delayed
+Female,2--55,Lawrence County Airpark,US,United States,NAM,North America,2022-01--2022-03,HTW,On Time
+Female,2--55,Hattiesburg Laurel Regional Airport,US,United States,NAM,North America,2022-01--2022-03,PIB,On Time
+Female,2--55,Petersburg James A Johnson Airport,US,United States,NAM,North America,2022-01--2022-03,PSG,Cancelled
+Female,2--55,Anthony Municipal Airport,US,United States,NAM,North America,2022-01--2022-03,ANY,Cancelled
+Female,2--55,Ruby Airport,US,United States,NAM,North America,2022-01--2022-03,RBY,Delayed
+Female,57--48,Tusi AHP (Hunter Liggett) Heliport,US,United States,NAM,North America,2022-03--2022-05,HGT,On Time
+Female,57--48,Menominee Regional Airport,US,United States,NAM,North America,2022-03--2022-05,MNM,Delayed
+Female,57--48,Half Moon Bay Airport,US,United States,NAM,North America,2022-03--2022-05,HAF,Delayed
+Female,57--48,Branson Airport,US,United States,NAM,North America,2022-03--2022-05,BKG,Cancelled
+Female,57--48,Chicago Midway International Airport,US,United States,NAM,North America,2022-03--2022-05,MDW,Delayed
+Female,57--48,Hampton Municipal Airport,US,United States,NAM,North America,2022-03--2022-05,HPT,Delayed
+Female,57--48,Crossville Memorial Whitson Field,US,United States,NAM,North America,2022-03--2022-05,CSV,On Time
+Female,57--48,Northeast Kingdom International Airport,US,United States,NAM,North America,2022-03--2022-05,EFK,Delayed
+Female,57--48,Fort MacKay/Albian Aerodrome,CA,Canada,NAM,North America,2022-03--2022-05,JHL,On Time
+Female,57--48,Pincher Creek Airport,CA,Canada,NAM,North America,2022-03--2022-05,WPC,Cancelled
+Female,57--48,Great Bear Lake Airport,CA,Canada,NAM,North America,2022-03--2022-05,DAS,Delayed
+Female,57--48,Knox County Regional Airport,US,United States,NAM,North America,2022-03--2022-05,RKD,On Time
+Female,57--48,Yaviza Airport,PA,Panama,NAM,North America,2022-03--2022-05,PYV,On Time
+Female,57--48,Athens Ben Epps Airport,US,United States,NAM,North America,2022-03--2022-05,AHN,Cancelled
+Female,57--48,Perryville Airport,US,United States,NAM,North America,2022-03--2022-05,KPV,On Time
+Female,57--48,Kalaupapa Airport,US,United States,NAM,North America,2022-03--2022-05,LUP,On Time
+Female,57--48,Dalhart Municipal Airport,US,United States,NAM,North America,2022-03--2022-05,DHT,On Time
+Female,57--48,Andros Town Airport,BS,Bahamas,NAM,North America,2022-03--2022-05,ASD,Delayed
+Female,57--48,Schefferville Airport,CA,Canada,NAM,North America,2022-03--2022-05,YKL,Cancelled
+Female,57--48,Apple Valley Airport,US,United States,NAM,North America,2022-03--2022-05,APV,Cancelled
+Female,57--48,Tinson Pen Airport,JM,Jamaica,NAM,North America,2022-03--2022-05,KTP,Delayed
+Female,57--48,Eagle County Regional Airport,US,United States,NAM,North America,2022-03--2022-05,EGE,Cancelled
+Female,57--48,Abraham Lincoln Capital Airport,US,United States,NAM,North America,2022-03--2022-05,SPI,Delayed
+Female,57--48,Kitkatla Seaplane Base,CA,Canada,NAM,North America,2022-03--2022-05,YKK,Cancelled
+Female,57--48,Tofino Harbour Seaplane Base,CA,Canada,NAM,North America,2022-03--2022-05,YTP,Cancelled
+Female,57--48,Penn Valley Airport,US,United States,NAM,North America,2022-03--2022-05,SEG,On Time
+Female,57--48,Venice Municipal Airport,US,United States,NAM,North America,2022-03--2022-05,VNC,On Time
+Female,57--48,Peterborough Airport,CA,Canada,NAM,North America,2022-03--2022-05,YPQ,On Time
+Female,57--48,Newark Liberty International Airport,US,United States,NAM,North America,2022-03--2022-05,EWR,On Time
+Female,57--48,Amook Bay Seaplane Base,US,United States,NAM,North America,2022-03--2022-05,AOS,On Time
+Female,57--48,Sedalia Memorial Airport,US,United States,NAM,North America,2022-03--2022-05,DMO,On Time
+Female,57--48,Brandon Municipal Airport,CA,Canada,NAM,North America,2022-03--2022-05,YBR,Cancelled
+Female,57--48,New Stuyahok Airport,US,United States,NAM,North America,2022-03--2022-05,KNW,Delayed
+Female,57--48,Salt Lake City International Airport,US,United States,NAM,North America,2022-03--2022-05,SLC,On Time
+Female,57--48,Bronson Creek Airport,CA,Canada,NAM,North America,2022-03--2022-05,YBM,Delayed
+Female,57--48,Cox Field,US,United States,NAM,North America,2022-03--2022-05,PRX,Cancelled
+Female,57--48,Casa De Campo International Airport,DO,Dominican Republic,NAM,North America,2022-03--2022-05,LRM,Delayed
+Female,57--48,Chandalar Lake Airport,US,United States,NAM,North America,2022-03--2022-05,WCR,Cancelled
+Female,57--48,Glasgow Municipal Airport,US,United States,NAM,North America,2022-03--2022-05,GLW,On Time
+Female,57--48,Trona Airport,US,United States,NAM,North America,2022-03--2022-05,TRH,Cancelled
+Female,57--48,Red Bluff Municipal Airport,US,United States,NAM,North America,2022-03--2022-05,RBL,Cancelled
+Female,57--48,Palacios Municipal Airport,US,United States,NAM,North America,2022-03--2022-05,PSX,Delayed
+Female,57--48,Alexandria International Airport,US,United States,NAM,North America,2022-03--2022-05,AEX,On Time
+Female,57--48,Dallas Love Field,US,United States,NAM,North America,2022-03--2022-05,DAL,On Time
+Female,57--48,Forestville Airport,CA,Canada,NAM,North America,2022-03--2022-05,YFE,On Time
+Female,57--48,Cowley Airport,CA,Canada,NAM,North America,2022-03--2022-05,YYM,Delayed
+Female,57--48,Gasp (Michel-Pouliot) Airport,CA,Canada,NAM,North America,2022-03--2022-05,YGP,Cancelled
+Female,57--48,BahÃ­as de Huatulco International Airport,MX,Mexico,NAM,North America,2022-03--2022-05,HUX,Cancelled
+Female,57--48,Lebanon Municipal Airport,US,United States,NAM,North America,2022-03--2022-05,LEB,Delayed
+Female,57--48,Lawrence County Airpark,US,United States,NAM,North America,2022-03--2022-05,HTW,Delayed
+Female,52--52,Mundo Maya International Airport,GT,Guatemala,NAM,North America,2022-05--2022-07,FRS,Cancelled
+Female,52--52,Roy Hurd Memorial Airport,US,United States,NAM,North America,2022-05--2022-07,MIF,Cancelled
+Female,52--52,Mitchell Municipal Airport,US,United States,NAM,North America,2022-05--2022-07,MHE,Delayed
+Female,52--52,Barter Island LRRS Airport,US,United States,NAM,North America,2022-05--2022-07,BTI,Delayed
+Female,52--52,Michigan City Municipal Airport,US,United States,NAM,North America,2022-05--2022-07,MGC,On Time
+Female,52--52,Staniel Cay Airport,BS,Bahamas,NAM,North America,2022-05--2022-07,TYM,Delayed
+Female,52--52,Granite Mountain Air Station,US,United States,NAM,North America,2022-05--2022-07,GMT,Delayed
+Female,52--52,Hartness State (Springfield) Airport,US,United States,NAM,North America,2022-05--2022-07,VSF,On Time
+Female,52--52,Columbia Metropolitan Airport,US,United States,NAM,North America,2022-05--2022-07,CAE,Cancelled
+Female,52--52,Playa Baracoa Airport,CU,Cuba,NAM,North America,2022-05--2022-07,UPB,Cancelled
+Female,52--52,Bar River Airport,CA,Canada,NAM,North America,2022-05--2022-07,YEB,Delayed
+Female,52--52,Garfield County Regional Airport,US,United States,NAM,North America,2022-05--2022-07,RIL,On Time
+Female,52--52,Wausau Downtown Airport,US,United States,NAM,North America,2022-05--2022-07,AUW,Delayed
+Female,52--52,Talkeetna Airport,US,United States,NAM,North America,2022-05--2022-07,TKA,Delayed
+Female,52--52,Ralph C Weiser Field,US,United States,NAM,North America,2022-05--2022-07,AGO,On Time
+Female,52--52,Gage Airport,US,United States,NAM,North America,2022-05--2022-07,GAG,Delayed
+Female,52--52,Santa Cruz Island Airport,US,United States,NAM,North America,2022-05--2022-07,SZN,Delayed
+Female,52--52,Charlottetown Airport,CA,Canada,NAM,North America,2022-05--2022-07,YYG,Delayed
+Female,52--52,Marion Municipal Airport,US,United States,NAM,North America,2022-05--2022-07,MNN,Delayed
+Female,52--52,Summer Beaver Airport,CA,Canada,NAM,North America,2022-05--2022-07,SUR,On Time
+Female,52--52,Fort Smith Airport,CA,Canada,NAM,North America,2022-05--2022-07,YSM,On Time
+Female,52--52,Timmins/Victor M. Power,CA,Canada,NAM,North America,2022-05--2022-07,YTS,Cancelled
+Female,52--52,Cruz Bay Seaplane Base,VI,"Virgin Islands, U.S.",NAM,North America,2022-05--2022-07,SJF,Cancelled
+Female,52--52,Waco Regional Airport,US,United States,NAM,North America,2022-05--2022-07,ACT,On Time
+Female,52--52,Sault Ste Marie Airport,CA,Canada,NAM,North America,2022-05--2022-07,YAM,Cancelled
+Female,52--52,Coldfoot Airport,US,United States,NAM,North America,2022-05--2022-07,CXF,On Time
+Female,52--52,Wilbarger County Airport,US,United States,NAM,North America,2022-05--2022-07,WIB,On Time
+Female,52--52,Durango La Plata County Airport,US,United States,NAM,North America,2022-05--2022-07,DRO,On Time
+Female,52--52,Allen C Perkinson Blackstone Army Air Field,US,United States,NAM,North America,2022-05--2022-07,BKT,Delayed
+Female,52--52,Governor's Harbour Airport,BS,Bahamas,NAM,North America,2022-05--2022-07,GHB,On Time
+Female,52--52,Muskrat Dam Airport,CA,Canada,NAM,North America,2022-05--2022-07,MSA,On Time
+Female,52--52,Stuart Island Airstrip,CA,Canada,NAM,North America,2022-05--2022-07,YRR,On Time
+Female,52--52,Chesterfield Inlet Airport,CA,Canada,NAM,North America,2022-05--2022-07,YCS,On Time
+Female,52--52,Great Bear Lake Airport,CA,Canada,NAM,North America,2022-05--2022-07,DAS,On Time
+Female,52--52,Amchitka Army Airfield,US,United States,NAM,North America,2022-05--2022-07,AHT,Cancelled
+Female,52--52,Spirit of St Louis Airport,US,United States,NAM,North America,2022-05--2022-07,SUS,On Time
+Female,52--52,Harry Clever Field,US,United States,NAM,North America,2022-05--2022-07,PHD,Delayed
+Female,52--52,Malcolm McKinnon Airport,US,United States,NAM,North America,2022-05--2022-07,SSI,Cancelled
+Female,52--52,French Valley Airport,US,United States,NAM,North America,2022-05--2022-07,RBK,On Time
+Female,52--52,Orange Walk Airport,BZ,Belize,NAM,North America,2022-05--2022-07,ORZ,On Time
+Female,52--52,Hutchinson County Airport,US,United States,NAM,North America,2022-05--2022-07,BGD,On Time
+Female,52--52,St Paul Island Airport,US,United States,NAM,North America,2022-05--2022-07,SNP,Delayed
+Female,52--52,Wapekeka Airport,CA,Canada,NAM,North America,2022-05--2022-07,YAX,Cancelled
+Female,52--52,Indian Mountain LRRS Airport,US,United States,NAM,North America,2022-05--2022-07,UTO,Delayed
+Female,52--52,Phoenix-Mesa-Gateway Airport,US,United States,NAM,North America,2022-05--2022-07,AZA,On Time
+Female,52--52,Fort Frances Municipal Airport,CA,Canada,NAM,North America,2022-05--2022-07,YAG,On Time
+Female,52--52,Aleknagik / New Airport,US,United States,NAM,North America,2022-05--2022-07,WKK,Cancelled
+Female,52--52,Hattiesburg Laurel Regional Airport,US,United States,NAM,North America,2022-05--2022-07,PIB,Cancelled
+Female,52--52,Greenville Airport,US,United States,NAM,North America,2022-05--2022-07,GRE,Cancelled
+Female,52--52,Imperial Municipal Airport,US,United States,NAM,North America,2022-05--2022-07,IML,Delayed
+Female,53--25,Anvik Airport,US,United States,NAM,North America,2022-07--2022-09,ANV,Cancelled
+Female,53--25,San Luis RÃ­o Colorado Airport,MX,Mexico,NAM,North America,2022-07--2022-09,UAC,Delayed
+Female,53--25,Fort Lauderdale Executive Airport,US,United States,NAM,North America,2022-07--2022-09,FXE,Delayed
+Female,53--25,Iosco County Airport,US,United States,NAM,North America,2022-07--2022-09,ECA,Delayed
+Female,53--25,Tehachapi Municipal Airport,US,United States,NAM,North America,2022-07--2022-09,TSP,On Time
+Female,53--25,Albert Lea Municipal Airport,US,United States,NAM,North America,2022-07--2022-09,AEL,On Time
+Female,53--25,Herrera Airport,DO,Dominican Republic,NAM,North America,2022-07--2022-09,HEX,Cancelled
+Female,53--25,Okmulgee Regional Airport,US,United States,NAM,North America,2022-07--2022-09,OKM,On Time
+Female,53--25,ÃEElamos Airport,MX,Mexico,NAM,North America,2022-07--2022-09,XAL,On Time
+Female,53--25,Lawson Army Air Field (Fort Benning),US,United States,NAM,North America,2022-07--2022-09,LSF,Delayed
+Female,53--25,Slayton Municipal Airport,US,United States,NAM,North America,2022-07--2022-09,NSL,Delayed
+Female,53--25,Rocky Mountain House Airport,CA,Canada,NAM,North America,2022-07--2022-09,YRM,Cancelled
+Female,53--25,Idaho Falls Regional Airport,US,United States,NAM,North America,2022-07--2022-09,IDA,Cancelled
+Female,53--25,V.C. Bird International Airport,AG,Antigua and Barbuda,NAM,North America,2022-07--2022-09,ANU,On Time
+Female,53--25,Waspam Airport,NI,Nicaragua,NAM,North America,2022-07--2022-09,WSP,Delayed
+Female,53--25,White Mountain Airport,US,United States,NAM,North America,2022-07--2022-09,WMO,Delayed
+Female,53--25,Attawapiskat Airport,CA,Canada,NAM,North America,2022-07--2022-09,YAT,On Time
+Female,53--25,Saglek Airport,CA,Canada,NAM,North America,2022-07--2022-09,YSV,On Time
+Female,53--25,Cut Bank International Airport,US,United States,NAM,North America,2022-07--2022-09,CTB,On Time
+Female,53--25,Rome State Airport,US,United States,NAM,North America,2022-07--2022-09,REO,Delayed
+Female,53--25,Manitouwadge Airport,CA,Canada,NAM,North America,2022-07--2022-09,YMG,On Time
+Female,53--25,Karluk Airport,US,United States,NAM,North America,2022-07--2022-09,KYK,Delayed
+Female,53--25,General Heriberto Jara International Airport,MX,Mexico,NAM,North America,2022-07--2022-09,VER,Delayed
+Female,53--25,Nikolai Airport,US,United States,NAM,North America,2022-07--2022-09,NIB,On Time
+Female,53--25,Abreojos Airport,MX,Mexico,NAM,North America,2022-07--2022-09,AJS,Cancelled
+Female,53--25,Mayne Island Seaplane Base,CA,Canada,NAM,North America,2022-07--2022-09,YAV,On Time
+Female,53--25,Swan River Airport,CA,Canada,NAM,North America,2022-07--2022-09,ZJN,Cancelled
+Female,53--25,Reid-Hillview Airport of Santa Clara County,US,United States,NAM,North America,2022-07--2022-09,RHV,Cancelled
+Female,53--25,CancÃºn International Airport,MX,Mexico,NAM,North America,2022-07--2022-09,CUN,On Time
+Female,53--25,Winston Field,US,United States,NAM,North America,2022-07--2022-09,SNK,Cancelled
+Female,53--25,Barking Sands Airport,US,United States,NAM,North America,2022-07--2022-09,BKH,Cancelled
+Female,53--25,Gorge Harbour Seaplane Base,CA,Canada,NAM,North America,2022-07--2022-09,YGE,Cancelled
+Female,53--25,Kneeland Airport,US,United States,NAM,North America,2022-07--2022-09,NLN,Cancelled
+Female,53--25,Akulivik Airport,CA,Canada,NAM,North America,2022-07--2022-09,AKV,Delayed
+Female,53--25,Tucson International Airport,US,United States,NAM,North America,2022-07--2022-09,TUS,Cancelled
+Female,53--25,Circle Hot Springs Airport,US,United States,NAM,North America,2022-07--2022-09,CHP,Cancelled
+Female,53--25,St Jean Airport,CA,Canada,NAM,North America,2022-07--2022-09,YJN,On Time
+Female,53--25,Mc Entire Joint National Guard Base,US,United States,NAM,North America,2022-07--2022-09,MMT,Delayed
+Female,53--25,Northeast Philadelphia Airport,US,United States,NAM,North America,2022-07--2022-09,PNE,Cancelled
+Female,53--25,Dline Airport,CA,Canada,NAM,North America,2022-07--2022-09,YWJ,On Time
+Female,53--25,Moody Air Force Base,US,United States,NAM,North America,2022-07--2022-09,VAD,Delayed
+Female,53--25,Tulsa International Airport,US,United States,NAM,North America,2022-07--2022-09,TUL,Delayed
+Female,53--25,Sioux Lookout Airport,CA,Canada,NAM,North America,2022-07--2022-09,YXL,Delayed
+Female,53--25,Bromont (Roland Desourdy) Airport,CA,Canada,NAM,North America,2022-07--2022-09,ZBM,Cancelled
+Female,53--25,Ohkay Owingeh Airport,US,United States,NAM,North America,2022-07--2022-09,ESO,Cancelled
+Female,53--25,Ely Airport Yelland Field,US,United States,NAM,North America,2022-07--2022-09,ELY,On Time
+Female,53--25,Jacksonville International Airport,US,United States,NAM,North America,2022-07--2022-09,JAX,Delayed
+Female,53--25,Schenck Field,US,United States,NAM,North America,2022-07--2022-09,ICL,Delayed
+Female,53--25,Port Hardy Airport,CA,Canada,NAM,North America,2022-07--2022-09,YZT,On Time
+Female,53--25,Galion Municipal Airport,US,United States,NAM,North America,2022-07--2022-09,GQQ,Cancelled
+Female,53--25,West Houston Airport,US,United States,NAM,North America,2022-07--2022-09,IWS,Cancelled
+Female,27--87,Dillingham Airport,US,United States,NAM,North America,2022-09--2022-12,DLG,On Time
+Female,27--87,Wabush Airport,CA,Canada,NAM,North America,2022-09--2022-12,YWK,Cancelled
+Female,27--87,Sheep Mountain Airport,US,United States,NAM,North America,2022-09--2022-12,SMU,Cancelled
+Female,27--87,Sedalia Memorial Airport,US,United States,NAM,North America,2022-09--2022-12,DMO,Delayed
+Female,27--87,Guymon Municipal Airport,US,United States,NAM,North America,2022-09--2022-12,GUY,On Time
+Female,27--87,Tikchik Lodge Seaplane Base,US,United States,NAM,North America,2022-09--2022-12,KTH,On Time
+Female,27--87,Kennett Memorial Airport,US,United States,NAM,North America,2022-09--2022-12,KNT,On Time
+Female,27--87,Frank Wiley Field,US,United States,NAM,North America,2022-09--2022-12,MLS,On Time
+Female,27--87,Swift Current Airport,CA,Canada,NAM,North America,2022-09--2022-12,YYN,Delayed
+Female,27--87,Morristown Municipal Airport,US,United States,NAM,North America,2022-09--2022-12,MMU,Cancelled
+Female,27--87,Wollaston Lake Airport,CA,Canada,NAM,North America,2022-09--2022-12,ZWL,On Time
+Female,27--87,Dillon County Airport,US,United States,NAM,North America,2022-09--2022-12,DLL,On Time
+Female,27--87,Dillant Hopkins Airport,US,United States,NAM,North America,2022-09--2022-12,EEN,Cancelled
+Female,27--87,Ottawa / Gatineau Airport,CA,Canada,NAM,North America,2022-09--2022-12,YND,Delayed
+Female,27--87,Jackpot Airport/Hayden Field,US,United States,NAM,North America,2022-09--2022-12,KPT,On Time
+Female,27--87,Platinum Airport,US,United States,NAM,North America,2022-09--2022-12,PTU,Delayed
+Female,27--87,Mount Pleasant Municipal Airport,US,United States,NAM,North America,2022-09--2022-12,MPZ,Delayed
+Female,27--87,Powell River Airport,CA,Canada,NAM,North America,2022-09--2022-12,YPW,Cancelled
+Female,27--87,Glacier Creek Airport,US,United States,NAM,North America,2022-09--2022-12,KGZ,On Time
+Female,27--87,Moultrie Municipal Airport,US,United States,NAM,North America,2022-09--2022-12,MGR,On Time
+Female,27--87,Carson Airport,US,United States,NAM,North America,2022-09--2022-12,CSN,On Time
+Female,27--87,Twentynine Palms Airport,US,United States,NAM,North America,2022-09--2022-12,TNP,Cancelled
+Female,27--87,Middle Georgia Regional Airport,US,United States,NAM,North America,2022-09--2022-12,MCN,On Time
+Female,27--87,Jefferson City Memorial Airport,US,United States,NAM,North America,2022-09--2022-12,JEF,On Time
+Female,27--87,Marana Regional Airport,US,United States,NAM,North America,2022-09--2022-12,AVW,Delayed
+Female,27--87,Mid Delta Regional Airport,US,United States,NAM,North America,2022-09--2022-12,GLH,Cancelled
+Female,27--87,Cochise County Airport,US,United States,NAM,North America,2022-09--2022-12,CWX,Cancelled
+Female,27--87,Jutigalpa airport,HN,Honduras,NAM,North America,2022-09--2022-12,JUT,Cancelled
+Female,27--87,Wapekeka Airport,CA,Canada,NAM,North America,2022-09--2022-12,YAX,Delayed
+Female,27--87,St Louis Regional Airport,US,United States,NAM,North America,2022-09--2022-12,ALN,Delayed
+Female,27--87,Point Salines International Airport,GD,Grenada,NAM,North America,2022-09--2022-12,GND,Cancelled
+Female,27--87,Igiugig Airport,US,United States,NAM,North America,2022-09--2022-12,IGG,On Time
+Female,27--87,Hartness State (Springfield) Airport,US,United States,NAM,North America,2022-09--2022-12,VSF,On Time
+Female,27--87,Wichita Eisenhower National Airport,US,United States,NAM,North America,2022-09--2022-12,ICT,Cancelled
+Female,27--87,General Lucio Blanco International Airport,MX,Mexico,NAM,North America,2022-09--2022-12,REX,On Time
+Female,27--87,Black Tickle Airport,CA,Canada,NAM,North America,2022-09--2022-12,YBI,On Time
+Female,27--87,Kitoi Bay Seaplane Base,US,United States,NAM,North America,2022-09--2022-12,KKB,Cancelled
+Female,27--87,Waterloo Regional Airport,US,United States,NAM,North America,2022-09--2022-12,ALO,On Time
+Female,27--87,Sierra Vista Municipal Libby Army Air Field,US,United States,NAM,North America,2022-09--2022-12,FHU,Delayed
+Female,27--87,Quinhagak Airport,US,United States,NAM,North America,2022-09--2022-12,KWN,On Time
+Female,27--87,Panguitch Municipal Airport,US,United States,NAM,North America,2022-09--2022-12,PNU,Delayed
+Female,27--87,Immokalee Regional Airport,US,United States,NAM,North America,2022-09--2022-12,IMM,Delayed
+Female,27--87,Big Lake Airport,US,United States,NAM,North America,2022-09--2022-12,BGQ,Cancelled
+Female,27--87,Igiugig Airport,US,United States,NAM,North America,2022-09--2022-12,IGG,Delayed
+Female,27--87,A L Mangham Jr. Regional Airport,US,United States,NAM,North America,2022-09--2022-12,OCH,Cancelled
+Female,27--87,Valdosta Regional Airport,US,United States,NAM,North America,2022-09--2022-12,VLD,Cancelled
+Female,27--87,Mekoryuk Airport,US,United States,NAM,North America,2022-09--2022-12,MYU,Delayed
+Female,27--87,Wiarton Airport,CA,Canada,NAM,North America,2022-09--2022-12,YVV,On Time
+Female,27--87,Zachar Bay Seaplane Base,US,United States,NAM,North America,2022-09--2022-12,KZB,Delayed
+Female,27--87,Liberal Mid-America Regional Airport,US,United States,NAM,North America,2022-09--2022-12,LBL,Cancelled
+Female,27--87,Stanton Airfield,US,United States,NAM,North America,2022-09--2022-12,SYN,Cancelled
+Female,27--87,Council Airport,US,United States,NAM,North America,2022-09--2022-12,CIL,Cancelled
+Female,27--87,Northwest Alabama Regional Airport,US,United States,NAM,North America,2022-09--2022-12,MSL,Cancelled
+Female,27--87,St Augustin Airport,CA,Canada,NAM,North America,2022-09--2022-12,YIF,Cancelled
+Female,27--87,Sampson County Airport,US,United States,NAM,North America,2022-09--2022-12,CTZ,On Time
+Female,27--87,George F. L. Charles Airport,LC,Saint Lucia,NAM,North America,2022-09--2022-12,SLU,Cancelled
+Female,27--87,Mesa Del Rey Airport,US,United States,NAM,North America,2022-09--2022-12,KIC,Delayed
+Female,27--87,Memorial Field,US,United States,NAM,North America,2022-09--2022-12,HOT,Cancelled
+Female,27--87,Merritt Airport,CA,Canada,NAM,North America,2022-09--2022-12,YMB,Delayed
+Female,27--87,Wichita Eisenhower National Airport,US,United States,NAM,North America,2022-09--2022-12,ICT,Delayed
+Female,27--87,Zahn's Airport,US,United States,NAM,North America,2022-09--2022-12,AYZ,Delayed
+Female,27--87,Rimouski Airport,CA,Canada,NAM,North America,2022-09--2022-12,YXK,On Time
+Female,27--87,False Pass Airport,US,United States,NAM,North America,2022-09--2022-12,KFP,On Time
+Female,27--87,Natuashish Airport,CA,Canada,NAM,North America,2022-09--2022-12,YNP,On Time
+Female,27--87,Brookings Airport,US,United States,NAM,North America,2022-09--2022-12,BOK,Delayed
+Female,27--87,South Cariboo Region / 108 Mile Airport,CA,Canada,NAM,North America,2022-09--2022-12,ZMH,Delayed
+Female,27--87,Toccoa Airport - R.G. Letourneau Field,US,United States,NAM,North America,2022-09--2022-12,TOC,Delayed
+Female,27--87,North Bay Jack Garland Airport,CA,Canada,NAM,North America,2022-09--2022-12,YYB,Cancelled
+Female,27--87,Tahsis Seaplane Base,CA,Canada,NAM,North America,2022-09--2022-12,ZTS,On Time
+Female,27--87,Juneau International Airport,US,United States,NAM,North America,2022-09--2022-12,JNU,Cancelled
+Female,27--87,Thompson Airport,CA,Canada,NAM,North America,2022-09--2022-12,YTH,Cancelled
+Female,27--87,Richmond International Airport,US,United States,NAM,North America,2022-09--2022-12,RIC,Delayed
+Female,27--87,Immokalee Regional Airport,US,United States,NAM,North America,2022-09--2022-12,IMM,On Time
+Female,27--87,St. Anthony Airport,CA,Canada,NAM,North America,2022-09--2022-12,YAY,Cancelled
+Female,27--87,Deer Park Airport,US,United States,NAM,North America,2022-09--2022-12,DPK,Cancelled
+Female,27--87,Cortez Municipal Airport,US,United States,NAM,North America,2022-09--2022-12,CEZ,Delayed
+Female,27--87,George Bush Intercontinental Houston Airport,US,United States,NAM,North America,2022-09--2022-12,IAH,On Time
+Female,27--87,Clinton Creek Airport,CA,Canada,NAM,North America,2022-09--2022-12,YLM,Cancelled
+Female,27--87,Huntsville International Carl T Jones Field,US,United States,NAM,North America,2022-09--2022-12,HSV,Delayed
+Female,27--87,Hutchinson County Airport,US,United States,NAM,North America,2022-09--2022-12,BGD,Delayed
+Female,27--87,Newtok Airport,US,United States,NAM,North America,2022-09--2022-12,WWT,Delayed
+Female,27--87,Gogebic Iron County Airport,US,United States,NAM,North America,2022-09--2022-12,IWD,Cancelled
+Female,27--87,Fort Mcpherson Airport,CA,Canada,NAM,North America,2022-09--2022-12,ZFM,Delayed
+Female,27--87,Memphis International Airport,US,United States,NAM,North America,2022-09--2022-12,MEM,Delayed
+Female,27--87,Wiley Post Will Rogers Memorial Airport,US,United States,NAM,North America,2022-09--2022-12,BRW,Delayed
+Female,27--87,Harriet Alexander Field,US,United States,NAM,North America,2022-09--2022-12,SLT,Delayed
+Female,27--87,Pensacola Regional Airport,US,United States,NAM,North America,2022-09--2022-12,PNS,On Time
+Female,27--87,Kwethluk Airport,US,United States,NAM,North America,2022-09--2022-12,KWT,On Time
+Female,27--87,Mount Pleasant Municipal Airport,US,United States,NAM,North America,2022-09--2022-12,MPZ,Delayed
+Female,27--87,Seattle Tacoma International Airport,US,United States,NAM,North America,2022-09--2022-12,SEA,Cancelled
+Female,27--87,Colonel Hill Airport,BS,Bahamas,NAM,North America,2022-09--2022-12,CRI,Delayed
+Female,27--87,Mettel Field,US,United States,NAM,North America,2022-09--2022-12,CEV,On Time
+Female,27--87,Cozumel International Airport,MX,Mexico,NAM,North America,2022-09--2022-12,CZM,Cancelled
+Female,27--87,Seymour Johnson Air Force Base,US,United States,NAM,North America,2022-09--2022-12,GSB,Delayed
+Female,27--87,Kenmore Air Harbor Seaplane Base,US,United States,NAM,North America,2022-09--2022-12,LKE,On Time
+Female,27--87,Fort Madison Municipal Airport,US,United States,NAM,North America,2022-09--2022-12,FMS,Delayed
+Female,27--87,Nanaimo Harbour Water Airport,CA,Canada,NAM,North America,2022-09--2022-12,ZNA,On Time
+Female,27--87,Metropolitan Airport,US,United States,NAM,North America,2022-09--2022-12,PMX,Cancelled
+Female,20--90,Maupiti Airport,PF,French Polynesia,OC,Oceania,2022-01--2022-05,MAU,Cancelled
+Female,20--90,Wrotham Park Airport,AU,Australia,OC,Oceania,2022-01--2022-05,WPK,Delayed
+Female,20--90,Bairnsdale Airport,AU,Australia,OC,Oceania,2022-01--2022-05,BSJ,On Time
+Female,20--90,Guriaso (Keraso) Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,GUE,On Time
+Female,20--90,Noonkanbah Airport,AU,Australia,OC,Oceania,2022-01--2022-05,NKB,On Time
+Female,20--90,Nana Airport,SB,Solomon Islands,OC,Oceania,2022-01--2022-05,NAZ,On Time
+Female,20--90,Uru Harbour Airport,SB,Solomon Islands,OC,Oceania,2022-01--2022-05,ATD,On Time
+Female,20--90,Blue Lagoon Seaplane Base,FJ,Fiji,OC,Oceania,2022-01--2022-05,BXL,Delayed
+Female,20--90,Hihifo Airport,WF,Wallis and Futuna,OC,Oceania,2022-01--2022-05,WLS,Cancelled
+Female,20--90,Manetai Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,MVI,Delayed
+Female,20--90,Lord Howe Island Airport,AU,Australia,OC,Oceania,2022-01--2022-05,LDH,Delayed
+Female,20--90,Kuri Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,KUQ,Delayed
+Female,20--90,Tongoa Airport,VU,Vanuatu,OC,Oceania,2022-01--2022-05,TGH,Delayed
+Female,20--90,Aseki Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,AEK,Delayed
+Female,20--90,Lansdowne Airport,AU,Australia,OC,Oceania,2022-01--2022-05,LDW,Delayed
+Female,20--90,Tibooburra Airport,AU,Australia,OC,Oceania,2022-01--2022-05,TYB,Delayed
+Female,20--90,Marawaka Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,MWG,Delayed
+Female,20--90,Auvergne Airport,AU,Australia,OC,Oceania,2022-01--2022-05,AVG,Delayed
+Female,20--90,Nouma Magenta Airport,NC,New Caledonia,OC,Oceania,2022-01--2022-05,GEA,Delayed
+Female,20--90,Wollongong Airport,AU,Australia,OC,Oceania,2022-01--2022-05,WOL,Delayed
+Female,20--90,Parndana Airport,AU,Australia,OC,Oceania,2022-01--2022-05,PDN,Cancelled
+Female,20--90,Indagen Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,IDN,Delayed
+Female,20--90,Coffs Harbour Airport,AU,Australia,OC,Oceania,2022-01--2022-05,CFS,Delayed
+Female,20--90,Lab Lab Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,LAB,Cancelled
+Female,20--90,Kagua Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,AGK,Cancelled
+Female,20--90,Biaugunu Airport,FJ,Fiji,OC,Oceania,2022-01--2022-05,AQS,Delayed
+Female,20--90,Alexandra Airport,NZ,New Zealand,OC,Oceania,2022-01--2022-05,ALR,Delayed
+Female,20--90,The Monument Airport,AU,Australia,OC,Oceania,2022-01--2022-05,PHQ,Cancelled
+Female,20--90,Funafuti International Airport,TV,Tuvalu,OC,Oceania,2022-01--2022-05,FUN,On Time
+Female,20--90,Cudal Airport,AU,Australia,OC,Oceania,2022-01--2022-05,CUG,Delayed
+Female,20--90,St Helens Airport,AU,Australia,OC,Oceania,2022-01--2022-05,HLS,On Time
+Female,20--90,Walgett Airport,AU,Australia,OC,Oceania,2022-01--2022-05,WGE,Delayed
+Female,20--90,Wewak International Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,WWK,On Time
+Female,20--90,Ouva Airport,NC,New Caledonia,OC,Oceania,2022-01--2022-05,UVE,Cancelled
+Female,20--90,Indagen Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,IDN,Cancelled
+Female,20--90,Pangoa Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,PGB,Cancelled
+Female,20--90,Warrawagine Airport,AU,Australia,OC,Oceania,2022-01--2022-05,WRW,Cancelled
+Female,20--90,Devonport Airport,AU,Australia,OC,Oceania,2022-01--2022-05,DPO,Cancelled
+Female,20--90,Queenstown Airport,AU,Australia,OC,Oceania,2022-01--2022-05,UEE,On Time
+Female,20--90,Shark Bay Airport,AU,Australia,OC,Oceania,2022-01--2022-05,MJK,On Time
+Female,20--90,Kalbarri Airport,AU,Australia,OC,Oceania,2022-01--2022-05,KAX,On Time
+Female,20--90,Gwaunaru'u Airport,SB,Solomon Islands,OC,Oceania,2022-01--2022-05,AKS,Cancelled
+Female,20--90,Lae Island Airport,MH,Marshall Islands,OC,Oceania,2022-01--2022-05,LML,On Time
+Female,20--90,Fangatau Airport,PF,French Polynesia,OC,Oceania,2022-01--2022-05,FGU,Delayed
+Female,20--90,Biniguni Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,XBN,Delayed
+Female,20--90,Hawke's Bay Airport,NZ,New Zealand,OC,Oceania,2022-01--2022-05,NPE,On Time
+Female,20--90,Gonaili Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,GOE,Delayed
+Female,20--90,Barrow Island Airport,AU,Australia,OC,Oceania,2022-01--2022-05,BWB,On Time
+Female,20--90,Tamana Island Airport,KI,Kiribati,OC,Oceania,2022-01--2022-05,TMN,Cancelled
+Female,20--90,Broome International Airport,AU,Australia,OC,Oceania,2022-01--2022-05,BME,On Time
+Female,30--84,Anaa Airport,PF,French Polynesia,OC,Oceania,2022-06--2022-12,AAA,Delayed
+Female,30--84,Itokama Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,ITK,On Time
+Female,30--84,Warraber Island Airport,AU,Australia,OC,Oceania,2022-06--2022-12,SYU,Delayed
+Female,30--84,Cowell Airport,AU,Australia,OC,Oceania,2022-06--2022-12,CCW,On Time
+Female,30--84,Jacquinot Bay Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,JAQ,Cancelled
+Female,30--84,Leron Plains Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,LPN,Cancelled
+Female,30--84,Nuku Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,UKU,On Time
+Female,30--84,Bonriki International Airport,KI,Kiribati,OC,Oceania,2022-06--2022-12,TRW,Cancelled
+Female,30--84,Faleolo International Airport,WS,Samoa,OC,Oceania,2022-06--2022-12,APW,Delayed
+Female,30--84,Norsup Airport,VU,Vanuatu,OC,Oceania,2022-06--2022-12,NUS,Delayed
+Female,30--84,Kamina Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,KMF,Delayed
+Female,30--84,Olsobip Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,OLQ,Delayed
+Female,30--84,Doini Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,DOI,On Time
+Female,30--84,Brunette Downs Airport,AU,Australia,OC,Oceania,2022-06--2022-12,BTD,On Time
+Female,30--84,Green River Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,GVI,On Time
+Female,30--84,Salamo Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,SAM,Delayed
+Female,30--84,Parasi Airport,SB,Solomon Islands,OC,Oceania,2022-06--2022-12,PRS,Cancelled
+Female,30--84,Macdonald Downs Airport,AU,Australia,OC,Oceania,2022-06--2022-12,MNW,On Time
+Female,30--84,Coolibah Airport,AU,Australia,OC,Oceania,2022-06--2022-12,COB,Cancelled
+Female,30--84,Tsile Tsile Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,TSI,On Time
+Female,30--84,Moranbah Airport,AU,Australia,OC,Oceania,2022-06--2022-12,MOV,On Time
+Female,30--84,Moreton Airport,AU,Australia,OC,Oceania,2022-06--2022-12,MET,Cancelled
+Female,30--84,Pureni Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,PUI,Delayed
+Female,30--84,Craig Cove Airport,VU,Vanuatu,OC,Oceania,2022-06--2022-12,CCV,On Time
+Female,30--84,Dunk Island Airport,AU,Australia,OC,Oceania,2022-06--2022-12,DKI,On Time
+Female,30--84,Rennell/Tingoa Airport,SB,Solomon Islands,OC,Oceania,2022-06--2022-12,RNL,On Time
+Female,30--84,Wasua Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,WSA,Cancelled
+Female,30--84,Bulimba Airport,AU,Australia,OC,Oceania,2022-06--2022-12,BIP,Cancelled
+Female,30--84,Cloncurry Airport,AU,Australia,OC,Oceania,2022-06--2022-12,CNJ,Cancelled
+Female,30--84,Hermannsburg Airport,AU,Australia,OC,Oceania,2022-06--2022-12,HMG,Delayed
+Female,30--84,Lissadell Airport,AU,Australia,OC,Oceania,2022-06--2022-12,LLL,Delayed
+Female,30--84,Shute Harbour Airport,AU,Australia,OC,Oceania,2022-06--2022-12,JHQ,Cancelled
+Female,30--84,Rotuma Airport,FJ,Fiji,OC,Oceania,2022-06--2022-12,RTA,Delayed
+Female,30--84,Biliau Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,BIJ,Delayed
+Female,30--84,Agnew Airport,AU,Australia,OC,Oceania,2022-06--2022-12,AGW,Cancelled
+Female,30--84,Gregory Downs Airport,AU,Australia,OC,Oceania,2022-06--2022-12,GGD,On Time
+Female,30--84,Ryan's Creek Aerodrome,NZ,New Zealand,OC,Oceania,2022-06--2022-12,SZS,Delayed
+Female,30--84,Griffith Airport,AU,Australia,OC,Oceania,2022-06--2022-12,GFF,On Time
+Female,30--84,Lumi Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,LMI,Delayed
+Female,30--84,Wanuma Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,WNU,Cancelled
+Female,30--84,Wollogorang Airport,AU,Australia,OC,Oceania,2022-06--2022-12,WLL,On Time
+Female,30--84,Param Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,PPX,On Time
+Female,30--84,Shark Bay Airport,AU,Australia,OC,Oceania,2022-06--2022-12,MJK,Cancelled
+Female,30--84,Dumpu Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,DPU,Cancelled
+Female,30--84,Cordillo Downs Airport,AU,Australia,OC,Oceania,2022-06--2022-12,ODL,Cancelled
+Female,30--84,Clermont Airport,AU,Australia,OC,Oceania,2022-06--2022-12,CMQ,Cancelled
+Female,30--84,Bollon Airport,AU,Australia,OC,Oceania,2022-06--2022-12,BLS,Cancelled
+Female,30--84,Ononge Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,ONB,Cancelled
+Female,30--84,Fakahina Airport,PF,French Polynesia,OC,Oceania,2022-06--2022-12,FHZ,On Time
+Female,30--84,Awaba Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,AWB,Delayed
+Female,30--84,Bensbach Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,BSP,Cancelled
+Female,30--84,Walaha Airport,VU,Vanuatu,OC,Oceania,2022-06--2022-12,WLH,Delayed
+Female,30--84,Wantoat Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,WTT,On Time
+Female,30--84,Chuuk International Airport,FM,"Micronesia, Federated States of",OC,Oceania,2022-06--2022-12,TKK,Delayed
+Female,30--84,South Galway Airport,AU,Australia,OC,Oceania,2022-06--2022-12,ZGL,Cancelled
+Female,30--84,Haelogo Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,HEO,Cancelled
+Female,30--84,Warracknabeal Airport,AU,Australia,OC,Oceania,2022-06--2022-12,WKB,Delayed
+Female,30--84,Wollongong Airport,AU,Australia,OC,Oceania,2022-06--2022-12,WOL,On Time
+Female,30--84,Ballalae Airport,SB,Solomon Islands,OC,Oceania,2022-06--2022-12,BAS,Delayed
+Female,30--84,Wanigela Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,AGL,Cancelled
+Female,30--84,Kosipe Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,KSP,On Time
+Female,30--84,Badu Island Airport,AU,Australia,OC,Oceania,2022-06--2022-12,BDD,Delayed
+Female,30--84,Kanainj Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,KNE,On Time
+Female,30--84,Kibuli Airstrip,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,KII,Cancelled
+Female,30--84,Agaun Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,AUP,Cancelled
+Female,30--84,Nauru International Airport,NR,Nauru,OC,Oceania,2022-06--2022-12,INU,Cancelled
+Female,30--84,Whakatane Airport,NZ,New Zealand,OC,Oceania,2022-06--2022-12,WHK,On Time
+Female,30--84,Wipim Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,WPM,Delayed
+Female,30--84,Limbunya Airport,AU,Australia,OC,Oceania,2022-06--2022-12,LIB,Cancelled
+Female,30--84,Yam Island Airport,AU,Australia,OC,Oceania,2022-06--2022-12,XMY,On Time
+Female,30--84,Chinchilla Airport,AU,Australia,OC,Oceania,2022-06--2022-12,CCL,On Time
+Female,30--84,Omkalai Airport,PG,Papua New Guinea,OC,Oceania,2022-06--2022-12,OML,Cancelled
+Female,4--62,Pampa Guanaco Airport,CL,Chile,SAM,South America,2022-01--2022-12,DPB,Cancelled
+Female,4--62,JoÃ£o Durval Carneiro Airport,BR,Brazil,SAM,South America,2022-01--2022-12,FEC,On Time
+Female,4--62,Juan H White Airport,CO,Colombia,SAM,South America,2022-01--2022-12,CAQ,Delayed
+Female,4--62,Orlando Bezerra de Menezes Airport,BR,Brazil,SAM,South America,2022-01--2022-12,JDO,Delayed
+Female,4--62,Itapetinga Airport,BR,Brazil,SAM,South America,2022-01--2022-12,QIT,On Time
+Female,4--62,Camilo Daza International Airport,CO,Colombia,SAM,South America,2022-01--2022-12,CUC,On Time
+Female,4--62,JoÃ£o Durval Carneiro Airport,BR,Brazil,SAM,South America,2022-01--2022-12,FEC,Delayed
+Female,4--62,San Rafael Airport,CL,Chile,SAM,South America,2022-01--2022-12,LOB,On Time
+Female,4--62,Aguas Claras Airport,CO,Colombia,SAM,South America,2022-01--2022-12,OCV,On Time
+Female,4--62,Comandante Ariston Pessoa Airport,BR,Brazil,SAM,South America,2022-01--2022-12,JJD,On Time
+Female,4--62,San Tom Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-12,SOM,On Time
+Female,4--62,Las Flores Airport,CO,Colombia,SAM,South America,2022-01--2022-12,ELB,Delayed
+Female,4--62,Cirilo QueirÃ³z Airport,BR,Brazil,SAM,South America,2022-01--2022-12,AMJ,On Time
+Female,4--62,Gravatai Airport,BR,Brazil,SAM,South America,2022-01--2022-12,GCV,On Time
+Female,4--62,Capitan Nicolas Rojas Airport,BO,"Bolivia, Plurinational State of",SAM,South America,2022-01--2022-12,POI,Cancelled
+Female,4--62,Nelson Ribeiro GuimarÃ£es Airport,BR,Brazil,SAM,South America,2022-01--2022-12,CLV,Cancelled
+Female,4--62,Zaraza Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-12,ZRZ,Cancelled
+Female,4--62,AripuanÃ£ Airport,BR,Brazil,SAM,South America,2022-01--2022-12,AIR,On Time
+Female,4--62,Cururupu Airport,BR,Brazil,SAM,South America,2022-01--2022-12,CPU,On Time
+Female,4--62,AraÃ§atuba Airport,BR,Brazil,SAM,South America,2022-01--2022-12,ARU,Delayed
+Female,4--62,El Bagre Airport,CO,Colombia,SAM,South America,2022-01--2022-12,EBG,Delayed
+Female,4--62,CorumbÃ¡ International Airport,BR,Brazil,SAM,South America,2022-01--2022-12,CMG,Cancelled
+Female,4--62,SÃ£o Miguel do Araguaia Airport,BR,Brazil,SAM,South America,2022-01--2022-12,SQM,On Time
+Female,4--62,GrajaÃº Airport,BR,Brazil,SAM,South America,2022-01--2022-12,0,Delayed
+Female,4--62,New Amsterdam Airport,GY,Guyana,SAM,South America,2022-01--2022-12,QSX,Delayed
+Female,4--62,Caviahue Airport,AR,Argentina,SAM,South America,2022-01--2022-12,CVH,Cancelled
+Female,4--62,General Enrique Mosconi Airport,AR,Argentina,SAM,South America,2022-01--2022-12,TTG,On Time
+Female,4--62,Tenente Lund Pressoto Airport,BR,Brazil,SAM,South America,2022-01--2022-12,FRC,Delayed
+Female,4--62,Rubem Berta Airport,BR,Brazil,SAM,South America,2022-01--2022-12,URG,On Time
+Female,4--62,Jumandy Airport,EC,Ecuador,SAM,South America,2022-01--2022-12,TNW,Cancelled
+Female,4--62,Santa Maria Airport,BR,Brazil,SAM,South America,2022-01--2022-12,AJU,Delayed
+Female,4--62,Barranca De Upia Airport,CO,Colombia,SAM,South America,2022-01--2022-12,BAC,Delayed
+Female,4--62,Tambillos Airport,CL,Chile,SAM,South America,2022-01--2022-12,COW,Delayed
+Female,4--62,San Salvador de Paul Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-12,SVV,Delayed
+Female,4--62,RiachÃ£o Airport,BR,Brazil,SAM,South America,2022-01--2022-12,0,Delayed
+Female,4--62,Fazenda Bela Vista Airport,BR,Brazil,SAM,South America,2022-01--2022-12,SB2,On Time
+Female,4--62,CarurÃº Airport,CO,Colombia,SAM,South America,2022-01--2022-12,CUO,On Time
+Female,4--62,Pore Airport,CO,Colombia,SAM,South America,2022-01--2022-12,PRE,On Time
+Female,4--62,Santa Maria da VitÃ³ria Airport,BR,Brazil,SAM,South America,2022-01--2022-12,0,Delayed
+Female,4--62,Hugo Cantergiani Regional Airport,BR,Brazil,SAM,South America,2022-01--2022-12,CXJ,On Time
+Female,4--62,Mariquita Airport,CO,Colombia,SAM,South America,2022-01--2022-12,MQU,On Time
+Female,4--62,Brig. Lysias Augusto Rodrigues Airport,BR,Brazil,SAM,South America,2022-01--2022-12,CLN,Cancelled
+Female,4--62,Pastos Bons Airport,BR,Brazil,SAM,South America,2022-01--2022-12,0,On Time
+Female,4--62,Prado Airport,BR,Brazil,SAM,South America,2022-01--2022-12,PDF,Cancelled
+Female,4--62,Coronel HorÃ¡cio de Mattos Airport,BR,Brazil,SAM,South America,2022-01--2022-12,LEC,On Time
+Female,4--62,Corrientes Airport,AR,Argentina,SAM,South America,2022-01--2022-12,CNQ,On Time
+Female,4--62,Guanare Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-12,GUQ,On Time
+Female,4--62,SÃ£o Miguel do Oeste Airport,BR,Brazil,SAM,South America,2022-01--2022-12,SQX,On Time
+Female,4--62,Novo Progresso Airport,BR,Brazil,SAM,South America,2022-01--2022-12,NPR,On Time
+Female,4--62,Coronel FAP Alfredo Mendivil Duarte Airport,PE,Peru,SAM,South America,2022-01--2022-12,AYP,Cancelled
+Female,4--62,La Primavera Airport,CO,Colombia,SAM,South America,2022-01--2022-12,LPE,Cancelled
+Female,4--62,Diamantina Airport,BR,Brazil,SAM,South America,2022-01--2022-12,DTI,Delayed
+Female,4--62,Libertador Gral D Jose De San Martin Airport,AR,Argentina,SAM,South America,2022-01--2022-12,PSS,Cancelled
+Female,4--62,EMBRAER - Unidade GaviÃ£o Peixoto Airport,BR,Brazil,SAM,South America,2022-01--2022-12,0,Cancelled
+Female,4--62,Lethem Airport,GY,Guyana,SAM,South America,2022-01--2022-12,LTM,Delayed
+Female,4--62,Enrique Olaya Herrera Airport,CO,Colombia,SAM,South America,2022-01--2022-12,EOH,On Time
+Female,4--62,Espinosa Airport,BR,Brazil,SAM,South America,2022-01--2022-12,ESI,On Time
+Female,4--62,Alfredo VÃ¡squez Cobo International Airport,CO,Colombia,SAM,South America,2022-01--2022-12,LET,On Time
+Female,4--62,Seymour Airport,EC,Ecuador,SAM,South America,2022-01--2022-12,GPS,Delayed
+Female,4--62,Belmonte Airport,BR,Brazil,SAM,South America,2022-01--2022-12,BVM,On Time
+Female,4--62,ViÃ±a del mar Airport,CL,Chile,SAM,South America,2022-01--2022-12,KNA,On Time
+Female,4--62,Arturo Michelena International Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-12,VLN,Delayed
+Female,4--62,Necochea Airport,AR,Argentina,SAM,South America,2022-01--2022-12,NEC,Cancelled
+Female,4--62,Hato Corozal Airport,CO,Colombia,SAM,South America,2022-01--2022-12,HTZ,Delayed
+Female,4--62,Zorg en Hoop Airport,SR,Suriname,SAM,South America,2022-01--2022-12,ORG,On Time
+Female,4--62,Gustavo Artunduaga Paredes Airport,CO,Colombia,SAM,South America,2022-01--2022-12,FLA,Cancelled
+Female,4--62,Cacoal Airport,BR,Brazil,SAM,South America,2022-01--2022-12,OAL,Cancelled
+Female,4--62,Prefeito Renato Moreira Airport,BR,Brazil,SAM,South America,2022-01--2022-12,IMP,Cancelled
+Female,4--62,Totness Airport,SR,Suriname,SAM,South America,2022-01--2022-12,TOT,On Time
+Female,4--62,Mlio Viana Airport,BR,Brazil,SAM,South America,2022-01--2022-12,QID,On Time
+Female,4--62,El Dorado Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-12,EOR,On Time
+Female,4--62,Cascavel Airport,BR,Brazil,SAM,South America,2022-01--2022-12,CAC,Delayed
+Female,4--62,Zaraza Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-12,ZRZ,On Time
+Female,4--62,Ladouanie Airport,SR,Suriname,SAM,South America,2022-01--2022-12,LDO,Delayed
+Female,4--62,Andrs Sabella GÃ¡lvez International Airport,CL,Chile,SAM,South America,2022-01--2022-12,ANF,Cancelled
+Female,4--62,Alejandro Velasco Astete International Airport,PE,Peru,SAM,South America,2022-01--2022-12,CUZ,On Time
+Female,4--62,Canarana Airport,BR,Brazil,SAM,South America,2022-01--2022-12,CQA,Cancelled
+Female,4--62,TibÃº Airport,CO,Colombia,SAM,South America,2022-01--2022-12,TIB,Cancelled
+Female,4--62,Soledade Airport,BR,Brazil,SAM,South America,2022-01--2022-12,0,Cancelled
+Female,4--62,Viracopos International Airport,BR,Brazil,SAM,South America,2022-01--2022-12,VCP,Cancelled
+Female,4--62,Carutapera Airport,BR,Brazil,SAM,South America,2022-01--2022-12,CTP,Cancelled
+Female,4--62,Campo Fontenelle Airport,BR,Brazil,SAM,South America,2022-01--2022-12,QPS,Cancelled
+Female,4--62,Fazenda Piraguassu Airport,BR,Brazil,SAM,South America,2022-01--2022-12,PBX,On Time
+Female,4--62,Chos Malal Airport,AR,Argentina,SAM,South America,2022-01--2022-12,HOS,On Time
+Female,4--62,Andre Maggi Airport,BR,Brazil,SAM,South America,2022-01--2022-12,OTT,Cancelled
+Female,4--62,Bandeirantes Airport,BR,Brazil,SAM,South America,2022-01--2022-12,0,Delayed
+Female,4--62,Mount Pleasant Airport,FK,Falkland Islands (Malvinas),SAM,South America,2022-01--2022-12,MPN,Delayed
+Female,4--62,Lauro Carneiro de Loyola Airport,BR,Brazil,SAM,South America,2022-01--2022-12,JOI,Cancelled
+Female,4--62,Diego Aracena Airport,CL,Chile,SAM,South America,2022-01--2022-12,IQQ,Delayed
+Female,4--62,Brigadier Antonio Parodi Airport,AR,Argentina,SAM,South America,2022-01--2022-12,EQS,Delayed
+Female,4--62,Urrao Airport,CO,Colombia,SAM,South America,2022-01--2022-12,URR,Delayed
+Female,4--62,Guasdalito Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-12,GDO,Delayed
+Female,4--62,Cruzeiro do Sul Airport,BR,Brazil,SAM,South America,2022-01--2022-12,CZS,On Time
+Female,4--62,Monte Dourado Airport,BR,Brazil,SAM,South America,2022-01--2022-12,MEU,On Time
+Male,6--76,El Alamein International Airport,EG,Egypt,AF,Africa,2022-01--2022-12,DBB,Cancelled
+Male,6--76,Berbrati Airport,CF,Central African Republic,AF,Africa,2022-01--2022-12,BBT,Cancelled
+Male,6--76,Nzagi Airport,AO,Angola,AF,Africa,2022-01--2022-12,NZA,On Time
+Male,6--76,Moanda Airport,GA,Gabon,AF,Africa,2022-01--2022-12,MFF,On Time
+Male,6--76,Ankazoabo Airport,MG,Madagascar,AF,Africa,2022-01--2022-12,WAK,Delayed
+Male,6--76,Prince Mangosuthu Buthelezi Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,ULD,Delayed
+Male,6--76,Senanga Airport,ZM,Zambia,AF,Africa,2022-01--2022-12,SXG,Delayed
+Male,6--76,Bo Airport,SL,Sierra Leone,AF,Africa,2022-01--2022-12,KBS,On Time
+Male,6--76,Ouarzazate Airport,MA,Morocco,AF,Africa,2022-01--2022-12,OZZ,Cancelled
+Male,6--76,Southdowns Airport,ZM,Zambia,AF,Africa,2022-01--2022-12,KIW,Cancelled
+Male,6--76,Rabat-Sal Airport,MA,Morocco,AF,Africa,2022-01--2022-12,RBA,On Time
+Male,6--76,Kelafo East Airport,ET,Ethiopia,AF,Africa,2022-01--2022-12,LFO,On Time
+Male,6--76,Gardo Airport,SO,Somalia,AF,Africa,2022-01--2022-12,GSR,Delayed
+Male,6--76,Ampanihy Airport,MG,Madagascar,AF,Africa,2022-01--2022-12,AMP,Delayed
+Male,6--76,Kikwit Airport,CD,"Congo, The Democratic Republic of the",AF,Africa,2022-01--2022-12,KKW,Cancelled
+Male,6--76,Lambarene Airport,GA,Gabon,AF,Africa,2022-01--2022-12,LBQ,Delayed
+Male,6--76,Makabana Airport,CG,Congo,AF,Africa,2022-01--2022-12,KMK,Delayed
+Male,6--76,Moshoeshoe I International Airport,LS,Lesotho,AF,Africa,2022-01--2022-12,MSU,On Time
+Male,6--76,Jwaneng Airport,BW,Botswana,AF,Africa,2022-01--2022-12,JWA,On Time
+Male,6--76,Zabr Airport,BF,Burkina Faso,AF,Africa,2022-01--2022-12,XZA,On Time
+Male,6--76,Amborovy Airport,MG,Madagascar,AF,Africa,2022-01--2022-12,MJN,Delayed
+Male,6--76,Merowe New Airport,SD,Sudan,AF,Africa,2022-01--2022-12,MWE,Cancelled
+Male,6--76,Lambarene Airport,GA,Gabon,AF,Africa,2022-01--2022-12,LBQ,Cancelled
+Male,6--76,Kasaba Bay Airport,ZM,Zambia,AF,Africa,2022-01--2022-12,ZKB,Delayed
+Male,6--76,El Fasher Airport,SD,Sudan,AF,Africa,2022-01--2022-12,ELF,On Time
+Male,6--76,Lastourville Airport,GA,Gabon,AF,Africa,2022-01--2022-12,LTL,On Time
+Male,6--76,Ouahigouya Airport,BF,Burkina Faso,AF,Africa,2022-01--2022-12,OUG,On Time
+Male,6--76,Mara Lodges Airport,KE,Kenya,AF,Africa,2022-01--2022-12,MRE,Delayed
+Male,6--76,Shakiso Airport,ET,Ethiopia,AF,Africa,2022-01--2022-12,SKR,Cancelled
+Male,6--76,Ubari Airport,LY,Libya,AF,Africa,2022-01--2022-12,QUB,Cancelled
+Male,6--76,Djibo Airport,BF,Burkina Faso,AF,Africa,2022-01--2022-12,XDJ,On Time
+Male,6--76,Mekane Selam Airport,ET,Ethiopia,AF,Africa,2022-01--2022-12,MKS,On Time
+Male,6--76,Salak Airport,CM,Cameroon,AF,Africa,2022-01--2022-12,MVR,Delayed
+Male,6--76,Nangade Airport,MZ,Mozambique,AF,Africa,2022-01--2022-12,NND,On Time
+Male,6--76,Mwadui Airport,TZ,"Tanzania, United Republic of",AF,Africa,2022-01--2022-12,MWN,Delayed
+Male,6--76,Wonderboom Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,PRY,On Time
+Male,6--76,Mecheria Airport,DZ,Algeria,AF,Africa,2022-01--2022-12,MZW,Cancelled
+Male,6--76,"Paloich Airport, Heliport",SS,South Sudan,AF,Africa,2022-01--2022-12,HGI,On Time
+Male,6--76,Ghat Airport,LY,Libya,AF,Africa,2022-01--2022-12,GHT,Cancelled
+Male,6--76,Mendi Airport,ET,Ethiopia,AF,Africa,2022-01--2022-12,NDM,Cancelled
+Male,6--76,Lalibella Airport,ET,Ethiopia,AF,Africa,2022-01--2022-12,LLI,Cancelled
+Male,6--76,Bitam Airport,GA,Gabon,AF,Africa,2022-01--2022-12,BMM,Delayed
+Male,6--76,Geladi Airport,ET,Ethiopia,AF,Africa,2022-01--2022-12,GLC,Cancelled
+Male,6--76,Zagora Airport,MA,Morocco,AF,Africa,2022-01--2022-12,OZG,Cancelled
+Male,6--76,Biskra Airport,DZ,Algeria,AF,Africa,2022-01--2022-12,BSK,Cancelled
+Male,6--76,Ghanzi Airport,BW,Botswana,AF,Africa,2022-01--2022-12,GNZ,Cancelled
+Male,6--76,Ibo Airport,MZ,Mozambique,AF,Africa,2022-01--2022-12,IBO,On Time
+Male,6--76,Aribinda Airport,BF,Burkina Faso,AF,Africa,2022-01--2022-12,XAR,On Time
+Male,6--76,Maya-Maya Airport,CG,Congo,AF,Africa,2022-01--2022-12,BZV,Cancelled
+Male,6--76,Motswari Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,MWR,On Time
+Male,6--76,Amborovy Airport,MG,Madagascar,AF,Africa,2022-01--2022-12,MJN,Cancelled
+Male,6--76,Pierrefonds Airport,RE,Runion,AF,Africa,2022-01--2022-12,ZSE,Delayed
+Male,6--76,Moanda Airport,GA,Gabon,AF,Africa,2022-01--2022-12,MFF,Delayed
+Male,6--76,Fianarantsoa Airport,MG,Madagascar,AF,Africa,2022-01--2022-12,WFI,On Time
+Male,6--76,Sehonghong Airport,LS,Lesotho,AF,Africa,2022-01--2022-12,SHK,On Time
+Male,6--76,Am Timan Airport,TD,Chad,AF,Africa,2022-01--2022-12,AMC,On Time
+Male,6--76,Besalampy Airport,MG,Madagascar,AF,Africa,2022-01--2022-12,BPY,Delayed
+Male,6--76,Pama Airport,BF,Burkina Faso,AF,Africa,2022-01--2022-12,XPA,Cancelled
+Male,6--76,Agostinho Neto Airport,CV,Cabo Verde,AF,Africa,2022-01--2022-12,NTO,Cancelled
+Male,6--76,Lom-Tokoin Airport,TG,Togo,AF,Africa,2022-01--2022-12,LFW,Cancelled
+Male,6--76,Gaoua Airport,BF,Burkina Faso,AF,Africa,2022-01--2022-12,XGA,Cancelled
+Male,6--76,Butare Airport,RW,Rwanda,AF,Africa,2022-01--2022-12,BTQ,Delayed
+Male,6--76,Mvuu Camp Airport,MW,Malawi,AF,Africa,2022-01--2022-12,VUU,Delayed
+Male,6--76,Kiwayu Airport,KE,Kenya,AF,Africa,2022-01--2022-12,KWY,Delayed
+Male,6--76,Lebakeng Airport,LS,Lesotho,AF,Africa,2022-01--2022-12,LEF,Delayed
+Male,6--76,Manono Airport,CD,"Congo, The Democratic Republic of the",AF,Africa,2022-01--2022-12,MNO,Cancelled
+Male,6--76,Lastourville Airport,GA,Gabon,AF,Africa,2022-01--2022-12,LTL,On Time
+Male,6--76,Beira Airport,MZ,Mozambique,AF,Africa,2022-01--2022-12,BEW,Cancelled
+Male,6--76,Sua Pan Airport,BW,Botswana,AF,Africa,2022-01--2022-12,SXN,On Time
+Male,6--76,Mweka Airport,CD,"Congo, The Democratic Republic of the",AF,Africa,2022-01--2022-12,MEW,On Time
+Male,6--76,Khashm El Girba Airport,SD,Sudan,AF,Africa,2022-01--2022-12,GBU,Cancelled
+Male,6--76,Abou-DeÃ¯a Airport,TD,Chad,AF,Africa,2022-01--2022-12,AOD,On Time
+Male,6--76,Kasenga Airport,CD,"Congo, The Democratic Republic of the",AF,Africa,2022-01--2022-12,KEC,On Time
+Male,6--76,Potchefstroom Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,PCF,Cancelled
+Male,6--76,Akure Airport,NG,Nigeria,AF,Africa,2022-01--2022-12,AKR,Delayed
+Male,6--76,Simenti Airport,SN,Senegal,AF,Africa,2022-01--2022-12,SMY,On Time
+Male,6--76,Ouahigouya Airport,BF,Burkina Faso,AF,Africa,2022-01--2022-12,OUG,Delayed
+Male,6--76,Mzuzu Airport,MW,Malawi,AF,Africa,2022-01--2022-12,ZZU,On Time
+Male,6--76,Paradise Island Airport,MZ,Mozambique,AF,Africa,2022-01--2022-12,NTC,On Time
+Male,6--76,Korhogo Airport,CI,CÃ´te d'Ivoire,AF,Africa,2022-01--2022-12,HGO,On Time
+Male,6--76,Port Gentil Airport,GA,Gabon,AF,Africa,2022-01--2022-12,POG,Cancelled
+Male,6--76,Tamchakett Airport,MR,Mauritania,AF,Africa,2022-01--2022-12,THT,Delayed
+Male,6--76,Akjoujt Airport,MR,Mauritania,AF,Africa,2022-01--2022-12,AJJ,Cancelled
+Male,6--76,El Daein Airport,SD,Sudan,AF,Africa,2022-01--2022-12,ADV,Cancelled
+Male,6--76,Blaise Diagne International Airport,SN,Senegal,AF,Africa,2022-01--2022-12,DSS,Cancelled
+Male,6--76,Mtwara Airport,TZ,"Tanzania, United Republic of",AF,Africa,2022-01--2022-12,MYW,On Time
+Male,6--76,Ouango Fitini Airport,CI,CÃ´te d'Ivoire,AF,Africa,2022-01--2022-12,OFI,On Time
+Male,6--76,Dedougou Airport,BF,Burkina Faso,AF,Africa,2022-01--2022-12,DGU,On Time
+Male,6--76,Rand Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,QRA,Delayed
+Male,6--76,Overberg Airport,ZA,South Africa,AF,Africa,2022-01--2022-12,OVG,Cancelled
+Male,6--76,Indigo Bay Lodge Airport,MZ,Mozambique,AF,Africa,2022-01--2022-12,IBL,On Time
+Male,6--76,Leribe Airport,LS,Lesotho,AF,Africa,2022-01--2022-12,LRB,Cancelled
+Male,6--76,Ambatondrazaka Airport,MG,Madagascar,AF,Africa,2022-01--2022-12,WAM,Cancelled
+Male,6--76,Nyala Airport,SD,Sudan,AF,Africa,2022-01--2022-12,UYL,On Time
+Male,6--76,Bakel Airport,SN,Senegal,AF,Africa,2022-01--2022-12,BXE,On Time
+Male,6--76,Aswan International Airport,EG,Egypt,AF,Africa,2022-01--2022-12,ASW,Delayed
+Male,9--72,Shimla Airport,IN,India,AS,Asia,2022-01--2022-04,SLV,On Time
+Male,9--72,Mukalla International Airport,YE,Yemen,AS,Asia,2022-01--2022-04,RIY,On Time
+Male,9--72,Allah Valley Airport,PH,Philippines,AS,Asia,2022-01--2022-04,AAV,On Time
+Male,9--72,Rajkot Airport,IN,India,AS,Asia,2022-01--2022-04,RAJ,Cancelled
+Male,9--72,Chumphon Airport,TH,Thailand,AS,Asia,2022-01--2022-04,CJM,On Time
+Male,9--72,Langtang Airport,NP,Nepal,AS,Asia,2022-01--2022-04,LTG,Cancelled
+Male,9--72,Monywar Airport,MM,Myanmar,AS,Asia,2022-01--2022-04,NYW,Delayed
+Male,9--72,Kamalpur Airport,IN,India,AS,Asia,2022-01--2022-04,IXQ,Cancelled
+Male,9--72,Guanghan Airport,CN,China,AS,Asia,2022-01--2022-04,GHN,Cancelled
+Male,9--72,Ulan-Ude Airport (Mukhino),RU,Russian Federation,AS,Asia,2022-01--2022-04,UUD,Delayed
+Male,9--72,Mukah Airport,MY,Malaysia,AS,Asia,2022-01--2022-04,MKM,On Time
+Male,9--72,Hongyuan Airport,CN,China,AS,Asia,2022-01--2022-04,AHJ,Cancelled
+Male,9--72,Marmul Airport,OM,Oman,AS,Asia,2022-01--2022-04,OMM,Delayed
+Male,9--72,Hengchun Airport,TW,"Taiwan, Province of China",AS,Asia,2022-01--2022-04,HCN,Delayed
+Male,9--72,Pohang Airport (G-815/K-3),KR,"Korea, Republic of",AS,Asia,2022-01--2022-04,KPO,Delayed
+Male,9--72,Luang Namtha Airport,LA,Lao People's Democratic Republic,AS,Asia,2022-01--2022-04,LXG,On Time
+Male,9--72,Qarn Alam Airport,OM,Oman,AS,Asia,2022-01--2022-04,RNM,Cancelled
+Male,9--72,Dongshan Airport,CN,China,AS,Asia,2022-01--2022-04,HLD,On Time
+Male,9--72,Gangneung Airport (K-18),KR,"Korea, Republic of",AS,Asia,2022-01--2022-04,KAG,Delayed
+Male,9--72,Godofredo P. Ramos Airport,PH,Philippines,AS,Asia,2022-01--2022-04,MPH,Delayed
+Male,9--72,Turaif Domestic Airport,SA,Saudi Arabia,AS,Asia,2022-01--2022-04,TUI,Cancelled
+Male,9--72,Jubail Airport,SA,Saudi Arabia,AS,Asia,2022-01--2022-04,QJB,Delayed
+Male,9--72,Mirny Airport,RU,Russian Federation,AS,Asia,2022-01--2022-04,MJZ,On Time
+Male,9--72,Waris Airport,ID,Indonesia,AS,Asia,2022-01--2022-04,WAR,Delayed
+Male,9--72,Nicosia International Airport,CY,Cyprus,AS,Asia,2022-01--2022-04,NIC,Cancelled
+Male,9--72,Sintang(Susilo) Airport,ID,Indonesia,AS,Asia,2022-01--2022-04,SQG,Delayed
+Male,9--72,Komatsu Airport,JP,Japan,AS,Asia,2022-01--2022-04,KMQ,On Time
+Male,9--72,Enshi Airport,CN,China,AS,Asia,2022-01--2022-04,ENH,Delayed
+Male,9--72,Seunagan Airport,ID,Indonesia,AS,Asia,2022-01--2022-04,MEQ,Delayed
+Male,9--72,Moises R. Espinosa Airport,PH,Philippines,AS,Asia,2022-01--2022-04,MBT,Delayed
+Male,9--72,Pondok Cabe Air Base,ID,Indonesia,AS,Asia,2022-01--2022-04,PCB,On Time
+Male,9--72,Kerama Airport,JP,Japan,AS,Asia,2022-01--2022-04,KJP,Delayed
+Male,9--72,Nanded Airport,IN,India,AS,Asia,2022-01--2022-04,NDC,On Time
+Male,9--72,Kankesanturai Airport,LK,Sri Lanka,AS,Asia,2022-01--2022-04,JAF,Cancelled
+Male,9--72,Khuzdar Airport,PK,Pakistan,AS,Asia,2022-01--2022-04,KDD,Delayed
+Male,9--72,Sohar Airport,OM,Oman,AS,Asia,2022-01--2022-04,OHS,Cancelled
+Male,9--72,Sentani International Airport,ID,Indonesia,AS,Asia,2022-01--2022-04,DJJ,On Time
+Male,9--72,Omidiyeh Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-01--2022-04,OMI,Cancelled
+Male,9--72,Gwalior Airport,IN,India,AS,Asia,2022-01--2022-04,GWL,Delayed
+Male,9--72,Rugao Air Base,CN,China,AS,Asia,2022-01--2022-04,RUG,On Time
+Male,9--72,Danilo Atienza Air Base,PH,Philippines,AS,Asia,2022-01--2022-04,SGL,On Time
+Male,9--72,Zonalnoye Airport,RU,Russian Federation,AS,Asia,2022-01--2022-04,ZZO,Delayed
+Male,9--72,Sultan Azlan Shah Airport,MY,Malaysia,AS,Asia,2022-01--2022-04,IPH,Cancelled
+Male,9--72,King Khaled Military City Airport,SA,Saudi Arabia,AS,Asia,2022-01--2022-04,KMC,Cancelled
+Male,9--72,Sawan Airport,PK,Pakistan,AS,Asia,2022-01--2022-04,RZS,Cancelled
+Male,9--72,Fukue Airport,JP,Japan,AS,Asia,2022-01--2022-04,FUJ,On Time
+Male,9--72,Amman-Marka International Airport,JO,Jordan,AS,Asia,2022-01--2022-04,ADJ,Cancelled
+Male,9--72,Turkmenabat Airport,TM,Turkmenistan,AS,Asia,2022-01--2022-04,CRZ,On Time
+Male,9--72,ÅEEanlÄ±urfa Airport,TR,Turkey,AS,Asia,2022-01--2022-04,SFQ,Cancelled
+Male,9--72,Xinzhou Wutaishan Airport,CN,China,AS,Asia,2022-01--2022-04,WUT,Cancelled
+Male,80--9,Tarama Airport,JP,Japan,AS,Asia,2022-04--2022-09,TRA,On Time
+Male,80--9,Narathiwat Airport,TH,Thailand,AS,Asia,2022-04--2022-09,NAW,On Time
+Male,80--9,Yuruf Airport,ID,Indonesia,AS,Asia,2022-04--2022-09,RUF,Delayed
+Male,80--9,Gabala International Airport,AZ,Azerbaijan,AS,Asia,2022-04--2022-09,GBB,Cancelled
+Male,80--9,Prince Abdulmohsin Bin Abdulaziz Airport,SA,Saudi Arabia,AS,Asia,2022-04--2022-09,YNB,On Time
+Male,80--9,Yotvata Airfield,IL,Israel,AS,Asia,2022-04--2022-09,YOT,On Time
+Male,80--9,Tabriz International Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-04--2022-09,TBZ,Delayed
+Male,80--9,Rupsi India Airport,IN,India,AS,Asia,2022-04--2022-09,RUP,Delayed
+Male,80--9,Zhongwei Shapotou Airport,CN,China,AS,Asia,2022-04--2022-09,ZHY,Cancelled
+Male,80--9,Igrim Airport,RU,Russian Federation,AS,Asia,2022-04--2022-09,IRM,On Time
+Male,80--9,Tezu Airport,IN,India,AS,Asia,2022-04--2022-09,TEI,Delayed
+Male,80--9,Pakhokku Airport,MM,Myanmar,AS,Asia,2022-04--2022-09,PKK,Delayed
+Male,80--9,Jiayuguan Airport,CN,China,AS,Asia,2022-04--2022-09,JGN,On Time
+Male,80--9,BingÃ¶l ÃEEeltiksuyu Airport,TR,Turkey,AS,Asia,2022-04--2022-09,BGG,Delayed
+Male,80--9,Kaadedhdhoo Airport,MV,Maldives,AS,Asia,2022-04--2022-09,KDM,Delayed
+Male,80--9,Muara Bungo Airport,ID,Indonesia,AS,Asia,2022-04--2022-09,BUU,Cancelled
+Male,80--9,Biratnagar Airport,NP,Nepal,AS,Asia,2022-04--2022-09,BIR,On Time
+Male,80--9,Sardar-e-Jangal Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-04--2022-09,RAS,On Time
+Male,80--9,Sharana Airstrip,AF,Afghanistan,AS,Asia,2022-04--2022-09,OAS,Delayed
+Male,80--9,Long Semado Airport,MY,Malaysia,AS,Asia,2022-04--2022-09,LSM,Cancelled
+Male,80--9,Rupsi India Airport,IN,India,AS,Asia,2022-04--2022-09,RUP,Delayed
+Male,80--9,San Fernando Airport,PH,Philippines,AS,Asia,2022-04--2022-09,SFE,On Time
+Male,80--9,Asaloyeh Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-04--2022-09,YEH,Delayed
+Male,80--9,Shaxian Airport,CN,China,AS,Asia,2022-04--2022-09,SQJ,Cancelled
+Male,80--9,Jahrom Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-04--2022-09,JAR,Delayed
+Male,80--9,Huangyan Luqiao Airport,CN,China,AS,Asia,2022-04--2022-09,HYN,On Time
+Male,80--9,Kon Airport,TL,Timor-Leste,AS,Asia,2022-04--2022-09,KCI,Delayed
+Male,80--9,Ein Yahav Airfield,IL,Israel,AS,Asia,2022-04--2022-09,EIY,Delayed
+Male,80--9,Makung Airport,TW,"Taiwan, Province of China",AS,Asia,2022-04--2022-09,MZG,Cancelled
+Male,80--9,Biju Patnaik Airport,IN,India,AS,Asia,2022-04--2022-09,BBI,Delayed
+Male,80--9,Tumling Tar Airport,NP,Nepal,AS,Asia,2022-04--2022-09,TMI,On Time
+Male,80--9,Atyrau Airport,KZ,Kazakhstan,AS,Asia,2022-04--2022-09,GUW,Delayed
+Male,80--9,Zyryanka Airport,RU,Russian Federation,AS,Asia,2022-04--2022-09,ZKP,Cancelled
+Male,80--9,Sahiwal Airport,PK,Pakistan,AS,Asia,2022-04--2022-09,SWN,Cancelled
+Male,80--9,Jebel Ali Seaplane Base,AE,United Arab Emirates,AS,Asia,2022-04--2022-09,DJH,Delayed
+Male,80--9,Abresso Airport,ID,Indonesia,AS,Asia,2022-04--2022-09,RSK,On Time
+Male,80--9,Phaplu Airport,NP,Nepal,AS,Asia,2022-04--2022-09,PPL,Cancelled
+Male,80--9,Senggo Airport,ID,Indonesia,AS,Asia,2022-04--2022-09,ZEG,Delayed
+Male,80--9,Tselserleg Airport,MN,Mongolia,AS,Asia,2022-04--2022-09,TSZ,Cancelled
+Male,80--9,Muhammad Salahuddin Airport,ID,Indonesia,AS,Asia,2022-04--2022-09,BMU,Cancelled
+Male,80--9,"Pattimura Airport, Ambon",ID,Indonesia,AS,Asia,2022-04--2022-09,AMQ,On Time
+Male,80--9,Bacolod-Silay Airport,PH,Philippines,AS,Asia,2022-04--2022-09,BCD,On Time
+Male,80--9,Rustaq Airport,OM,Oman,AS,Asia,2022-04--2022-09,MNH,Cancelled
+Male,80--9,Xilinhot Airport,CN,China,AS,Asia,2022-04--2022-09,XIL,Delayed
+Male,80--9,Dazu Air Base,CN,China,AS,Asia,2022-04--2022-09,DZU,Cancelled
+Male,80--9,Aldan Airport,RU,Russian Federation,AS,Asia,2022-04--2022-09,ADH,Cancelled
+Male,80--9,Tengchong Tuofeng Airport,CN,China,AS,Asia,2022-04--2022-09,TCZ,On Time
+Male,80--9,Tacheng Airport,CN,China,AS,Asia,2022-04--2022-09,TCG,Cancelled
+Male,80--9,Odate Noshiro Airport,JP,Japan,AS,Asia,2022-04--2022-09,ONJ,On Time
+Male,80--9,"Rewa Airport, Chorhata, REWA",IN,India,AS,Asia,2022-04--2022-09,REW,Delayed
+Male,38--79,Pakse International Airport,LA,Lao People's Democratic Republic,AS,Asia,2022-09--2022-12,PKZ,Cancelled
+Male,38--79,Syukuran Aminuddin Amir Airport,ID,Indonesia,AS,Asia,2022-09--2022-12,LUW,On Time
+Male,38--79,Xiamen Gaoqi International Airport,CN,China,AS,Asia,2022-09--2022-12,XMN,Cancelled
+Male,38--79,Zhigansk Airport,RU,Russian Federation,AS,Asia,2022-09--2022-12,ZIX,Cancelled
+Male,38--79,Dalanzadgad Airport,MN,Mongolia,AS,Asia,2022-09--2022-12,DLZ,On Time
+Male,38--79,Guilin Liangjiang International Airport,CN,China,AS,Asia,2022-09--2022-12,KWL,Cancelled
+Male,38--79,Wuhan Tianhe International Airport,CN,China,AS,Asia,2022-09--2022-12,WUH,Delayed
+Male,38--79,Kaili Airport,CN,China,AS,Asia,2022-09--2022-12,KJH,On Time
+Male,38--79,Kerman Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-09--2022-12,KER,Cancelled
+Male,38--79,Kashan Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-09--2022-12,KKS,Delayed
+Male,38--79,Warukin Airport,ID,Indonesia,AS,Asia,2022-09--2022-12,TJG,Delayed
+Male,38--79,Abha Regional Airport,SA,Saudi Arabia,AS,Asia,2022-09--2022-12,AHB,On Time
+Male,38--79,Sado Airport,JP,Japan,AS,Asia,2022-09--2022-12,SDS,Delayed
+Male,38--79,Kamur Airport,ID,Indonesia,AS,Asia,2022-09--2022-12,KCD,Cancelled
+Male,38--79,Zaranj Airport,AF,Afghanistan,AS,Asia,2022-09--2022-12,ZAJ,Cancelled
+Male,38--79,Chinggis Khaan International Airport,MN,Mongolia,AS,Asia,2022-09--2022-12,ULN,Delayed
+Male,38--79,Pulau Tioman Airport,MY,Malaysia,AS,Asia,2022-09--2022-12,TOD,Cancelled
+Male,38--79,Shanghai Hongqiao International Airport,CN,China,AS,Asia,2022-09--2022-12,SHA,Cancelled
+Male,38--79,Neyveli Airport,IN,India,AS,Asia,2022-09--2022-12,NVY,Cancelled
+Male,38--79,Maimana Airport,AF,Afghanistan,AS,Asia,2022-09--2022-12,MMZ,Delayed
+Male,38--79,Mondulkiri Airport,KH,Cambodia,AS,Asia,2022-09--2022-12,MWV,On Time
+Male,38--79,Tonghua Sanyuanpu Airport,CN,China,AS,Asia,2022-09--2022-12,TNH,On Time
+Male,38--79,Kota Airport,IN,India,AS,Asia,2022-09--2022-12,KTU,On Time
+Male,38--79,Sangir Airport,ID,Indonesia,AS,Asia,2022-09--2022-12,SAE,On Time
+Male,38--79,Kambuaya Airport,ID,Indonesia,AS,Asia,2022-09--2022-12,KBX,Cancelled
+Male,38--79,Vladivostok International Airport,RU,Russian Federation,AS,Asia,2022-09--2022-12,VVO,Cancelled
+Male,38--79,Nakhon Phanom Airport,TH,Thailand,AS,Asia,2022-09--2022-12,KOP,Delayed
+Male,38--79,Rafha Domestic Airport,SA,Saudi Arabia,AS,Asia,2022-09--2022-12,RAH,Delayed
+Male,38--79,Al Udeid Air Base,QA,Qatar,AS,Asia,2022-09--2022-12,XJD,On Time
+Male,38--79,Nanded Airport,IN,India,AS,Asia,2022-09--2022-12,NDC,Delayed
+Male,38--79,Thimarafushi Airport,MV,Maldives,AS,Asia,2022-09--2022-12,TMF,Delayed
+Male,38--79,Tho Xuan Airport,VN,Viet Nam,AS,Asia,2022-09--2022-12,THD,On Time
+Male,38--79,Bar Yehuda Airfield,IL,Israel,AS,Asia,2022-09--2022-12,MTZ,On Time
+Male,38--79,Lamerd Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-09--2022-12,LFM,On Time
+Male,38--79,Tribhuvan International Airport,NP,Nepal,AS,Asia,2022-09--2022-12,KTM,On Time
+Male,38--79,Ahmed Al Jaber Air Base,KW,Kuwait,AS,Asia,2022-09--2022-12,XIJ,Delayed
+Male,38--79,Mudanjiang Hailang International Airport,CN,China,AS,Asia,2022-09--2022-12,MDG,On Time
+Male,38--79,Rokot Airport,ID,Indonesia,AS,Asia,2022-09--2022-12,RKO,Cancelled
+Male,38--79,Akola Airport,IN,India,AS,Asia,2022-09--2022-12,AKD,On Time
+Male,38--79,Bhojpur Airport,NP,Nepal,AS,Asia,2022-09--2022-12,BHP,Delayed
+Male,38--79,Zonguldak Airport,TR,Turkey,AS,Asia,2022-09--2022-12,ONQ,Delayed
+Male,38--79,Yibin Caiba Airport,CN,China,AS,Asia,2022-09--2022-12,YBP,On Time
+Male,38--79,Al-Bough Airport,YE,Yemen,AS,Asia,2022-09--2022-12,BUK,Cancelled
+Male,38--79,Rebun Airport,JP,Japan,AS,Asia,2022-09--2022-12,RBJ,Cancelled
+Male,38--79,Lanzhou Zhongchuan Airport,CN,China,AS,Asia,2022-09--2022-12,LHW,Delayed
+Male,38--79,Erdenet Airport,MN,Mongolia,AS,Asia,2022-09--2022-12,ERT,On Time
+Male,38--79,Taba International Airport,EG,Egypt,AS,Asia,2022-09--2022-12,TCP,On Time
+Male,38--79,Gurayat Domestic Airport,SA,Saudi Arabia,AS,Asia,2022-09--2022-12,URY,Delayed
+Male,38--79,Tambolaka Airport,ID,Indonesia,AS,Asia,2022-09--2022-12,TMC,Delayed
+Male,38--79,Dandong Airport,CN,China,AS,Asia,2022-09--2022-12,DDG,On Time
+Male,38--79,Erzurum International Airport,TR,Turkey,AS,Asia,2022-09--2022-12,ERZ,On Time
+Male,38--79,Yeniseysk Airport,RU,Russian Federation,AS,Asia,2022-09--2022-12,EIE,Delayed
+Male,38--79,Rawalakot Airport,PK,Pakistan,AS,Asia,2022-09--2022-12,RAZ,On Time
+Male,38--79,Battambang Airport,KH,Cambodia,AS,Asia,2022-09--2022-12,BBM,On Time
+Male,38--79,Bandar Lengeh Airport,IR,"Iran, Islamic Republic of",AS,Asia,2022-09--2022-12,BDH,Cancelled
+Male,7--12,Trondheim Airport VÃ¦rnes,NO,Norway,EU,Europe,2022-01--2022-06,TRD,Delayed
+Male,7--12,Kemi-Tornio Airport,FI,Finland,EU,Europe,2022-01--2022-06,KEM,Cancelled
+Male,7--12,Alta Airport,NO,Norway,EU,Europe,2022-01--2022-06,ALF,Delayed
+Male,7--12,Kangaatsiaq Heliport,GL,Greenland,EU,Europe,2022-01--2022-06,QPW,Delayed
+Male,7--12,ZweibrÃ¼cken Airport,DE,Germany,EU,Europe,2022-01--2022-06,ZQW,Delayed
+Male,7--12,La Baule-Escoublac Airport,FR,France,EU,Europe,2022-01--2022-06,LBY,Delayed
+Male,7--12,AlmerÃ­a International Airport,ES,Spain,EU,Europe,2022-01--2022-06,LEI,On Time
+Male,7--12,Bantry Aerodrome,IE,Ireland,EU,Europe,2022-01--2022-06,BYT,On Time
+Male,7--12,Spichenkovo Airport,RU,Russian Federation,EU,Europe,2022-01--2022-06,NOZ,On Time
+Male,7--12,Grenoble-IsÃ¨re Airport,FR,France,EU,Europe,2022-01--2022-06,GNB,On Time
+Male,7--12,Cologne Bonn Airport,DE,Germany,EU,Europe,2022-01--2022-06,CGN,Cancelled
+Male,7--12,Westerland Sylt Airport,DE,Germany,EU,Europe,2022-01--2022-06,GWT,Delayed
+Male,7--12,Weeze Airport,DE,Germany,EU,Europe,2022-01--2022-06,NRN,On Time
+Male,7--12,Groennedal Heliport,GL,Greenland,EU,Europe,2022-01--2022-06,JGR,Cancelled
+Male,7--12,Leeds Bradford Airport,GB,United Kingdom,EU,Europe,2022-01--2022-06,LBA,Cancelled
+Male,7--12,Nantes Atlantique Airport,FR,France,EU,Europe,2022-01--2022-06,NTE,On Time
+Male,7--12,RAF Bentwaters,GB,United Kingdom,EU,Europe,2022-01--2022-06,BWY,Delayed
+Male,7--12,Tiree Airport,GB,United Kingdom,EU,Europe,2022-01--2022-06,TRE,Cancelled
+Male,7--12,Yoshkar-Ola Airport,RU,Russian Federation,EU,Europe,2022-01--2022-06,JOK,Cancelled
+Male,7--12,Augsburg Airport,DE,Germany,EU,Europe,2022-01--2022-06,AGB,On Time
+Male,7--12,RAF Wyton,GB,United Kingdom,EU,Europe,2022-01--2022-06,QUY,Cancelled
+Male,7--12,Mogilev Airport,BY,Belarus,EU,Europe,2022-01--2022-06,MVQ,Delayed
+Male,7--12,Lerwick / Tingwall Airport,GB,United Kingdom,EU,Europe,2022-01--2022-06,LWK,Cancelled
+Male,7--12,Taganrog Yuzhny Airport,RU,Russian Federation,EU,Europe,2022-01--2022-06,TGK,Delayed
+Male,7--12,Westerland Sylt Airport,DE,Germany,EU,Europe,2022-01--2022-06,GWT,Cancelled
+Male,7--12,Newcastle Airport,GB,United Kingdom,EU,Europe,2022-01--2022-06,NCL,On Time
+Male,7--12,Bardufoss Airport,NO,Norway,EU,Europe,2022-01--2022-06,BDU,On Time
+Male,7--12,Burg Feuerstein Airport,DE,Germany,EU,Europe,2022-01--2022-06,URD,Delayed
+Male,7--12,Lelystad Airport,NL,Netherlands,EU,Europe,2022-01--2022-06,LEY,Delayed
+Male,7--12,Deputatskiy Airport,RU,Russian Federation,EU,Europe,2022-01--2022-06,DPT,Cancelled
+Male,7--12,Rijeka Airport,HR,Croatia,EU,Europe,2022-01--2022-06,RJK,Cancelled
+Male,7--12,Cambridge Airport,GB,United Kingdom,EU,Europe,2022-01--2022-06,CBG,Cancelled
+Male,7--12,ChiÅEEinÄEEu International Airport,MD,"Moldova, Republic of",EU,Europe,2022-01--2022-06,KIV,Delayed
+Male,7--12,Namsos HÃ¸knesÃ¸ra Airport,NO,Norway,EU,Europe,2022-01--2022-06,OSY,Delayed
+Male,7--12,Narvik Framnes Airport,NO,Norway,EU,Europe,2022-01--2022-06,NVK,Delayed
+Male,7--12,Malta International Airport,MT,Malta,EU,Europe,2022-01--2022-06,MLA,Cancelled
+Male,7--12,Treviso-Sant'Angelo Airport,IT,Italy,EU,Europe,2022-01--2022-06,TSF,Cancelled
+Male,7--12,Vienna International Airport,AT,Austria,EU,Europe,2022-01--2022-06,VIE,Delayed
+Male,7--12,Reims-Champagne (BA 112) Air Base,FR,France,EU,Europe,2022-01--2022-06,RHE,On Time
+Male,7--12,Ivano-Frankivsk International Airport,UA,Ukraine,EU,Europe,2022-01--2022-06,IFO,Cancelled
+Male,7--12,Lahti Vesivehmaa Airport,FI,Finland,EU,Europe,2022-01--2022-06,QLF,Delayed
+Male,7--12,Jyvaskyla Airport,FI,Finland,EU,Europe,2022-01--2022-06,JYV,On Time
+Male,7--12,Lelystad Airport,NL,Netherlands,EU,Europe,2022-01--2022-06,LEY,Delayed
+Male,7--12,Vila Real Airport,PT,Portugal,EU,Europe,2022-01--2022-06,VRL,On Time
+Male,7--12,Humberto Delgado Airport (Lisbon Portela Airport),PT,Portugal,EU,Europe,2022-01--2022-06,LIS,Delayed
+Male,7--12,Modlin Airport,PL,Poland,EU,Europe,2022-01--2022-06,WMI,Delayed
+Male,7--12,"Mo i Rana Airport, RÃ¸ssvoll",NO,Norway,EU,Europe,2022-01--2022-06,MQN,Delayed
+Male,7--12,Sogndal Airport,NO,Norway,EU,Europe,2022-01--2022-06,SOG,Delayed
+Male,7--12,Ikamiut Heliport,GL,Greenland,EU,Europe,2022-01--2022-06,QJI,Delayed
+Male,7--12,Talakan Airport,RU,Russian Federation,EU,Europe,2022-01--2022-06,TLK,On Time
+Male,15--81,Belfast International Airport,GB,United Kingdom,EU,Europe,2022-06--2022-11,BFS,Cancelled
+Male,15--81,Lydd Airport,GB,United Kingdom,EU,Europe,2022-06--2022-11,LYX,Delayed
+Male,15--81,LuÄEEenec Airport,SK,Slovakia,EU,Europe,2022-06--2022-11,LUE,On Time
+Male,15--81,Burgos Airport,ES,Spain,EU,Europe,2022-06--2022-11,RGS,On Time
+Male,15--81,Rif Airport,IS,Iceland,EU,Europe,2022-06--2022-11,OLI,On Time
+Male,15--81,Kaunas International Airport,LT,Lithuania,EU,Europe,2022-06--2022-11,KUN,Cancelled
+Male,15--81,Federico Garcia Lorca Airport,ES,Spain,EU,Europe,2022-06--2022-11,GRX,Delayed
+Male,15--81,Simferopol International Airport,UA,Ukraine,EU,Europe,2022-06--2022-11,SIP,On Time
+Male,15--81,Leeuwarden Air Base,NL,Netherlands,EU,Europe,2022-06--2022-11,LWR,Cancelled
+Male,15--81,Latina Air Base,IT,Italy,EU,Europe,2022-06--2022-11,QLT,Cancelled
+Male,15--81,Clermont-Ferrand Auvergne Airport,FR,France,EU,Europe,2022-06--2022-11,CFE,On Time
+Male,15--81,RAF Wyton,GB,United Kingdom,EU,Europe,2022-06--2022-11,QUY,On Time
+Male,15--81,Magnitogorsk International Airport,RU,Russian Federation,EU,Europe,2022-06--2022-11,MQF,On Time
+Male,15--81,Reus Air Base,ES,Spain,EU,Europe,2022-06--2022-11,REU,Cancelled
+Male,15--81,Magan Airport,RU,Russian Federation,EU,Europe,2022-06--2022-11,GYG,Delayed
+Male,15--81,Blackbushe Airport,GB,United Kingdom,EU,Europe,2022-06--2022-11,BBS,Cancelled
+Male,15--81,Poprad-Tatry Airport,SK,Slovakia,EU,Europe,2022-06--2022-11,TAT,Cancelled
+Male,15--81,Silistra Polkovnik Lambrinovo Air Base,BG,Bulgaria,EU,Europe,2022-06--2022-11,SLS,On Time
+Male,15--81,Nottingham Airport,GB,United Kingdom,EU,Europe,2022-06--2022-11,NQT,Delayed
+Male,15--81,Castres-Mazamet Airport,FR,France,EU,Europe,2022-06--2022-11,DCM,Cancelled
+Male,15--81,Zhytomyr Airport,UA,Ukraine,EU,Europe,2022-06--2022-11,ZTR,Delayed
+Male,15--81,Torsby Airport,SE,Sweden,EU,Europe,2022-06--2022-11,TYF,Delayed
+Male,15--81,Provideniya Bay Airport,RU,Russian Federation,EU,Europe,2022-06--2022-11,PVS,On Time
+Male,15--81,KlaipÄEEda Airport,LT,Lithuania,EU,Europe,2022-06--2022-11,KLJ,Cancelled
+Male,15--81,Rochester Airport,GB,United Kingdom,EU,Europe,2022-06--2022-11,RCS,Delayed
+Male,15--81,Rochester Airport,GB,United Kingdom,EU,Europe,2022-06--2022-11,RCS,On Time
+Male,15--81,London Stansted Airport,GB,United Kingdom,EU,Europe,2022-06--2022-11,STN,Cancelled
+Male,15--81,Zadar Airport,HR,Croatia,EU,Europe,2022-06--2022-11,ZAD,Delayed
+Male,15--81,Mariupol International Airport,UA,Ukraine,EU,Europe,2022-06--2022-11,MPW,On Time
+Male,15--81,Arad International Airport,RO,Romania,EU,Europe,2022-06--2022-11,ARW,On Time
+Male,15--81,RAF Lyneham,GB,United Kingdom,EU,Europe,2022-06--2022-11,LYE,Cancelled
+Male,15--81,Beja Airport / Airbase,PT,Portugal,EU,Europe,2022-06--2022-11,BYJ,On Time
+Male,15--81,Madeira Airport,PT,Portugal,EU,Europe,2022-06--2022-11,FNC,On Time
+Male,15--81,Pau Pyrnes Airport,FR,France,EU,Europe,2022-06--2022-11,PUF,Cancelled
+Male,15--81,Rif Airport,IS,Iceland,EU,Europe,2022-06--2022-11,OLI,Delayed
+Male,15--81,Sarzana-Luni Air Base,IT,Italy,EU,Europe,2022-06--2022-11,QLP,Cancelled
+Male,15--81,Sarzana-Luni Air Base,IT,Italy,EU,Europe,2022-06--2022-11,QLP,Cancelled
+Male,15--81,Bristol Filton Airport,GB,United Kingdom,EU,Europe,2022-06--2022-11,FZO,Delayed
+Male,15--81,Valladolid Airport,ES,Spain,EU,Europe,2022-06--2022-11,VLL,Cancelled
+Male,15--81,Calais-Dunkerque Airport,FR,France,EU,Europe,2022-06--2022-11,CQF,Cancelled
+Male,15--81,Bergen Airport Flesland,NO,Norway,EU,Europe,2022-06--2022-11,BGO,Delayed
+Male,15--81,Geilenkirchen Air Base,DE,Germany,EU,Europe,2022-06--2022-11,GKE,Delayed
+Male,15--81,Limoges Airport,FR,France,EU,Europe,2022-06--2022-11,LIG,On Time
+Male,15--81,Pantelleria Airport,IT,Italy,EU,Europe,2022-06--2022-11,PNL,Delayed
+Male,15--81,ÃEEre ÃEEstersund Airport,SE,Sweden,EU,Europe,2022-06--2022-11,OSD,Cancelled
+Male,15--81,Kuressaare Airport,EE,Estonia,EU,Europe,2022-06--2022-11,URE,On Time
+Male,15--81,RAF Northolt,GB,United Kingdom,EU,Europe,2022-06--2022-11,NHT,On Time
+Male,15--81,Ciudad Real Central Airport,ES,Spain,EU,Europe,2022-06--2022-11,CQM,On Time
+Male,15--81,Grabtsevo Airport,RU,Russian Federation,EU,Europe,2022-06--2022-11,KLF,Delayed
+Male,15--81,Duxford Aerodrome,GB,United Kingdom,EU,Europe,2022-06--2022-11,QFO,Cancelled
+Male,15--81,Solovki Airport,RU,Russian Federation,EU,Europe,2022-06--2022-11,CSH,Delayed
+Male,15--81,Mende-Brenoux Airfield,FR,France,EU,Europe,2022-06--2022-11,MEN,Cancelled
+Male,15--81,Yedinka Airport,RU,Russian Federation,EU,Europe,2022-06--2022-11,EDN,Delayed
+Male,15--81,Visby Airport,SE,Sweden,EU,Europe,2022-06--2022-11,VBY,Delayed
+Male,15--81,Bergen Airport Flesland,NO,Norway,EU,Europe,2022-06--2022-11,BGO,Cancelled
+Male,15--81,Nalchik Airport,RU,Russian Federation,EU,Europe,2022-06--2022-11,NAL,Delayed
+Male,15--81,Kithira Airport,GR,Greece,EU,Europe,2022-06--2022-11,KIT,Delayed
+Male,15--81,BiaÅEEa Podlaska Airfield,PL,Poland,EU,Europe,2022-06--2022-11,BXP,On Time
+Male,15--81,Nogliki Airport,RU,Russian Federation,EU,Europe,2022-06--2022-11,NGK,On Time
+Male,15--81,La Baule-Escoublac Airport,FR,France,EU,Europe,2022-06--2022-11,LBY,On Time
+Male,15--81,Ust-Maya Airport,RU,Russian Federation,EU,Europe,2022-06--2022-11,UMS,Delayed
+Male,15--81,"Magdeburg ""City"" Airport",DE,Germany,EU,Europe,2022-06--2022-11,ZMG,Cancelled
+Male,15--81,Frjus Airport,FR,France,EU,Europe,2022-06--2022-11,FRJ,On Time
+Male,15--81,GdaÅEEsk Lech WaÅEEÄEEsa Airport,PL,Poland,EU,Europe,2022-06--2022-11,GDN,Delayed
+Male,15--81,FalconeEEEEBorsellino Airport,IT,Italy,EU,Europe,2022-06--2022-11,PMO,On Time
+Male,1--88,Chignik Lake Airport,US,United States,NAM,North America,2022-01--2022-02,KCQ,On Time
+Male,1--88,Shishmaref Airport,US,United States,NAM,North America,2022-01--2022-02,SHH,On Time
+Male,1--88,Palmas del Mar Airstrip,PR,Puerto Rico,NAM,North America,2022-01--2022-02,PPD,On Time
+Male,1--88,McCall Municipal Airport,US,United States,NAM,North America,2022-01--2022-02,MYL,Cancelled
+Male,1--88,Tahsis Seaplane Base,CA,Canada,NAM,North America,2022-01--2022-02,ZTS,Cancelled
+Male,1--88,Gray Army Air Field,US,United States,NAM,North America,2022-01--2022-02,GRF,Cancelled
+Male,1--88,Lethbridge County Airport,CA,Canada,NAM,North America,2022-01--2022-02,YQL,On Time
+Male,1--88,Hattiesburg Laurel Regional Airport,US,United States,NAM,North America,2022-01--2022-02,PIB,On Time
+Male,1--88,Lac La Biche Airport,CA,Canada,NAM,North America,2022-01--2022-02,YLB,On Time
+Male,1--88,Raleigh County Memorial Airport,US,United States,NAM,North America,2022-01--2022-02,BKW,Cancelled
+Male,1--88,Lemhi County Airport,US,United States,NAM,North America,2022-01--2022-02,SMN,Delayed
+Male,1--88,Houlton International Airport,US,United States,NAM,North America,2022-01--2022-02,HUL,Cancelled
+Male,1--88,Wiseman Airport,US,United States,NAM,North America,2022-01--2022-02,WSM,Delayed
+Male,1--88,Crane County Airport,US,United States,NAM,North America,2022-01--2022-02,CCG,On Time
+Male,1--88,Lihue Airport,US,United States,NAM,North America,2022-01--2022-02,LIH,On Time
+Male,1--88,Lihue Airport,US,United States,NAM,North America,2022-01--2022-02,LIH,On Time
+Male,1--88,Taloyoak Airport,CA,Canada,NAM,North America,2022-01--2022-02,YYH,Delayed
+Male,1--88,Pembroke Airport,CA,Canada,NAM,North America,2022-01--2022-02,YTA,Cancelled
+Male,1--88,Owatonna Degner Regional Airport,US,United States,NAM,North America,2022-01--2022-02,OWA,On Time
+Male,1--88,Victoria Harbour Seaplane Base,CA,Canada,NAM,North America,2022-01--2022-02,YWH,Delayed
+Male,1--88,Charlotte Amalie Harbor Seaplane Base,VI,"Virgin Islands, U.S.",NAM,North America,2022-01--2022-02,SPB,On Time
+Male,1--88,Warren County Memorial Airport,US,United States,NAM,North America,2022-01--2022-02,RNC,Delayed
+Male,1--88,Decatur HI-Way Airfield,US,United States,NAM,North America,2022-01--2022-02,DCR,Delayed
+Male,1--88,Greater Kankakee Airport,US,United States,NAM,North America,2022-01--2022-02,IKK,On Time
+Male,1--88,Jasper Airport,CA,Canada,NAM,North America,2022-01--2022-02,YJA,On Time
+Male,1--88,Fallon Municipal Airport,US,United States,NAM,North America,2022-01--2022-02,FLX,Delayed
+Male,1--88,Merrill Municipal Airport,US,United States,NAM,North America,2022-01--2022-02,RRL,Cancelled
+Male,1--88,Fort St John Airport,CA,Canada,NAM,North America,2022-01--2022-02,YXJ,On Time
+Male,1--88,Western Neb. Rgnl/William B. Heilig Airport,US,United States,NAM,North America,2022-01--2022-02,BFF,On Time
+Male,1--88,Augusto C. Sandino (Managua) International Airport,NI,Nicaragua,NAM,North America,2022-01--2022-02,MGA,Delayed
+Male,1--88,Jardines Del Rey Airport,CU,Cuba,NAM,North America,2022-01--2022-02,CCC,Cancelled
+Male,1--88,San Luis Valley Regional Bergman Field,US,United States,NAM,North America,2022-01--2022-02,ALS,Cancelled
+Male,1--88,Independence Municipal Airport,US,United States,NAM,North America,2022-01--2022-02,IDP,Cancelled
+Male,1--88,Friedman Memorial Airport,US,United States,NAM,North America,2022-01--2022-02,SUN,Delayed
+Male,1--88,Gillespie Field,US,United States,NAM,North America,2022-01--2022-02,SEE,On Time
+Male,1--88,La Tuque Airport,CA,Canada,NAM,North America,2022-01--2022-02,YLQ,Cancelled
+Male,1--88,Southwest Minnesota Regional Airport - Marshall/Ryan Field,US,United States,NAM,North America,2022-01--2022-02,MML,On Time
+Male,1--88,Crested Butte Airpark,US,United States,NAM,North America,2022-01--2022-02,CSE,Delayed
+Male,1--88,Bisbee Douglas International Airport,US,United States,NAM,North America,2022-01--2022-02,DUG,On Time
+Male,1--88,Fort Yukon Airport,US,United States,NAM,North America,2022-01--2022-02,FYU,Delayed
+Male,1--88,Williamsport Regional Airport,US,United States,NAM,North America,2022-01--2022-02,IPT,Cancelled
+Male,1--88,Alma Airport,CA,Canada,NAM,North America,2022-01--2022-02,YTF,Delayed
+Male,1--88,Danbury Municipal Airport,US,United States,NAM,North America,2022-01--2022-02,DXR,Cancelled
+Male,1--88,Nantucket Memorial Airport,US,United States,NAM,North America,2022-01--2022-02,ACK,Cancelled
+Male,1--88,Indiana County/Jimmy Stewart Fld/ Airport,US,United States,NAM,North America,2022-01--2022-02,IDI,On Time
+Male,1--88,Ruben Cantu Airport,PA,Panama,NAM,North America,2022-01--2022-02,SYP,Delayed
+Male,1--88,Bay City Municipal Airport,US,United States,NAM,North America,2022-01--2022-02,BBC,Cancelled
+Male,1--88,Stevens Village Airport,US,United States,NAM,North America,2022-01--2022-02,SVS,On Time
+Male,1--88,Ouzinkie Airport,US,United States,NAM,North America,2022-01--2022-02,KOZ,On Time
+Male,1--88,Payson Airport,US,United States,NAM,North America,2022-01--2022-02,PJB,Delayed
+Male,89--2,Montevideo Chippewa County Airport,US,United States,NAM,North America,2022-02--2022-05,MVE,On Time
+Male,89--2,Southwest Wyoming Regional Airport,US,United States,NAM,North America,2022-02--2022-05,RKS,Cancelled
+Male,89--2,Ogden Hinckley Airport,US,United States,NAM,North America,2022-02--2022-05,OGD,On Time
+Male,89--2,Southern Seaplane Airport,US,United States,NAM,North America,2022-02--2022-05,BCS,Cancelled
+Male,89--2,Manitoulin East Municipal Airport,CA,Canada,NAM,North America,2022-02--2022-05,YEM,Delayed
+Male,89--2,Southwest Florida International Airport,US,United States,NAM,North America,2022-02--2022-05,RSW,Cancelled
+Male,89--2,Sambu Airport,PA,Panama,NAM,North America,2022-02--2022-05,SAX,On Time
+Male,89--2,Grissom Air Reserve Base,US,United States,NAM,North America,2022-02--2022-05,GUS,Cancelled
+Male,89--2,John F Kennedy International Airport,US,United States,NAM,North America,2022-02--2022-05,JFK,Delayed
+Male,89--2,Memphis International Airport,US,United States,NAM,North America,2022-02--2022-05,MEM,Cancelled
+Male,89--2,Baudette International Airport,US,United States,NAM,North America,2022-02--2022-05,BDE,Cancelled
+Male,89--2,Renner Field-Goodland Municipal Airport,US,United States,NAM,North America,2022-02--2022-05,GLD,Cancelled
+Male,89--2,San Miguel Airport,PA,Panama,NAM,North America,2022-02--2022-05,NMG,Cancelled
+Male,89--2,Susanville Municipal Airport,US,United States,NAM,North America,2022-02--2022-05,SVE,On Time
+Male,89--2,Centralia Municipal Airport,US,United States,NAM,North America,2022-02--2022-05,ENL,Cancelled
+Male,89--2,Churchill Airport,CA,Canada,NAM,North America,2022-02--2022-05,YYQ,On Time
+Male,89--2,Montgomery-Gibbs Executive Airport,US,United States,NAM,North America,2022-02--2022-05,MYF,Cancelled
+Male,89--2,Gillette Campbell County Airport,US,United States,NAM,North America,2022-02--2022-05,GCC,Delayed
+Male,89--2,Stevens Village Airport,US,United States,NAM,North America,2022-02--2022-05,SVS,Cancelled
+Male,89--2,Cincinnati Municipal Airport Lunken Field,US,United States,NAM,North America,2022-02--2022-05,LUK,On Time
+Male,89--2,Travis Air Force Base,US,United States,NAM,North America,2022-02--2022-05,SUU,Delayed
+Male,89--2,Elkhart Municipal Airport,US,United States,NAM,North America,2022-02--2022-05,EKI,Cancelled
+Male,89--2,New York Skyports Inc Seaplane Base,US,United States,NAM,North America,2022-02--2022-05,QNY,Delayed
+Male,89--2,Vermilion Airport,CA,Canada,NAM,North America,2022-02--2022-05,YVG,On Time
+Male,89--2,Westerly State Airport,US,United States,NAM,North America,2022-02--2022-05,WST,Delayed
+Male,89--2,Coleman Municipal Airport,US,United States,NAM,North America,2022-02--2022-05,COM,On Time
+Male,89--2,Sparta Community Hunter Field,US,United States,NAM,North America,2022-02--2022-05,SAR,Delayed
+Male,89--2,Santa Barbara Municipal Airport,US,United States,NAM,North America,2022-02--2022-05,SBA,Delayed
+Male,89--2,Sanikiluaq Airport,CA,Canada,NAM,North America,2022-02--2022-05,YSK,On Time
+Male,89--2,Norwood Memorial Airport,US,United States,NAM,North America,2022-02--2022-05,OWD,On Time
+Male,89--2,Amos/Magny Airport,CA,Canada,NAM,North America,2022-02--2022-05,YEY,On Time
+Male,89--2,New Bedford Regional Airport,US,United States,NAM,North America,2022-02--2022-05,EWB,On Time
+Male,89--2,RoanokeEEEEBlacksburg Regional Airport,US,United States,NAM,North America,2022-02--2022-05,ROA,Delayed
+Male,89--2,Central Maine Airport of Norridgewock,US,United States,NAM,North America,2022-02--2022-05,OWK,Delayed
+Male,89--2,Cannon Air Force Base,US,United States,NAM,North America,2022-02--2022-05,CVS,Cancelled
+Male,89--2,Greater Cumberland Regional Airport,US,United States,NAM,North America,2022-02--2022-05,CBE,On Time
+Male,89--2,Stella Maris Airport,BS,Bahamas,NAM,North America,2022-02--2022-05,SML,Delayed
+Male,89--2,Bowman Field,US,United States,NAM,North America,2022-02--2022-05,LOU,Cancelled
+Male,89--2,Luis Munoz Marin International Airport,PR,Puerto Rico,NAM,North America,2022-02--2022-05,SJU,Cancelled
+Male,89--2,Ruston Regional Airport,US,United States,NAM,North America,2022-02--2022-05,RSN,Delayed
+Male,89--2,Sharp County Regional Airport,US,United States,NAM,North America,2022-02--2022-05,CKK,Cancelled
+Male,89--2,Duncan Town Airport,BS,Bahamas,NAM,North America,2022-02--2022-05,DCT,Cancelled
+Male,89--2,West Point Village Seaplane Base,US,United States,NAM,North America,2022-02--2022-05,KWP,On Time
+Male,89--2,Coban Airport,GT,Guatemala,NAM,North America,2022-02--2022-05,CBV,Cancelled
+Male,89--2,Bowman Field,US,United States,NAM,North America,2022-02--2022-05,LOU,Cancelled
+Male,89--2,Jacksonville Executive at Craig Airport,US,United States,NAM,North America,2022-02--2022-05,CRG,Delayed
+Male,89--2,Vista Field,US,United States,NAM,North America,2022-02--2022-05,VSK,Delayed
+Male,89--2,Anthony Municipal Airport,US,United States,NAM,North America,2022-02--2022-05,ANY,Cancelled
+Male,89--2,CFB Cold Lake,CA,Canada,NAM,North America,2022-02--2022-05,YOD,On Time
+Male,89--2,Lakeland-Noble F. Lee Memorial field,US,United States,NAM,North America,2022-02--2022-05,ARV,Cancelled
+Male,4--1,Southeast Iowa Regional Airport,US,United States,NAM,North America,2022-05--2022-07,BRL,On Time
+Male,4--1,Pincher Creek Airport,CA,Canada,NAM,North America,2022-05--2022-07,WPC,Cancelled
+Male,4--1,Cartwright Airport,CA,Canada,NAM,North America,2022-05--2022-07,YRF,Cancelled
+Male,4--1,Bismarck Municipal Airport,US,United States,NAM,North America,2022-05--2022-07,BIS,Delayed
+Male,4--1,Sawyer International Airport,US,United States,NAM,North America,2022-05--2022-07,MQT,Cancelled
+Male,4--1,The Pas Airport,CA,Canada,NAM,North America,2022-05--2022-07,YQD,On Time
+Male,4--1,Beaver County Airport,US,United States,NAM,North America,2022-05--2022-07,BFP,Delayed
+Male,4--1,Canefield Airport,DM,Dominica,NAM,North America,2022-05--2022-07,DCF,Delayed
+Male,4--1,Nuevo Casas Grandes Airport,MX,Mexico,NAM,North America,2022-05--2022-07,NCG,Cancelled
+Male,4--1,Seymour Johnson Air Force Base,US,United States,NAM,North America,2022-05--2022-07,GSB,Cancelled
+Male,4--1,Amedee Army Air Field,US,United States,NAM,North America,2022-05--2022-07,AHC,Cancelled
+Male,4--1,Grayling Airport,US,United States,NAM,North America,2022-05--2022-07,KGX,Cancelled
+Male,4--1,Port Williams Seaplane Base,US,United States,NAM,North America,2022-05--2022-07,KPR,Cancelled
+Male,4--1,Faro Airport,CA,Canada,NAM,North America,2022-05--2022-07,ZFA,On Time
+Male,4--1,Windsor Airport,CA,Canada,NAM,North America,2022-05--2022-07,YQG,Cancelled
+Male,4--1,Nellis Air Force Base,US,United States,NAM,North America,2022-05--2022-07,LSV,Delayed
+Male,4--1,Animas Air Park,US,United States,NAM,North America,2022-05--2022-07,AMK,Delayed
+Male,4--1,Cavern City Air Terminal,US,United States,NAM,North America,2022-05--2022-07,CNM,Delayed
+Male,4--1,Lynchburg Regional Preston Glenn Field,US,United States,NAM,North America,2022-05--2022-07,LYH,On Time
+Male,4--1,St Petersburg Clearwater International Airport,US,United States,NAM,North America,2022-05--2022-07,PIE,On Time
+Male,4--1,Denver International Airport,US,United States,NAM,North America,2022-05--2022-07,DEN,On Time
+Male,4--1,Manitouwadge Airport,CA,Canada,NAM,North America,2022-05--2022-07,YMG,Cancelled
+Male,4--1,Omar N Bradley Airport,US,United States,NAM,North America,2022-05--2022-07,MBY,Cancelled
+Male,4--1,Hunt Field,US,United States,NAM,North America,2022-05--2022-07,LND,Delayed
+Male,4--1,Duncan Town Airport,BS,Bahamas,NAM,North America,2022-05--2022-07,DCT,On Time
+Male,4--1,Valle Airport,US,United States,NAM,North America,2022-05--2022-07,VLE,Cancelled
+Male,4--1,El Petn Airport,GT,Guatemala,NAM,North America,2022-05--2022-07,TKM,On Time
+Male,4--1,Limon International Airport,CR,Costa Rica,NAM,North America,2022-05--2022-07,LIO,Cancelled
+Male,4--1,Wittman Regional Airport,US,United States,NAM,North America,2022-05--2022-07,OSH,Cancelled
+Male,4--1,Reading Regional Carl A Spaatz Field,US,United States,NAM,North America,2022-05--2022-07,RDG,Cancelled
+Male,4--1,Phoenix-Mesa-Gateway Airport,US,United States,NAM,North America,2022-05--2022-07,AZA,On Time
+Male,4--1,Palm Springs International Airport,US,United States,NAM,North America,2022-05--2022-07,PSP,Delayed
+Male,4--1,Gerrard Smith International Airport,KY,Cayman Islands,NAM,North America,2022-05--2022-07,CYB,Cancelled
+Male,4--1,Sierra Maestra Airport,CU,Cuba,NAM,North America,2022-05--2022-07,MZO,On Time
+Male,4--1,Skypark Airport,US,United States,NAM,North America,2022-05--2022-07,BTF,Delayed
+Male,4--1,Cincinnati Northern Kentucky International Airport,US,United States,NAM,North America,2022-05--2022-07,CVG,On Time
+Male,4--1,Wales Airport,US,United States,NAM,North America,2022-05--2022-07,WAA,On Time
+Male,4--1,Salt Cay Airport,TC,Turks and Caicos Islands,NAM,North America,2022-05--2022-07,SLX,On Time
+Male,4--1,Cincinnati Northern Kentucky International Airport,US,United States,NAM,North America,2022-05--2022-07,CVG,On Time
+Male,4--1,Mc Connell Air Force Base,US,United States,NAM,North America,2022-05--2022-07,IAB,Delayed
+Male,4--1,Rosita Airport,NI,Nicaragua,NAM,North America,2022-05--2022-07,RFS,On Time
+Male,4--1,Drift River Airport,US,United States,NAM,North America,2022-05--2022-07,DRF,Delayed
+Male,4--1,Vista Field,US,United States,NAM,North America,2022-05--2022-07,VSK,On Time
+Male,4--1,Gage Airport,US,United States,NAM,North America,2022-05--2022-07,GAG,On Time
+Male,4--1,Ocean Reef Club Airport,US,United States,NAM,North America,2022-05--2022-07,OCA,Delayed
+Male,4--1,Norman Manley International Airport,JM,Jamaica,NAM,North America,2022-05--2022-07,KIN,Cancelled
+Male,4--1,Arapahoe Municipal Airport,US,United States,NAM,North America,2022-05--2022-07,AHF,Delayed
+Male,4--1,Cortland County Chase Field,US,United States,NAM,North America,2022-05--2022-07,CTX,On Time
+Male,4--1,Portland International Airport,US,United States,NAM,North America,2022-05--2022-07,PDX,On Time
+Male,4--1,Martha's Vineyard Airport,US,United States,NAM,North America,2022-05--2022-07,MVY,Cancelled
+Male,2--79,Stewart International Airport,US,United States,NAM,North America,2022-07--2022-08,SWF,Cancelled
+Male,2--79,Chapleau Airport,CA,Canada,NAM,North America,2022-07--2022-08,YLD,Cancelled
+Male,2--79,Kenai Municipal Airport,US,United States,NAM,North America,2022-07--2022-08,ENA,Delayed
+Male,2--79,Patuxent River Naval Air Station (Trapnell Field),US,United States,NAM,North America,2022-07--2022-08,NHK,Delayed
+Male,2--79,CopÃ¡n Ruinas Airport,HN,Honduras,NAM,North America,2022-07--2022-08,RUY,On Time
+Male,2--79,Hughes Airport,US,United States,NAM,North America,2022-07--2022-08,CVR,On Time
+Male,2--79,Martindale Army Heliport,US,United States,NAM,North America,2022-07--2022-08,MDA,Cancelled
+Male,2--79,Drayton Valley Industrial Airport,CA,Canada,NAM,North America,2022-07--2022-08,YDC,Cancelled
+Male,2--79,Mercedita Airport,PR,Puerto Rico,NAM,North America,2022-07--2022-08,PSE,On Time
+Male,2--79,Mobile Regional Airport,US,United States,NAM,North America,2022-07--2022-08,MOB,Cancelled
+Male,2--79,Boone County Airport,US,United States,NAM,North America,2022-07--2022-08,HRO,Cancelled
+Male,2--79,Tokeen Seaplane Base,US,United States,NAM,North America,2022-07--2022-08,TKI,On Time
+Male,2--79,Powell Lake Seaplane Base,CA,Canada,NAM,North America,2022-07--2022-08,WPL,Delayed
+Male,2--79,Islita Airport,CR,Costa Rica,NAM,North America,2022-07--2022-08,PBP,Cancelled
+Male,2--79,Geraldton Greenstone Regional Airport,CA,Canada,NAM,North America,2022-07--2022-08,YGQ,Cancelled
+Male,2--79,Ocean City Municipal Airport,US,United States,NAM,North America,2022-07--2022-08,OCE,Cancelled
+Male,2--79,Dodge City Regional Airport,US,United States,NAM,North America,2022-07--2022-08,DDC,Cancelled
+Male,2--79,Willoughby Lost Nation Municipal Airport,US,United States,NAM,North America,2022-07--2022-08,LNN,On Time
+Male,2--79,Lackland Air Force Base,US,United States,NAM,North America,2022-07--2022-08,SKF,Delayed
+Male,2--79,Cross City Airport,US,United States,NAM,North America,2022-07--2022-08,CTY,Delayed
+Male,2--79,Campbell River Airport,CA,Canada,NAM,North America,2022-07--2022-08,YBL,Delayed
+Male,2--79,South Big Horn County Airport,US,United States,NAM,North America,2022-07--2022-08,GEY,Cancelled
+Male,2--79,Waldronaire Airport,US,United States,NAM,North America,2022-07--2022-08,WDN,Cancelled
+Male,2--79,Coffman Cove Seaplane Base,US,United States,NAM,North America,2022-07--2022-08,KCC,On Time
+Male,2--79,Maxwell Air Force Base,US,United States,NAM,North America,2022-07--2022-08,MXF,Cancelled
+Male,2--79,Greater Kankakee Airport,US,United States,NAM,North America,2022-07--2022-08,IKK,On Time
+Male,2--79,Bella Coola Airport,CA,Canada,NAM,North America,2022-07--2022-08,QBC,On Time
+Male,2--79,Northeast Alabama Regional Airport,US,United States,NAM,North America,2022-07--2022-08,GAD,Delayed
+Male,2--79,Hector Silva Airstrip,BZ,Belize,NAM,North America,2022-07--2022-08,BCV,Cancelled
+Male,2--79,John H Batten Airport,US,United States,NAM,North America,2022-07--2022-08,RAC,Cancelled
+Male,2--79,Blosser Municipal Airport,US,United States,NAM,North America,2022-07--2022-08,CNK,On Time
+Male,2--79,Jackpot Airport/Hayden Field,US,United States,NAM,North America,2022-07--2022-08,KPT,On Time
+Male,2--79,Minchumina Airport,US,United States,NAM,North America,2022-07--2022-08,LMA,Cancelled
+Male,2--79,L'Esprance Airport,MF,Saint Martin (French part),NAM,North America,2022-07--2022-08,SFG,Cancelled
+Male,2--79,Eaker Field,US,United States,NAM,North America,2022-07--2022-08,DUA,On Time
+Male,2--79,Akutan Seaplane Base,US,United States,NAM,North America,2022-07--2022-08,KQA,On Time
+Male,2--79,Mount Pleasant Municipal Airport,US,United States,NAM,North America,2022-07--2022-08,MPZ,Cancelled
+Male,2--79,Augusta State Airport,US,United States,NAM,North America,2022-07--2022-08,AUG,On Time
+Male,2--79,Wells Municipal Airport/Harriet Field,US,United States,NAM,North America,2022-07--2022-08,LWL,Cancelled
+Male,2--79,Doris Lake,CA,Canada,NAM,North America,2022-07--2022-08,JOJ,Delayed
+Male,2--79,Ottawa Macdonald-Cartier International Airport,CA,Canada,NAM,North America,2022-07--2022-08,YOW,Delayed
+Male,2--79,Bella Bella (Campbell Island) Airport,CA,Canada,NAM,North America,2022-07--2022-08,ZEL,On Time
+Male,2--79,Logan-Cache Airport,US,United States,NAM,North America,2022-07--2022-08,LGU,Delayed
+Male,2--79,Cartierville Airport,CA,Canada,NAM,North America,2022-07--2022-08,YCV,Cancelled
+Male,2--79,Clinton Regional Airport,US,United States,NAM,North America,2022-07--2022-08,CLK,Cancelled
+Male,2--79,Cache Creek-Ashcroft Regional Airport,CA,Canada,NAM,North America,2022-07--2022-08,YZA,Cancelled
+Male,2--79,Provo Municipal Airport,US,United States,NAM,North America,2022-07--2022-08,PVU,On Time
+Male,2--79,Grumman Bethpage Airport,US,United States,NAM,North America,2022-07--2022-08,BPA,On Time
+Male,2--79,Marcos A. Gelabert International Airport,PA,Panama,NAM,North America,2022-07--2022-08,PAC,Delayed
+Male,2--79,Bemidji Regional Airport,US,United States,NAM,North America,2022-07--2022-08,BJI,Cancelled
+Male,82--86,Vandenberg Air Force Base,US,United States,NAM,North America,2022-08--2022-12,VBG,Cancelled
+Male,82--86,Springfield Branson National Airport,US,United States,NAM,North America,2022-08--2022-12,SGF,Cancelled
+Male,82--86,Lowe AHP (Fort Rucker) Heliport,US,United States,NAM,North America,2022-08--2022-12,LOR,Cancelled
+Male,82--86,Mountain Village Airport,US,United States,NAM,North America,2022-08--2022-12,MOU,On Time
+Male,82--86,Moore County Airport,US,United States,NAM,North America,2022-08--2022-12,SOP,Delayed
+Male,82--86,Grand Junction Regional Airport,US,United States,NAM,North America,2022-08--2022-12,GJT,Delayed
+Male,82--86,Jefferson City Memorial Airport,US,United States,NAM,North America,2022-08--2022-12,JEF,Cancelled
+Male,82--86,Zachar Bay Seaplane Base,US,United States,NAM,North America,2022-08--2022-12,KZB,Delayed
+Male,82--86,Miramichi Airport,CA,Canada,NAM,North America,2022-08--2022-12,YCH,Cancelled
+Male,82--86,Mid Ohio Valley Regional Airport,US,United States,NAM,North America,2022-08--2022-12,PKB,On Time
+Male,82--86,PlayÃ³n Chico Airport,PA,Panama,NAM,North America,2022-08--2022-12,PYC,Cancelled
+Male,82--86,Northwest Florida Beaches International Airport,US,United States,NAM,North America,2022-08--2022-12,ECP,On Time
+Male,82--86,Naval Outlying Field Imperial Beach (Ream Field),US,United States,NAM,North America,2022-08--2022-12,NRS,On Time
+Male,82--86,Richards-Gebaur Air Force Base,US,United States,NAM,North America,2022-08--2022-12,GVW,Cancelled
+Male,82--86,Elkins-Randolph Co-Jennings Randolph Field,US,United States,NAM,North America,2022-08--2022-12,EKN,Cancelled
+Male,82--86,Hope Airport,CA,Canada,NAM,North America,2022-08--2022-12,YHE,On Time
+Male,82--86,Sulaco Airport,HN,Honduras,NAM,North America,2022-08--2022-12,SCD,Cancelled
+Male,82--86,Ivanof Bay Seaplane Base,US,United States,NAM,North America,2022-08--2022-12,KIB,Cancelled
+Male,82--86,Key Field,US,United States,NAM,North America,2022-08--2022-12,MEI,On Time
+Male,82--86,Saglek Airport,CA,Canada,NAM,North America,2022-08--2022-12,YSV,On Time
+Male,82--86,Vicksburg Municipal Airport,US,United States,NAM,North America,2022-08--2022-12,VKS,Cancelled
+Male,82--86,Cartierville Airport,CA,Canada,NAM,North America,2022-08--2022-12,YCV,Cancelled
+Male,82--86,Naval Station Mayport (Admiral David L. Mcdonald Field),US,United States,NAM,North America,2022-08--2022-12,NRB,Delayed
+Male,82--86,Central Illinois Regional Airport at Bloomington-Normal,US,United States,NAM,North America,2022-08--2022-12,BMI,On Time
+Male,82--86,Alberto Delgado Airport,CU,Cuba,NAM,North America,2022-08--2022-12,TND,Delayed
+Male,82--86,Prince Rupert Airport,CA,Canada,NAM,North America,2022-08--2022-12,YPR,Cancelled
+Male,82--86,Waterbury Oxford Airport,US,United States,NAM,North America,2022-08--2022-12,OXC,On Time
+Male,82--86,Coulter Field,US,United States,NAM,North America,2022-08--2022-12,CFD,Delayed
+Male,82--86,Tehachapi Municipal Airport,US,United States,NAM,North America,2022-08--2022-12,TSP,Delayed
+Male,82--86,Waycross Ware County Airport,US,United States,NAM,North America,2022-08--2022-12,AYS,Cancelled
+Male,82--86,Del BajÃ­o International Airport,MX,Mexico,NAM,North America,2022-08--2022-12,BJX,Cancelled
+Male,82--86,North Island Naval Air Station-Halsey Field,US,United States,NAM,North America,2022-08--2022-12,NZY,Cancelled
+Male,82--86,Digby / Annapolis Regional Airport,CA,Canada,NAM,North America,2022-08--2022-12,YDG,On Time
+Male,82--86,West Memphis Municipal Airport,US,United States,NAM,North America,2022-08--2022-12,AWM,Cancelled
+Male,82--86,Ross River Airport,CA,Canada,NAM,North America,2022-08--2022-12,XRR,Cancelled
+Male,82--86,Baie-Johan-Beetz Water Aerodrome,CA,Canada,NAM,North America,2022-08--2022-12,YBJ,Cancelled
+Male,82--86,Sept-ÃEEles Airport,CA,Canada,NAM,North America,2022-08--2022-12,YZV,On Time
+Male,82--86,Homer Airport,US,United States,NAM,North America,2022-08--2022-12,HOM,Cancelled
+Male,82--86,La Romaine Airport,CA,Canada,NAM,North America,2022-08--2022-12,ZGS,On Time
+Male,82--86,Abel Santamaria Airport,CU,Cuba,NAM,North America,2022-08--2022-12,SNU,Cancelled
+Male,82--86,Holy Cross Airport,US,United States,NAM,North America,2022-08--2022-12,HCR,On Time
+Male,82--86,Punta Colorada Airport,MX,Mexico,NAM,North America,2022-08--2022-12,PCO,On Time
+Male,82--86,L M Clayton Airport,US,United States,NAM,North America,2022-08--2022-12,OLF,Cancelled
+Male,82--86,Mulatupo Airport,PA,Panama,NAM,North America,2022-08--2022-12,MPP,Delayed
+Male,82--86,Acadiana Regional Airport,US,United States,NAM,North America,2022-08--2022-12,ARA,On Time
+Male,82--86,Kendall-Tamiami Executive Airport,US,United States,NAM,North America,2022-08--2022-12,TMB,Cancelled
+Male,82--86,Eugenio Maria De Hostos Airport,PR,Puerto Rico,NAM,North America,2022-08--2022-12,MAZ,Cancelled
+Male,82--86,Arapahoe Municipal Airport,US,United States,NAM,North America,2022-08--2022-12,AHF,On Time
+Male,82--86,Kneeland Airport,US,United States,NAM,North America,2022-08--2022-12,NLN,Delayed
+Male,82--86,Mesa Del Rey Airport,US,United States,NAM,North America,2022-08--2022-12,KIC,Cancelled
+Male,82--86,Springdale Municipal Airport,US,United States,NAM,North America,2022-08--2022-12,SPZ,Cancelled
+Male,82--86,Muskrat Dam Airport,CA,Canada,NAM,North America,2022-08--2022-12,MSA,Delayed
+Male,82--86,Chetumal International Airport,MX,Mexico,NAM,North America,2022-08--2022-12,CTM,Cancelled
+Male,82--86,Shuswap Regional Airport,CA,Canada,NAM,North America,2022-08--2022-12,YSN,On Time
+Male,82--86,Northern Aroostook Regional Airport,US,United States,NAM,North America,2022-08--2022-12,WFK,Delayed
+Male,82--86,Anderson Regional Airport,US,United States,NAM,North America,2022-08--2022-12,AND,On Time
+Male,82--86,Northeast Florida Regional Airport,US,United States,NAM,North America,2022-08--2022-12,UST,On Time
+Male,82--86,Tuluksak Airport,US,United States,NAM,North America,2022-08--2022-12,TLT,On Time
+Male,82--86,Los Chiles Airport,CR,Costa Rica,NAM,North America,2022-08--2022-12,LSL,Cancelled
+Male,82--86,Knee Lake Airport,CA,Canada,NAM,North America,2022-08--2022-12,YKE,Delayed
+Male,82--86,Inukjuak Airport,CA,Canada,NAM,North America,2022-08--2022-12,YPH,On Time
+Male,82--86,Quinhagak Airport,US,United States,NAM,North America,2022-08--2022-12,KWN,Delayed
+Male,82--86,Floyd Bennett Memorial Airport,US,United States,NAM,North America,2022-08--2022-12,GFL,Cancelled
+Male,82--86,Chiloquin State Airport,US,United States,NAM,North America,2022-08--2022-12,CHZ,Cancelled
+Male,82--86,Gerrard Smith International Airport,KY,Cayman Islands,NAM,North America,2022-08--2022-12,CYB,On Time
+Male,82--86,Greenwood County Airport,US,United States,NAM,North America,2022-08--2022-12,GRD,Delayed
+Male,82--86,Sumter Airport,US,United States,NAM,North America,2022-08--2022-12,SUM,Delayed
+Male,82--86,Prince George Airport,CA,Canada,NAM,North America,2022-08--2022-12,YXS,On Time
+Male,82--86,Ontario International Airport,US,United States,NAM,North America,2022-08--2022-12,ONT,Delayed
+Male,82--86,Elkhart Municipal Airport,US,United States,NAM,North America,2022-08--2022-12,EKI,Cancelled
+Male,82--86,Bob Hope Airport,US,United States,NAM,North America,2022-08--2022-12,BUR,On Time
+Male,82--86,Sarasota Bradenton International Airport,US,United States,NAM,North America,2022-08--2022-12,SRQ,Delayed
+Male,82--86,Loring Seaplane Base,US,United States,NAM,North America,2022-08--2022-12,WLR,On Time
+Male,82--86,Great Harbour Cay Airport,BS,Bahamas,NAM,North America,2022-08--2022-12,GHC,On Time
+Male,82--86,Berlin Regional Airport,US,United States,NAM,North America,2022-08--2022-12,BML,Cancelled
+Male,82--86,Eastern WV Regional Airport/Shepherd Field,US,United States,NAM,North America,2022-08--2022-12,MRB,On Time
+Male,82--86,Ruby Airport,US,United States,NAM,North America,2022-08--2022-12,RBY,On Time
+Male,82--86,Northeast Ohio Regional Airport,US,United States,NAM,North America,2022-08--2022-12,JFN,Delayed
+Male,82--86,Port Moller Airport,US,United States,NAM,North America,2022-08--2022-12,PML,Cancelled
+Male,82--86,San Carlos Apache Airport,US,United States,NAM,North America,2022-08--2022-12,GLB,Cancelled
+Male,82--86,Deer Harbor SPB,US,United States,NAM,North America,2022-08--2022-12,DHB,On Time
+Male,82--86,Deer Lake Airport,CA,Canada,NAM,North America,2022-08--2022-12,YDF,Delayed
+Male,82--86,Trent Lott International Airport,US,United States,NAM,North America,2022-08--2022-12,PGL,Delayed
+Male,82--86,Willows Glenn County Airport,US,United States,NAM,North America,2022-08--2022-12,WLW,Delayed
+Male,82--86,Minot Air Force Base,US,United States,NAM,North America,2022-08--2022-12,MIB,Cancelled
+Male,82--86,La Ronge Airport,CA,Canada,NAM,North America,2022-08--2022-12,YVC,Cancelled
+Male,82--86,Immokalee Regional Airport,US,United States,NAM,North America,2022-08--2022-12,IMM,Delayed
+Male,82--86,Kugluktuk Airport,CA,Canada,NAM,North America,2022-08--2022-12,YCO,On Time
+Male,82--86,Upala Airport,CR,Costa Rica,NAM,North America,2022-08--2022-12,UPL,Cancelled
+Male,82--86,Abel Santamaria Airport,CU,Cuba,NAM,North America,2022-08--2022-12,SNU,Cancelled
+Male,82--86,Show Low Regional Airport,US,United States,NAM,North America,2022-08--2022-12,SOW,Cancelled
+Male,3--39,Futuna Airport,VU,Vanuatu,OC,Oceania,2022-01--2022-05,FTA,Cancelled
+Male,3--39,Ihu Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,IHU,Delayed
+Male,3--39,Funafuti International Airport,TV,Tuvalu,OC,Oceania,2022-01--2022-05,FUN,Delayed
+Male,3--39,Sandstone Airport,AU,Australia,OC,Oceania,2022-01--2022-05,NDS,Delayed
+Male,3--39,Nyngan Airport,AU,Australia,OC,Oceania,2022-01--2022-05,NYN,On Time
+Male,3--39,Bellona/Anua Airport,SB,Solomon Islands,OC,Oceania,2022-01--2022-05,BNY,Delayed
+Male,3--39,Dorobisoro Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,DOO,Cancelled
+Male,3--39,Mejit Atoll Airport,MH,Marshall Islands,OC,Oceania,2022-01--2022-05,MJB,Delayed
+Male,3--39,Broken Hill Airport,AU,Australia,OC,Oceania,2022-01--2022-05,BHQ,On Time
+Male,3--39,Ogeranang Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,OGE,Cancelled
+Male,3--39,Coconut Island Airport,AU,Australia,OC,Oceania,2022-01--2022-05,CNC,Cancelled
+Male,3--39,Goulburn Airport,AU,Australia,OC,Oceania,2022-01--2022-05,GUL,Delayed
+Male,3--39,Viru Harbour Airstrip,SB,Solomon Islands,OC,Oceania,2022-01--2022-05,VIU,Delayed
+Male,3--39,Wawoi Falls Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,WAJ,Delayed
+Male,3--39,Timber Creek Airport,AU,Australia,OC,Oceania,2022-01--2022-05,TBK,On Time
+Male,3--39,Henderson Field,UM,United States Minor Outlying Islands,OC,Oceania,2022-01--2022-05,MDY,Cancelled
+Male,3--39,Angoram Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,AGG,Cancelled
+Male,3--39,Theda Station Airport,AU,Australia,OC,Oceania,2022-01--2022-05,TDN,Delayed
+Male,3--39,Wrotham Park Airport,AU,Australia,OC,Oceania,2022-01--2022-05,WPK,Cancelled
+Male,3--39,Mururoa Atoll Airport,PF,French Polynesia,OC,Oceania,2022-01--2022-05,UOA,On Time
+Male,3--39,Stawell Airport,AU,Australia,OC,Oceania,2022-01--2022-05,SWC,Cancelled
+Male,3--39,Kasonombe Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,KSB,On Time
+Male,3--39,Merimbula Airport,AU,Australia,OC,Oceania,2022-01--2022-05,MIM,Delayed
+Male,3--39,Tumolbil Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,TLP,Delayed
+Male,3--39,Nesson Airport,NC,New Caledonia,OC,Oceania,2022-01--2022-05,HLU,Cancelled
+Male,3--39,Hatzfeldhaven Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,HAZ,On Time
+Male,3--39,Groote Eylandt Airport,AU,Australia,OC,Oceania,2022-01--2022-05,GTE,On Time
+Male,3--39,Port Lincoln Airport,AU,Australia,OC,Oceania,2022-01--2022-05,PLO,On Time
+Male,3--39,Makini Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,MPG,Delayed
+Male,3--39,Moree Airport,AU,Australia,OC,Oceania,2022-01--2022-05,MRZ,On Time
+Male,3--39,Oombulgurri Airport,AU,Australia,OC,Oceania,2022-01--2022-05,FVR,Cancelled
+Male,3--39,Etadunna Airport,AU,Australia,OC,Oceania,2022-01--2022-05,ETD,On Time
+Male,3--39,Wellington International Airport,NZ,New Zealand,OC,Oceania,2022-01--2022-05,WLG,Cancelled
+Male,3--39,Porgera Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,RGE,On Time
+Male,3--39,Nambucca Heads Airport,AU,Australia,OC,Oceania,2022-01--2022-05,NBH,On Time
+Male,3--39,Wedau Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,WED,Delayed
+Male,3--39,Tikehau Airport,PF,French Polynesia,OC,Oceania,2022-01--2022-05,TIH,Delayed
+Male,3--39,Tinian International Airport,MP,Northern Mariana Islands,OC,Oceania,2022-01--2022-05,TIQ,On Time
+Male,3--39,Kaitaia Airport,NZ,New Zealand,OC,Oceania,2022-01--2022-05,KAT,Delayed
+Male,3--39,Nambaiyufa Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,NBA,Cancelled
+Male,3--39,Iffley Airport,AU,Australia,OC,Oceania,2022-01--2022-05,IFF,On Time
+Male,3--39,Georgetown Airport,AU,Australia,OC,Oceania,2022-01--2022-05,GTT,Cancelled
+Male,3--39,Anthony Lagoon Airport,AU,Australia,OC,Oceania,2022-01--2022-05,AYL,Delayed
+Male,3--39,Moro Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,MXH,Cancelled
+Male,3--39,Hatzfeldhaven Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,HAZ,Cancelled
+Male,3--39,Boolgeeda,AU,Australia,OC,Oceania,2022-01--2022-05,OCM,Cancelled
+Male,3--39,Cowell Airport,AU,Australia,OC,Oceania,2022-01--2022-05,CCW,Delayed
+Male,3--39,Kamusi Airport,PG,Papua New Guinea,OC,Oceania,2022-01--2022-05,KUY,Cancelled
+Male,3--39,Dalby Airport,AU,Australia,OC,Oceania,2022-01--2022-05,DBY,On Time
+Male,3--39,Abingdon Downs Airport,AU,Australia,OC,Oceania,2022-01--2022-05,ABG,On Time
+Male,3--39,Poum Airport,NC,New Caledonia,OC,Oceania,2022-01--2022-05,PUV,Cancelled
+Male,40--90,Tetiaroa Airport,PF,French Polynesia,OC,Oceania,2022-05--2022-12,TTI,Cancelled
+Male,40--90,Middlemount Airport,AU,Australia,OC,Oceania,2022-05--2022-12,MMM,Cancelled
+Male,40--90,Lightning Ridge Airport,AU,Australia,OC,Oceania,2022-05--2022-12,LHG,Cancelled
+Male,40--90,Windorah Airport,AU,Australia,OC,Oceania,2022-05--2022-12,WNR,Delayed
+Male,40--90,Helenvale Airport,AU,Australia,OC,Oceania,2022-05--2022-12,HLV,Delayed
+Male,40--90,Matei Airport,FJ,Fiji,OC,Oceania,2022-05--2022-12,TVU,On Time
+Male,40--90,Haivaro Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,HIT,On Time
+Male,40--90,Gora Airstrip,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,GOC,On Time
+Male,40--90,Yap International Airport,FM,"Micronesia, Federated States of",OC,Oceania,2022-05--2022-12,YAP,Cancelled
+Male,40--90,Tekadu Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,TKB,On Time
+Male,40--90,New Plymouth Airport,NZ,New Zealand,OC,Oceania,2022-05--2022-12,NPL,Cancelled
+Male,40--90,Doomadgee Airport,AU,Australia,OC,Oceania,2022-05--2022-12,DMD,Cancelled
+Male,40--90,Biliau Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,BIJ,Cancelled
+Male,40--90,Swan Hill Airport,AU,Australia,OC,Oceania,2022-05--2022-12,SWH,Cancelled
+Male,40--90,Telfer Airport,AU,Australia,OC,Oceania,2022-05--2022-12,TEF,Cancelled
+Male,40--90,Windorah Airport,AU,Australia,OC,Oceania,2022-05--2022-12,WNR,Delayed
+Male,40--90,Kavieng Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,KVG,On Time
+Male,40--90,Tapini Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,TPI,Cancelled
+Male,40--90,McArthur River Mine Airport,AU,Australia,OC,Oceania,2022-05--2022-12,MCV,Cancelled
+Male,40--90,Avalon Airport,AU,Australia,OC,Oceania,2022-05--2022-12,AVV,Delayed
+Male,40--90,Abemama Atoll Airport,KI,Kiribati,OC,Oceania,2022-05--2022-12,AEA,On Time
+Male,40--90,Windarra Airport,AU,Australia,OC,Oceania,2022-05--2022-12,WND,Cancelled
+Male,40--90,Hawke's Bay Airport,NZ,New Zealand,OC,Oceania,2022-05--2022-12,NPE,Cancelled
+Male,40--90,Banz Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,BNZ,Delayed
+Male,40--90,Kaufana Airport,TO,Tonga,OC,Oceania,2022-05--2022-12,EUA,On Time
+Male,40--90,Mildura Airport,AU,Australia,OC,Oceania,2022-05--2022-12,MQL,Cancelled
+Male,40--90,Shaw River Airport,AU,Australia,OC,Oceania,2022-05--2022-12,SWB,Delayed
+Male,40--90,Kaitaia Airport,NZ,New Zealand,OC,Oceania,2022-05--2022-12,KAT,Delayed
+Male,40--90,Aurukun Airport,AU,Australia,OC,Oceania,2022-05--2022-12,AUU,On Time
+Male,40--90,St George Airport,AU,Australia,OC,Oceania,2022-05--2022-12,SGO,Delayed
+Male,40--90,Norfolk Island International Airport,NF,Norfolk Island,OC,Oceania,2022-05--2022-12,NLK,On Time
+Male,40--90,Talasea Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,TLW,On Time
+Male,40--90,Buin Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,UBI,On Time
+Male,40--90,Mungeranie Airport,AU,Australia,OC,Oceania,2022-05--2022-12,MNE,Delayed
+Male,40--90,Avu Avu Airport,SB,Solomon Islands,OC,Oceania,2022-05--2022-12,AVU,Delayed
+Male,40--90,Omora Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,OSE,On Time
+Male,40--90,Hope Vale Airport,AU,Australia,OC,Oceania,2022-05--2022-12,HPE,Cancelled
+Male,40--90,Wasu Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,WSU,On Time
+Male,40--90,Nullabor Motel Airport,AU,Australia,OC,Oceania,2022-05--2022-12,NUR,Cancelled
+Male,40--90,Likiep Airport,MH,Marshall Islands,OC,Oceania,2022-05--2022-12,LIK,On Time
+Male,40--90,Buka Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,BUA,Cancelled
+Male,40--90,Wellington International Airport,NZ,New Zealand,OC,Oceania,2022-05--2022-12,WLG,Cancelled
+Male,40--90,Picton Aerodrome,NZ,New Zealand,OC,Oceania,2022-05--2022-12,PCN,Cancelled
+Male,40--90,Solomon Airport,AU,Australia,OC,Oceania,2022-05--2022-12,SLJ,Cancelled
+Male,40--90,Bimin Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,BIZ,On Time
+Male,40--90,Leinster Airport,AU,Australia,OC,Oceania,2022-05--2022-12,LER,Delayed
+Male,40--90,Etadunna Airport,AU,Australia,OC,Oceania,2022-05--2022-12,ETD,Cancelled
+Male,40--90,South Goulburn Is Airport,AU,Australia,OC,Oceania,2022-05--2022-12,GBL,Delayed
+Male,40--90,Satwag Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,SWG,Delayed
+Male,40--90,Aneityum Airport,VU,Vanuatu,OC,Oceania,2022-05--2022-12,AUY,Cancelled
+Male,40--90,Stanthorpe Airport,AU,Australia,OC,Oceania,2022-05--2022-12,SNH,Delayed
+Male,40--90,Futuna Airport,VU,Vanuatu,OC,Oceania,2022-05--2022-12,FTA,Cancelled
+Male,40--90,Nambaiyufa Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,NBA,Delayed
+Male,40--90,Woomera Airfield,AU,Australia,OC,Oceania,2022-05--2022-12,UMR,Cancelled
+Male,40--90,Hope Vale Airport,AU,Australia,OC,Oceania,2022-05--2022-12,HPE,On Time
+Male,40--90,Tumolbil Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,TLP,Cancelled
+Male,40--90,Boolgeeda,AU,Australia,OC,Oceania,2022-05--2022-12,OCM,On Time
+Male,40--90,Mullewa Airport,AU,Australia,OC,Oceania,2022-05--2022-12,MXU,Delayed
+Male,40--90,Woodbourne Airport,NZ,New Zealand,OC,Oceania,2022-05--2022-12,BHE,Cancelled
+Male,40--90,Majkin Airport,MH,Marshall Islands,OC,Oceania,2022-05--2022-12,MJE,Delayed
+Male,40--90,Suabi Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,SBE,On Time
+Male,40--90,Buka Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,BUA,Delayed
+Male,40--90,Peppimenarti Airport,AU,Australia,OC,Oceania,2022-05--2022-12,PEP,Delayed
+Male,40--90,Tocumwal Airport,AU,Australia,OC,Oceania,2022-05--2022-12,TCW,Cancelled
+Male,40--90,Delissaville Airport,AU,Australia,OC,Oceania,2022-05--2022-12,DLV,Cancelled
+Male,40--90,Mal Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,MMV,Delayed
+Male,40--90,Long Island Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,LSJ,Cancelled
+Male,40--90,Cue Airport,AU,Australia,OC,Oceania,2022-05--2022-12,CUY,Cancelled
+Male,40--90,Whitsunday Island Airport,AU,Australia,OC,Oceania,2022-05--2022-12,WSY,On Time
+Male,40--90,Honiara International Airport,SB,Solomon Islands,OC,Oceania,2022-05--2022-12,HIR,Cancelled
+Male,40--90,Maitland Airport,AU,Australia,OC,Oceania,2022-05--2022-12,MTL,Delayed
+Male,40--90,Haivaro Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,HIT,Delayed
+Male,40--90,Bewani Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,BWP,On Time
+Male,40--90,Mount Isa Airport,AU,Australia,OC,Oceania,2022-05--2022-12,ISA,Delayed
+Male,40--90,Long Island Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,LSJ,Cancelled
+Male,40--90,Paiela Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,PLE,Delayed
+Male,40--90,Diamantina Lakes Airport,AU,Australia,OC,Oceania,2022-05--2022-12,DYM,Delayed
+Male,40--90,Nadzab Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,LAE,Delayed
+Male,40--90,Gove Airport,AU,Australia,OC,Oceania,2022-05--2022-12,GOV,Cancelled
+Male,40--90,Melbourne Essendon Airport,AU,Australia,OC,Oceania,2022-05--2022-12,MEB,On Time
+Male,40--90,Honinabi Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,HNN,Cancelled
+Male,40--90,Busselton Regional Airport,AU,Australia,OC,Oceania,2022-05--2022-12,BQB,On Time
+Male,40--90,Kerikeri Airport,NZ,New Zealand,OC,Oceania,2022-05--2022-12,KKE,Cancelled
+Male,40--90,Siwo Airport,VU,Vanuatu,OC,Oceania,2022-05--2022-12,EAE,Delayed
+Male,40--90,Noonkanbah Airport,AU,Australia,OC,Oceania,2022-05--2022-12,NKB,On Time
+Male,40--90,Learmonth Airport,AU,Australia,OC,Oceania,2022-05--2022-12,LEA,Delayed
+Male,40--90,Moki Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,MJJ,Cancelled
+Male,40--90,South Molle Island Helipad,AU,Australia,OC,Oceania,2022-05--2022-12,SOI,Delayed
+Male,40--90,Lamen Bay Airport,VU,Vanuatu,OC,Oceania,2022-05--2022-12,LNB,Cancelled
+Male,40--90,Auvergne Airport,AU,Australia,OC,Oceania,2022-05--2022-12,AVG,On Time
+Male,40--90,Kerema Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,KMA,On Time
+Male,40--90,Minlaton Airport,AU,Australia,OC,Oceania,2022-05--2022-12,XML,On Time
+Male,40--90,Kagi Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,KGW,Cancelled
+Male,40--90,Sissano Airport,PG,Papua New Guinea,OC,Oceania,2022-05--2022-12,SIZ,On Time
+Male,40--90,Margaret River (Station) Airport,AU,Australia,OC,Oceania,2022-05--2022-12,MGV,On Time
+Male,40--90,Sandstone Airport,AU,Australia,OC,Oceania,2022-05--2022-12,NDS,Cancelled
+Male,3--69,Rio Mayo Airport,AR,Argentina,SAM,South America,2022-01--2022-11,ROY,Cancelled
+Male,3--69,Rocha Airport,UY,Uruguay,SAM,South America,2022-01--2022-11,RCH,Delayed
+Male,3--69,Iaciara Airport,BR,Brazil,SAM,South America,2022-01--2022-11,0,Delayed
+Male,3--69,Ubatuba Airport,BR,Brazil,SAM,South America,2022-01--2022-11,UBT,Delayed
+Male,3--69,Mayor PNP Nancy Flores Paucar Airport,PE,Peru,SAM,South America,2022-01--2022-11,MZA,Delayed
+Male,3--69,ItuberÃ¡ Airport,BR,Brazil,SAM,South America,2022-01--2022-11,ITE,Cancelled
+Male,3--69,Fazenda Vassoural Airport,BR,Brazil,SAM,South America,2022-01--2022-11,0,Delayed
+Male,3--69,Urrao Airport,CO,Colombia,SAM,South America,2022-01--2022-11,URR,Cancelled
+Male,3--69,Dourados Airport,BR,Brazil,SAM,South America,2022-01--2022-11,DOU,Delayed
+Male,3--69,Jos Leonardo Chirinos Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-11,CZE,Delayed
+Male,3--69,Ten. Cel. Aviador Csar Bombonato Airport,BR,Brazil,SAM,South America,2022-01--2022-11,UDI,Delayed
+Male,3--69,Lethem Airport,GY,Guyana,SAM,South America,2022-01--2022-11,LTM,Delayed
+Male,3--69,Araraquara Airport,BR,Brazil,SAM,South America,2022-01--2022-11,AQA,On Time
+Male,3--69,El Dorado International Airport,CO,Colombia,SAM,South America,2022-01--2022-11,BOG,On Time
+Male,3--69,Dourados Airport,BR,Brazil,SAM,South America,2022-01--2022-11,DOU,On Time
+Male,3--69,Jorge ChÃ¡vez International Airport,PE,Peru,SAM,South America,2022-01--2022-11,LIM,Delayed
+Male,3--69,Bermejo Airport,BO,"Bolivia, Plurinational State of",SAM,South America,2022-01--2022-11,BJO,Delayed
+Male,3--69,Arapiraca Airport,BR,Brazil,SAM,South America,2022-01--2022-11,APQ,Delayed
+Male,3--69,Romeu Zema Airport,BR,Brazil,SAM,South America,2022-01--2022-11,AAX,On Time
+Male,3--69,Bella Union Airport,UY,Uruguay,SAM,South America,2022-01--2022-11,BUV,Cancelled
+Male,3--69,Maestro Wilson Fonseca Airport,BR,Brazil,SAM,South America,2022-01--2022-11,STM,Cancelled
+Male,3--69,Juan Casiano Airport,CO,Colombia,SAM,South America,2022-01--2022-11,GPI,On Time
+Male,3--69,Tumeremo Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-11,TMO,Cancelled
+Male,3--69,Viracopos International Airport,BR,Brazil,SAM,South America,2022-01--2022-11,VCP,On Time
+Male,3--69,Vila Bela da SantÃ­ssima Trindade Airport,BR,Brazil,SAM,South America,2022-01--2022-11,MTG,Cancelled
+Male,3--69,Skeldon Airport,GY,Guyana,SAM,South America,2022-01--2022-11,SKM,Cancelled
+Male,3--69,OriximinÃ¡ Airport,BR,Brazil,SAM,South America,2022-01--2022-11,ORX,Cancelled
+Male,3--69,Helmuth Baungarten Airport,BR,Brazil,SAM,South America,2022-01--2022-11,LOI,On Time
+Male,3--69,Robor Airport,BO,"Bolivia, Plurinational State of",SAM,South America,2022-01--2022-11,RBO,Cancelled
+Male,3--69,Gamboa Airport,CL,Chile,SAM,South America,2022-01--2022-11,WCA,Cancelled
+Male,3--69,Limeira Airport,BR,Brazil,SAM,South America,2022-01--2022-11,QGB,Delayed
+Male,3--69,Zorg en Hoop Airport,SR,Suriname,SAM,South America,2022-01--2022-11,ORG,Cancelled
+Male,3--69,Bartica A Airport,GY,Guyana,SAM,South America,2022-01--2022-11,GFO,Cancelled
+Male,3--69,Barriles Airport,CL,Chile,SAM,South America,2022-01--2022-11,TOQ,Cancelled
+Male,3--69,Palmarito Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-11,PTM,Delayed
+Male,3--69,Ministro Victor Konder International Airport,BR,Brazil,SAM,South America,2022-01--2022-11,NVT,On Time
+Male,3--69,Higuerote Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-11,HGE,On Time
+Male,3--69,ParanaguÃ¡ Airport,BR,Brazil,SAM,South America,2022-01--2022-11,PNG,Delayed
+Male,3--69,El Encanto Airport,CO,Colombia,SAM,South America,2022-01--2022-11,ECO,On Time
+Male,3--69,Fuerte Olimpo Airport,PY,Paraguay,SAM,South America,2022-01--2022-11,OLK,Delayed
+Male,3--69,San Juan De Uraba Airport,CO,Colombia,SAM,South America,2022-01--2022-11,SJR,Cancelled
+Male,3--69,La Guaira Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-11,LAG,On Time
+Male,3--69,Fazenda ConstÃ¢ncia Airport,BR,Brazil,SAM,South America,2022-01--2022-11,0,Delayed
+Male,3--69,Regional de MaringÃ¡ - SÃ­lvio Nane Junior Airport,BR,Brazil,SAM,South America,2022-01--2022-11,MGF,On Time
+Male,3--69,PlÃ¡cido de Castro Airport,BR,Brazil,SAM,South America,2022-01--2022-11,RBR,Delayed
+Male,3--69,28 de Noviembre Airport,AR,Argentina,SAM,South America,2022-01--2022-11,RYO,Delayed
+Male,3--69,Limeira Airport,BR,Brazil,SAM,South America,2022-01--2022-11,QGB,Cancelled
+Male,3--69,Cabo Frio Airport,BR,Brazil,SAM,South America,2022-01--2022-11,CFB,On Time
+Male,3--69,Orocue Airport,CO,Colombia,SAM,South America,2022-01--2022-11,ORC,Cancelled
+Male,3--69,Capitan FAP Carlos Martinez De Pinillos International Airport,PE,Peru,SAM,South America,2022-01--2022-11,TRU,Cancelled
+Male,3--69,Xinguara Municipal Airport,BR,Brazil,SAM,South America,2022-01--2022-11,XIG,Cancelled
+Male,3--69,Barra do GarÃ§as Airport,BR,Brazil,SAM,South America,2022-01--2022-11,BPG,Delayed
+Male,3--69,Baures Airport,BO,"Bolivia, Plurinational State of",SAM,South America,2022-01--2022-11,BVL,On Time
+Male,3--69,AntÃ´nio Guerreiro Airport,BR,Brazil,SAM,South America,2022-01--2022-11,GMS,On Time
+Male,3--69,Monte Carmelo Airport,BR,Brazil,SAM,South America,2022-01--2022-11,0,On Time
+Male,3--69,CapurganÃ¡ Airport,CO,Colombia,SAM,South America,2022-01--2022-11,CPB,Cancelled
+Male,3--69,Carimagua Airport,CO,Colombia,SAM,South America,2022-01--2022-11,CCO,Cancelled
+Male,3--69,Islas Malvinas Airport,AR,Argentina,SAM,South America,2022-01--2022-11,ROS,Delayed
+Male,3--69,CoveÃ±as Airport,CO,Colombia,SAM,South America,2022-01--2022-11,CVE,On Time
+Male,3--69,Gerardo Tobar LÃ³pez Airport,CO,Colombia,SAM,South America,2022-01--2022-11,BUN,On Time
+Male,3--69,Tte. Julio Gallardo Airport,CL,Chile,SAM,South America,2022-01--2022-11,PNT,Cancelled
+Male,3--69,Maus Airport,BR,Brazil,SAM,South America,2022-01--2022-11,MBZ,On Time
+Male,3--69,Valcheta Airport,AR,Argentina,SAM,South America,2022-01--2022-11,VCF,On Time
+Male,3--69,Nueva Loja Airport,EC,Ecuador,SAM,South America,2022-01--2022-11,LGQ,Delayed
+Male,3--69,Taisha Airport,EC,Ecuador,SAM,South America,2022-01--2022-11,TSC,On Time
+Male,3--69,El Alto International Airport,BO,"Bolivia, Plurinational State of",SAM,South America,2022-01--2022-11,LPB,Delayed
+Male,3--69,Los Roques Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-11,LRV,Delayed
+Male,3--69,Ceres Airport,BR,Brazil,SAM,South America,2022-01--2022-11,0,On Time
+Male,3--69,Monteagudo Airport,BO,"Bolivia, Plurinational State of",SAM,South America,2022-01--2022-11,MHW,Delayed
+Male,3--69,ChachoÃ¡n Airport,EC,Ecuador,SAM,South America,2022-01--2022-11,ATF,Cancelled
+Male,3--69,Andrs Miguel Salazar Marcano Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,2022-01--2022-11,ICC,Cancelled
+Male,3--69,Nueva Loja Airport,EC,Ecuador,SAM,South America,2022-01--2022-11,LGQ,Cancelled
+Male,3--69,OrÃ¡n Airport,AR,Argentina,SAM,South America,2022-01--2022-11,ORA,On Time
+Male,3--69,Victoria Airport,CL,Chile,SAM,South America,2022-01--2022-11,ZIC,Cancelled

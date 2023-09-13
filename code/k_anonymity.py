@@ -89,7 +89,14 @@ class Anonymization:
                     last_generalized_start_date = start_date
                     last_generalized_start_age = start_age
                     prev_count = count
-
+                    # Calculate utility loss based on the difference in months
+                    start_month = int(str(start_date).split('-')[1])
+                    end_month = int(str(end_date).split('-')[1])
+                    age_difference = end_age - start_age
+                    utility_loss += age_difference/1700 * 0.0001
+                    month_difference = end_month - start_month
+                    utility_loss += month_difference/1700 * 0.001
+                    self.utility_value -= utility_loss
                 else:
                     new_dates.extend([subset_groups.iloc[i]['Departure Date']] * subset_groups.iloc[i]['count'])
                     new_ages.extend([str(subset_groups.iloc[i]['Age'])] * subset_groups.iloc[i]['count'])
@@ -101,12 +108,7 @@ class Anonymization:
         # Directly assign the new_dates and new_ages lists to the respective columns.
         self.anonymized_data['Departure Date'] = new_dates
         self.anonymized_data['Age'] = new_ages
-        # Calculate utility loss based on the difference in months
-        start_month = int(str(start_date).split('-')[1])
-        end_month = int(str(end_date).split('-')[1])
-        month_difference = end_month - start_month
-        utility_loss += month_difference * 0.001
-        self.utility_value -= utility_loss
+        
 
 
     def anonymize(self, k):
