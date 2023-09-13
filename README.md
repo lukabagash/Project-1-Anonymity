@@ -60,7 +60,9 @@ The utility scores for different k-values will be printed to the console.
 
 The anonymized datasets and their corresponding utility scores can be found in the `data`/ directory. You can use these datasets for further analysis while considering the trade-off between privacy (k-anonymity) and utility.
 
-# Acknowledgments
+## Acknowledgments
+Luka Bagash
+Haris Iqbal
 
 
 
