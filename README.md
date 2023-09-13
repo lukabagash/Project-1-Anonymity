@@ -17,7 +17,7 @@ git clone https://github.com/lukabagash/Project-1-Anonymity.git
 cd Project-1-Anonymity
 ```
 
-Install the required Python libraries:
+2. Install the required Python libraries:
 
 ```bash 
 pip install pandas
