@@ -90,7 +90,6 @@ class Anonymization:
                     last_generalized_start_age = start_age
                     prev_count = count
 
-                    utility_loss += count * 0.0001
                 else:
                     new_dates.extend([subset_groups.iloc[i]['Departure Date']] * subset_groups.iloc[i]['count'])
                     new_ages.extend([str(subset_groups.iloc[i]['Age'])] * subset_groups.iloc[i]['count'])
@@ -102,6 +101,11 @@ class Anonymization:
         # Directly assign the new_dates and new_ages lists to the respective columns.
         self.anonymized_data['Departure Date'] = new_dates
         self.anonymized_data['Age'] = new_ages
+        # Calculate utility loss based on the difference in months
+        start_month = int(str(start_date).split('-')[1])
+        end_month = int(str(end_date).split('-')[1])
+        month_difference = end_month - start_month
+        utility_loss += month_difference * 0.001
         self.utility_value -= utility_loss
 
 
@@ -126,9 +130,7 @@ class Anonymization:
         # If there are groups that don't meet the k-anonymity requirement, apply Level 2 Generalization
         if not insufficient_groups.empty:
             self.generalize_level_2(k)
-        
-        g = self.anonymized_data.groupby(['Gender', 'Airport Continent', 'Departure Date', 'Age'])
-        print(g.filter(lambda x: len(x) < k))
+
 
 
     def save_to_csv(self, filename):
