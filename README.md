@@ -25,11 +25,11 @@ pip install pandas
 
 ## Usage
 
-# 1. Data Preparation
+### 1. Data Preparation
 
-Before you can start anonymizing the flight data, you need to obtain the dataset. You can download the dataset from [insert link to your dataset source]. Place the dataset in the `data`/ directory. 
+Before you can start anonymizing the flight data, you need to obtain the dataset. You can download the dataset from (https://github.com/lukabagash/Project-1-Anonymity/blob/main/data/Flight_DataSet.csv). Place the dataset in the `data`/ directory. 
 
-# 2. Running the Anonymization Code
+### 2. Running the Anonymization Code
 
 To anonymize the flight data for different k-values (e.g., 2, 5, 50), follow these steps:
 
@@ -47,7 +47,7 @@ python k_anonymity.py
 
 The script will perform k-anonymization for the specified k-values and save the anonymized datasets in the `data`/ directory with filenames like `anonymized_data_k_2.csv`, `anonymized_data_k_5.csv`, etc.
 
-# 3. Measuring Utility
+### 3. Measuring Utility
 
 To measure the utility of the anonymized datasets, you can run the following command:
 ```bash
@@ -60,7 +60,7 @@ The utility scores for different k-values will be printed to the console.
 
 The anonymized datasets and their corresponding utility scores can be found in the `data`/ directory. You can use these datasets for further analysis while considering the trade-off between privacy (k-anonymity) and utility.
 
-Acknowledgments
+# Acknowledgments
 
 
 
