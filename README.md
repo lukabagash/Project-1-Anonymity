@@ -27,7 +27,7 @@ pip install pandas
 
 ### 1. Data Preparation
 
-Before you can start anonymizing the flight data, you need to obtain the dataset. You can download the dataset from [here] (https://github.com/lukabagash/Project-1-Anonymity/blob/main/data/Flight_DataSet.csv). Place the dataset in the `data`/ directory. 
+Before you can start anonymizing the flight data, you need to obtain the dataset. You can download the dataset from [here](https://github.com/lukabagash/Project-1-Anonymity/blob/main/data/Flight_DataSet.csv). Place the dataset in the `data`/ directory. 
 
 ### 2. Running the Anonymization Code
 
